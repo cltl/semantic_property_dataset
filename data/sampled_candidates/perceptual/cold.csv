@@ -1,0 +1,133 @@
+label,categories_str,sources_str,certainty,cosine_centroid,manual_coarse_grained,space_selection,qumcrae_label,word,lemma,wiki_frequency,word_in_wn?,word_noun_in_wn?,word_noun_spacy?,n_navigli_clusters,n_onto_senses_n_v,n_wn_senses,min_wn_sim_wup,av_sim_wup,polysemy_type,mipvu,wn_abs_conc,filter,conc,fam,aoa
+neg,is_hot is_cold is_hot is_cold,cslb manually_included,certain,0.2919219525,-,True,-,tea,tea,41766,True,True,True,3,0,5,0.1,0.2978814683768244,poly,non-met,abs-conc,True,609,572,
+neg,is_hot is_cold is_hot is_cold,cslb manually_included,certain,0.3134435031,-,True,-,soup,soup,12179,True,True,True,2,0,4,0.13333333333333333,0.26666666666666666,poly,,abs-conc,True,615,576,
+neg,neg,manually_included,certain,0.3024341577,-,True,-,heating,heating,22413,True,True,True,1,0,6,0.2222222222222222,0.2573696145124717,mon,non-met,conc,True,,,
+neg,hot hot,conceptnet manually_included,certain,0.2342492379,-,True,-,fire,fire,324750,True,True,True,8,18,18,0.1,0.26704184976243783,homonyms_only_different_pos,met non-met,abs-conc,True,595,580,
+neg,neg_met,manually_included,certain,0.2707975064,-,True,-,happiness,happiness,17035,True,True,True,0,0,2,0.7142857142857143,0.7142857142857143,mon,,abs,True,295,581,333
+neg,neg_met,manually_included,certain,0.24832409,-,True,-,love,love,358782,True,True,True,4,13,10,0.13333333333333333,0.2595325309611023,homonyms_only_different_pos,non-met,abs-conc,True,311,619,303
+neg,hot,conceptnet,not_certain,0.3098610155,-,True,-,fireplaces,fireplace,2349,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg,is_hot,cslb,not_certain,0.2643770121,-,True,-,toaster,toaster,903,True,True,True,1,0,2,0.36363636363636365,0.36363636363636365,mon,,conc,True,579,520,
+neg,is_hot,cslb,not_certain,0.3276412668,-,True,-,oven,oven,5535,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,593,577,236
+neg,hot,conceptnet,not_certain,0.341541776,-,True,-,lava,lava,15425,True,True,True,0,0,1,1.0,1.0,poly,,abs,True,,,
+neg,is_hot hot,cslb conceptnet,not_certain,0.3117322595,-,True,-,stove,stove,4198,True,True,True,1,0,4,0.16666666666666666,0.3214285714285714,homonyms_only_different_pos,,conc,True,591,525,297
+neg,hot,conceptnet,not_certain,0.3619801007,-,True,-,summertime,summertime,2838,True,True,True,0,0,1,1.0,1.0,mon,,abs,True,,,
+neg,hot,conceptnet,not_certain,0.2295074379,-,True,-,lightning,lightning,25437,True,True,True,1,0,2,0.625,0.625,poly,non-met,abs,True,525,465,331
+neg,hot,conceptnet,not_certain,0.3050524055,-,True,-,flame,flame,16929,True,True,True,2,4,4,0.14285714285714285,0.1865079365079365,homonyms_only_different_pos,non-met,conc,True,582,551,261
+neg,is_hot,cslb,not_certain,0.2427522467,-,True,-,bath,bath,34659,True,True,True,2,0,7,0.1,0.2699621603027176,homonyms_only_different_pos,non-met,abs-conc-n,True,600,599,172
+neg,is_hot hot,cslb conceptnet,not_certain,0.2982660797,-,True,-,coffee,coffee,42783,True,True,True,2,0,4,0.1,0.20505050505050507,poly,non-met,abs-conc,True,613,625,292
+neg,hot,conceptnet,not_certain,0.2582519772,-,True,-,steam,steam,71855,True,True,True,4,6,7,0.2222222222222222,0.2642857142857143,homonyms_only_different_pos,met non-met,abs,True,552,545,308
+neg,hot,conceptnet,not_certain,0.2075270073,3,True,-,jungles,jungle,2128,True,True,True,1,0,3,0.16666666666666666,0.25396825396825395,poly,non-met,abs-conc,True,,,
+neg,is_hot,cslb,not_certain,0.2313401047,-,True,-,pie,pie,11835,True,True,True,1,0,2,0.13333333333333333,0.13333333333333333,poly,non-met,abs-conc,True,613,576,
+neg,is_hot,cslb,not_certain,0.3010830411,-,True,-,kettle,kettle,4052,True,True,True,1,0,4,0.125,0.28495475113122176,poly,,abs-conc,True,602,551,274
+neg,is_hot,cslb,not_certain,0.3310148926,-,True,-,candle,candle,5981,True,True,True,2,0,3,0.10526315789473684,0.10526315789473684,poly,non-met,abs-conc,True,565,544,
+neg,is_hot,cslb,not_certain,0.2644607288,-,True,-,mug,mug,1390,True,True,True,3,0,5,0.125,0.22725215817321084,homonyms_only_different_pos,,abs-conc,True,576,527,
+pos,cold cold,conceptnet manually_included,certain,0.4424993537,-,True,-,water,water,586090,True,True,True,6,12,10,0.18181818181818182,0.349777490025168,homonyms_only_different_pos,non-met,abs-conc,True,616,641,153
+pos,pos,manually_included,certain,0.4856791804,-,True,-,snow,snow,61455,True,True,True,4,3,6,0.18181818181818182,0.26613324755739615,homonyms_only_different_pos,met non-met,conc-n,True,618,615,
+pos,pos_met,manually_included,certain,0.36568634,-,True,-,atmosphere,atmosphere,41970,True,True,True,2,0,6,0.125,0.23059995559995555,poly,met non-met,abs-conc,True,385,540,517
+pos,pos_met,manually_included,certain,0.219289386,2,True,-,hatred,hatred,11277,True,True,True,0,0,1,1.0,1.0,mon,,abs,True,239,544,
+pos,cold,conceptnet,not_certain,0.4032771562,-,True,-,vinyl,vinyl,29592,True,True,True,2,0,2,0.3333333333333333,0.3333333333333333,mon,non-met,conc,True,,,
+pos,cold,conceptnet,not_certain,0.3882639592,-,True,-,toes,toe,5979,True,True,True,4,0,9,0.18181818181818182,0.32662441724941726,homonyms_only_different_pos,non-met,conc,True,,,
+pos,cold,conceptnet,not_certain,0.1877839263,2,True,-,people,people,1124171,True,True,True,3,7,6,0.2222222222222222,0.550976800976801,homonyms_only_different_pos,non-met,abs,True,540,628,281
+pos,cold,conceptnet,not_certain,0.3079293519,-,True,-,space,space,322609,True,True,True,4,9,10,0.125,0.3778448403448404,homonyms_only_different_pos,met non-met,abs-conc,True,381,576,319
+pos,is_cold,cslb,not_certain,0.4518022575,-,True,-,lemonade,lemonade,1602,True,True,True,0,0,1,1.0,1.0,poly,non-met,abs,True,615,522,
+pos,cold,conceptnet,not_certain,0.5326570342,,True,-,icicles,icicle,233,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,cold,conceptnet,not_certain,0.3459628853,-,True,-,moon,moon,75421,True,True,True,3,0,9,0.1111111111111111,0.3189659512027933,poly,non-met,abs-conc-n,True,581,585,
+pos,cold,conceptnet,not_certain,0.2945006303,-,True,-,tile,tile,9920,True,True,True,1,0,4,0.5555555555555556,0.5787037037037037,homonyms_only_different_pos,,conc,True,,,
+pos,cold,conceptnet,not_certain,0.4937975297,-,True,-,ice,ice,172988,True,True,True,4,3,11,0.18181818181818182,0.34117859189005834,homonyms_only_different_pos,non-met,conc,True,621,564,261
+pos,is_cold,cslb,not_certain,0.4032390945,-,True,-,fridge,fridge,976,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,,,
+pos,is_cold,cslb,not_certain,0.4137598335,-,True,-,beer,beer,40202,True,True,True,0,1,1,1.0,1.0,poly,non-met,abs,True,587,604,
+pos,is_cold,mcrae,not_certain,0.3671964798,-,True,pos-is_cold-most,basement,basement,26654,True,True,True,2,0,2,0.7058823529411765,0.7058823529411765,mon,,conc,True,585,522,
+pos,cold,conceptnet,not_certain,0.3968178441,-,True,-,winter,winter,174503,True,True,True,0,1,2,None,,homonyms_only_different_pos,non-met,abs,True,499,615,236
+pos,cold,conceptnet,not_certain,0.2978348008,-,True,-,river,river,810697,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,585,565,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3635307002,-,True,-,nose,nose,28886,True,True,True,4,8,14,0.10526315789473684,0.2461568725032617,homonyms_only_different_pos,met non-met,abs-conc,True,628,584,206
+pos,cold,conceptnet,not_certain,0.384061782,-,True,-,noses,nose,1741,True,True,True,4,8,14,0.10526315789473684,0.2461568725032617,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3471443322,-,True,-,surface,surface,183235,True,True,True,5,4,10,0.10526315789473684,0.3037180001705285,homonyms_only_different_pos,met non-met,abs-conc,True,447,573,378
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4085304832,-,True,-,cans,can,5281,True,True,True,4,5,8,0.11764705882352941,0.26523255135387486,homonyms_only_different_pos,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3711479618,-,True,-,freezer,freezer,1453,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4075331247,-,True,-,cream,cream,29383,True,True,True,6,7,8,0.125,0.23260073260073255,homonyms_only_different_pos,non-met,abs-conc,True,621,514,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3671944231,-,True,-,smoke,smoke,27545,True,True,True,4,15,10,0.1111111111111111,0.24208203128615213,homonyms_only_different_pos,non-met,abs-conc,True,541,596,228
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3749313028,-,True,-,sundaes,sundae,122,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3494782588,-,True,-,snowfalls,snowfall,692,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3808486692,-,True,-,snowfall,snowfall,5574,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3549996015,-,True,-,boots,boot,14607,True,True,True,5,20,9,0.08695652173913043,0.24106151907214085,homonyms_also_same_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3608192697,-,True,-,fresheners,freshener,118,True,True,True,0,0,1,1.0,1.0,,,n,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.355567343,-,True,-,skin,skin,65548,True,True,True,5,4,10,0.125,0.3402260904361745,homonyms_only_different_pos,met non-met,abs-conc,True,614,591,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3635307002,-,True,-,nose,nose,28886,True,True,True,4,8,14,0.10526315789473684,0.2461568725032617,homonyms_only_different_pos,met non-met,abs-conc,True,628,584,206
+pos,cold,conceptnet,not_certain,0.384061782,-,True,-,noses,nose,1741,True,True,True,4,8,14,0.10526315789473684,0.2461568725032617,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3516751099,-,True,-,topcoat,topcoat,116,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.373590781,-,True,-,slime,slime,2173,True,True,True,0,0,2,None,,poly,,conc,True,545,426,408
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3648570177,-,True,-,fingers,finger,15705,True,True,True,3,5,7,0.13333333333333333,0.2553791887125221,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3498871281,-,True,-,cakes,cake,4849,True,True,True,2,5,4,0.26666666666666666,0.3174603174603175,homonyms_only_different_pos,met non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.351603513,-,True,-,cake,cake,13460,True,True,True,2,5,4,0.26666666666666666,0.3174603174603175,homonyms_only_different_pos,met non-met,conc,True,624,594,214
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3728348277,-,True,-,caked,cake,123,True,True,False,2,5,4,0.26666666666666666,0.3174603174603175,homonyms_only_different_pos,met non-met,conc,False,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3566654394,-,True,-,dust,dust,25440,True,True,True,3,6,7,0.2222222222222222,0.4190839298682436,homonyms_only_different_pos,met non-met,abs,True,550,558,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3650768348,-,True,-,snowfields,snowfield,207,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3544543367,-,True,-,forepaws,forepaw,112,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3515571038,-,True,-,shoes,shoe,21972,True,True,True,2,0,5,0.5263157894736842,0.5937392500859993,homonyms_only_different_pos,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3476248455,-,True,-,iceberg,iceberg,2181,True,True,True,1,0,2,0.25,0.25,mon,,conc,True,,406,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3711031256,-,True,-,icebergs,iceberg,732,True,True,True,1,0,2,0.25,0.25,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3517858102,-,True,-,eggshells,eggshell,310,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3619145106,-,True,-,spray,spray,9281,True,True,True,3,3,9,0.1,0.2876593717408991,homonyms_also_same_pos,non-met,abs-conc,True,514,521,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.381653878,-,True,-,rocks,rock,52788,True,True,True,5,4,9,0.09090909090909091,0.24425096395614265,homonyms_also_same_pos,non-met,abs-conc-n,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3671204358,-,True,-,snowdrifts,snowdrift,125,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3613033464,-,True,-,dew,dew,4088,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,578,427,331
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.347540028,-,True,-,tummy,tummy,255,True,True,True,1,0,2,0.5555555555555556,0.5555555555555556,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3717769524,-,True,-,juice,juice,12735,True,True,True,1,0,4,0.1111111111111111,0.23332944288826643,homonyms_only_different_pos,non-met,abs-conc,True,599,567,250
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3559283153,-,True,-,mud,mud,21337,True,True,True,2,0,4,0.2222222222222222,0.22875816993464052,poly,non-met,abs,True,605,519,239
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3513421943,-,True,-,chocolate,chocolate,19564,True,True,True,1,0,3,0.13333333333333333,0.2723646723646724,homonyms_only_different_pos,non-met,abs-conc,True,576,560,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3984259496,-,True,-,bottle,bottle,18995,True,True,True,3,3,5,0.13333333333333333,0.34444444444444444,homonyms_only_different_pos,non-met,abs-conc,True,591,591,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4127117761,-,True,-,bottles,bottle,11800,True,True,True,3,3,5,0.13333333333333333,0.34444444444444444,homonyms_only_different_pos,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3802158422,-,True,-,quesadillas,quesadilla,124,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3628368122,-,True,-,udders,udder,114,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3542027823,-,True,-,berries,berry,5586,True,True,True,1,0,4,0.3333333333333333,0.5127674258109041,poly,non-met,conc-n,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3515265199,-,True,-,balloons,balloon,6121,True,True,True,4,4,4,0.14285714285714285,0.33458646616541354,homonyms_only_different_pos,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3473893036,-,True,-,candy,candy,16606,True,True,True,0,0,2,None,,homonyms_only_different_pos,,conc,True,602,559,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3929712741,-,True,-,foam,foam,7225,True,True,True,1,0,3,0.23529411764705882,0.23529411764705882,homonyms_only_different_pos,non-met,abs,True,577,462,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3736466619,-,True,-,cirrocumulus,cirrocumulus,106,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3630116492,-,True,-,tortillas,tortilla,684,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3833389081,-,True,-,permafrost,permafrost,1478,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3520104866,-,True,-,sky,sky,68976,True,True,True,0,1,2,None,,homonyms_only_different_pos,non-met,conc,True,542,607,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3544118545,-,True,-,dogwoods,dogwood,124,True,True,True,1,0,2,0.2,0.2,mon,,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.347537202,-,True,-,iliamna,iliamna,136,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3747694347,-,True,-,spiciness,spiciness,137,True,True,True,0,0,2,0.42857142857142855,0.42857142857142855,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3487048273,-,True,-,puddle,puddle,1464,True,True,True,4,3,12,0.16666666666666666,0.21572430418584262,homonyms_only_different_pos,non-met,conc,True,604,521,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3502596863,-,True,-,pillows,pillow,1284,True,True,True,0,0,2,None,,homonyms_only_different_pos,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4065728022,-,True,-,lips,lip,9324,True,True,True,2,0,5,0.1111111111111111,0.20164332399626517,poly,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3836608136,-,True,-,clouds,cloud,15405,True,True,True,6,5,14,0.125,0.2567255741674345,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3466795827,-,True,-,milk,milk,42123,True,True,True,2,4,7,0.2,0.41507936507936516,homonyms_only_different_pos,non-met,abs-conc-n,True,670,588,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3561631922,-,True,-,shelves,shelf,4288,True,True,True,2,5,2,0.375,0.375,poly,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3708158936,-,True,-,rain,rain,58210,True,True,True,1,0,4,0.1111111111111111,0.1851851851851852,homonyms_only_different_pos,non-met,abs-conc,True,600,604,211
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3477224418,-,True,-,snowbank,snowbank,137,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3778889251,-,True,-,forefeet,forefoot,155,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3545754851,-,True,-,casseroles,casserole,163,True,True,True,1,0,2,0.23529411764705882,0.23529411764705882,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3505886752,-,True,-,mentzelia,mentzelia,105,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3605483293,-,True,-,glasses,glass,9788,True,True,True,5,7,12,0.09523809523809523,0.28231416339163223,poly,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3761773295,-,True,-,glass,glass,102855,True,True,True,5,7,12,0.09523809523809523,0.28231416339163223,poly,non-met,abs-conc,True,635,611,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3819394677,-,True,-,boulders,boulder,4473,True,True,True,1,0,2,0.35294117647058826,0.35294117647058826,mon,non-met,conc-n,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3724535789,-,True,-,sunlight,sunlight,10841,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,515,523,289
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3470121081,-,True,-,bubbles,bubble,6508,True,True,True,2,5,9,0.11764705882352941,0.28071864710796596,homonyms_only_different_pos,met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3555970363,-,True,-,pavement,pavement,6182,True,True,True,1,0,3,0.5555555555555556,0.6296296296296297,poly,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3794655514,-,True,-,drinks,drink,15257,True,True,True,4,11,10,0.1111111111111111,0.22533664434980225,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3851513724,-,True,-,drink,drink,33994,True,True,False,4,11,10,0.1111111111111111,0.22533664434980225,homonyms_only_different_pos,met non-met,abs-conc,False,549,628,211
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3586058768,-,True,-,hair,hair,67185,True,True,True,3,0,6,0.14285714285714285,0.32979853479853477,poly,non-met,abs-conc,True,583,575,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3644529988,-,True,-,pomade,pomade,109,True,True,True,0,0,2,None,,homonyms_only_different_pos,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3565534689,-,True,-,dolls,doll,12843,True,True,True,1,0,2,0.4444444444444444,0.4444444444444444,poly,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3514495334,-,True,-,toilet,toilet,10036,True,True,True,2,0,4,0.10526315789473684,0.21157980736154114,poly,non-met,abs-conc,True,586,567,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3494978588,-,True,-,atole,atole,150,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3602712367,-,True,-,cheesecloth,cheesecloth,113,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3502034098,-,True,-,cracks,crack,6608,True,True,True,10,24,24,0.10526315789473684,0.2445748984222138,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3495636895,-,True,-,soda,soda,7315,True,True,True,2,0,2,0.4,0.4,poly,non-met,abs,True,600,536,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3824007699,-,True,-,sawdust,sawdust,1064,True,True,True,0,0,1,1.0,1.0,mon,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3558963524,-,True,-,feet,foot,125562,True,True,True,7,17,14,0.09523809523809523,0.2139291695339521,homonyms_only_different_pos,met non-met,abs-conc,True,642,611,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3559241154,-,True,-,curds,curd,363,True,True,True,1,0,2,0.8,0.8,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3521151266,-,True,-,grates,grate,451,True,True,True,4,5,8,0.11764705882352941,0.2705470999588647,homonyms_only_different_pos,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3484279888,-,True,-,perithecia,perithecia,146,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3713834862,-,True,-,popsicle,popsicle,278,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.387977442,-,True,-,popsicles,popsicle,101,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3614100877,-,True,-,seabeds,seabed,102,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3556444848,-,True,-,bentwood,bentwood,102,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3644446464,-,True,-,bathtub,bathtub,2078,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3625738617,-,True,-,growlers,growler,185,True,True,True,2,0,2,0.375,0.375,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3609705937,-,True,-,teliospores,teliospore,120,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3645783479,-,True,-,sniffles,sniffle,127,True,True,True,1,0,3,0.25,0.25,homonyms_only_different_pos,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3539447873,-,True,-,vapor,vapor,7797,True,True,True,1,0,2,0.3076923076923077,0.3076923076923077,,,abs-conc,True,,,

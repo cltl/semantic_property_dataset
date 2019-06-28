@@ -1,0 +1,12 @@
+sky
+aircraft
+airplane
+arrow
+helicopter
+machine
+wing
+air_terminal
+balloon
+helium_balloon
+plane
+wings

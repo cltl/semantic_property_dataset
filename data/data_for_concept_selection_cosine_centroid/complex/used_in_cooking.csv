@@ -1,0 +1,384 @@
+concept,label,categories_str,sources_str,certainty,cosine_centroid
+upset,neg,tool,wn_hypernym,not_certain,0.0947879187372882
+saw,neg,tool,wn_hypernym,not_certain,0.10256550044520346
+scribe,neg,tool,wn_hypernym,not_certain,0.1025974321161186
+muller,neg,tool,wn_hypernym,not_certain,0.11648590585738988
+drove,pos,tool cutlery,wn_hypernym,not_certain,0.12855791225630495
+buffer,neg,tool,wn_hypernym,not_certain,0.13261970439762472
+graver,neg,tool,wn_hypernym,not_certain,0.14627466080271811
+grapple,neg,tool,wn_hypernym,not_certain,0.15296080468962667
+tamper,neg,tool,wn_hypernym,not_certain,0.155670868304993
+bender,neg,tool,wn_hypernym,not_certain,0.16183225653503508
+square,neg,tool,wn_hypernym,not_certain,0.16597369175714274
+sander,neg,tool,wn_hypernym,not_certain,0.16703507262333017
+scuffle,neg,tool,wn_hypernym,not_certain,0.16901353979987657
+bill,neg,tool,wn_hypernym,not_certain,0.17133440357600777
+ram,neg,tool,wn_hypernym,not_certain,0.17146745989625026
+opener,neg,tool,wn_hypernym,not_certain,0.17749831950521783
+file,neg,tool,wn_hypernym,not_certain,0.17871142390759825
+stamp,neg,tool,wn_hypernym,not_certain,0.18097909158378378
+lister,neg,tool,wn_hypernym,not_certain,0.18378099824850017
+dibble,neg,tool,wn_hypernym,not_certain,0.18564205439129566
+clincher,neg,tool,wn_hypernym,not_certain,0.18964856854612133
+style,neg,tool,wn_hypernym,not_certain,0.19178523581630227
+die,pos,tool cutlery,wn_hypernym,not_certain,0.19186604693484763
+gang,neg,tool,wn_hypernym,not_certain,0.19245494806411803
+stamper,neg,tool,wn_hypernym,not_certain,0.19380061016256128
+starter,neg,tool,wn_hypernym,not_certain,0.19396269327951576
+bur,neg,tool,wn_hypernym,not_certain,0.19741911607161622
+heckle,neg,tool,wn_hypernym,not_certain,0.2051283001384427
+gavel,neg,tool,wn_hypernym,not_certain,0.20674272671319263
+canary,neg,neg,manually_included,certain,0.20904073557701
+plane,pos,tool cutlery,wn_hypernym,not_certain,0.21036552970206307
+puncher,neg,tool,wn_hypernym,not_certain,0.21312218934329077
+rounder,neg,tool,wn_hypernym,not_certain,0.2144429742141196
+violin,neg,neg,manually_included,certain,0.21465926723009338
+jack,neg,tool,wn_hypernym,not_certain,0.2159597753252006
+grappler,neg,tool,wn_hypernym,not_certain,0.21960650908942211
+hack,neg,tool,wn_hypernym,not_certain,0.2199762746644638
+pick,pos,tool cutlery,wn_hypernym,not_certain,0.2216889932494912
+lancet,pos,tool cutlery,wn_hypernym,not_certain,0.2219239117588526
+smoother,neg,tool,wn_hypernym,not_certain,0.2244273983009051
+razorblade,neg,tool,wn_hypernym,not_certain,0.22535191812330638
+spanner,neg,tool,wn_hypernym,not_certain,0.22547630469274693
+tap,neg,tool,wn_hypernym,not_certain,0.22586400898981204
+bit,neg,tool,wn_hypernym,not_certain,0.22758669947848964
+burr,neg,tool,wn_hypernym,not_certain,0.22938218526880993
+pincer,neg,tool,wn_hypernym,not_certain,0.23418044034495653
+bodkin,neg,tool,wn_hypernym,not_certain,0.23604737549287733
+pitchfork,neg,tool,wn_hypernym,not_certain,0.23618905858238753
+float,neg,tool,wn_hypernym,not_certain,0.23719865698016934
+burin,pos,tool cutlery,wn_hypernym,not_certain,0.24045689050314786
+shear,pos,tool cutlery,wn_hypernym,not_certain,0.24063116490986022
+shaver,pos,tool cutlery,wn_hypernym,not_certain,0.24074206537828685
+stylus,neg,tool,wn_hypernym,not_certain,0.24243515551678524
+gutter,neg,tool,wn_hypernym,not_certain,0.2431452423021024
+maul,neg,tool,wn_hypernym,not_certain,0.2436920057492142
+adz,pos,tool cutlery,wn_hypernym,not_certain,0.2438310500928532
+sledge,neg,tool,wn_hypernym,not_certain,0.2441927750327307
+bass,pos,pos,manually_included,certain,0.24531445958414866
+bevel,neg,tool,wn_hypernym,not_certain,0.2462090268672324
+slick,neg,tool,wn_hypernym,not_certain,0.2464622649781241
+sparrow,neg,neg,manually_included,certain,0.24708494357194752
+planer,neg,tool,wn_hypernym,not_certain,0.2522221450601268
+clawhammer,neg,tool,wn_hypernym,not_certain,0.2526477574527719
+router,neg,tool,wn_hypernym,not_certain,0.2526649258331045
+awl,neg,tool,wn_hypernym,not_certain,0.25270320252040923
+grasshopper,neg,is_used_in_cooking,cslb_crowd_neg,certain,0.25277787352938563
+ripsaw,neg,tool,wn_hypernym,not_certain,0.2536297865697007
+pounder,neg,tool,wn_hypernym,not_certain,0.25480691867370836
+clipper,pos,tool cutlery,wn_hypernym,not_certain,0.2571511363639676
+hob,pos,tool cutlery,wn_hypernym,not_certain,0.2593512306104131
+lance,pos,tool cutlery,wn_hypernym,not_certain,0.26408827511282645
+marlinspike,neg,tool,wn_hypernym,not_certain,0.264739161983247
+drill,neg,tool,wn_hypernym,not_certain,0.26558036309657707
+rake,neg,tool,wn_hypernym,not_certain,0.26691780783798535
+rammer,neg,tool,wn_hypernym,not_certain,0.26702257352321096
+jigsaw,neg,tool,wn_hypernym,not_certain,0.26895045150840446
+pallet,neg,tool,wn_hypernym,not_certain,0.26943808428135413
+borer,neg,tool,wn_hypernym,not_certain,0.27468275186636515
+jackhammer,neg,tool,wn_hypernym,not_certain,0.2767351397814606
+gouge,pos,tool cutlery,wn_hypernym,not_certain,0.2782047259047393
+ax,pos,tool cutlery,wn_hypernym,not_certain,0.2790559962931789
+rasp,neg,tool,wn_hypernym,not_certain,0.28076060613857495
+pizzeria,neg,is_used_in_cooking,cslb_crowd_neg,certain,0.2825905729640184
+parang,pos,tool cutlery,wn_hypernym,not_certain,0.28454891005035715
+hacksaw,neg,tool,wn_hypernym,not_certain,0.288674523573348
+flannel,pos/neg,is_a_material,cslb,not_certain,0.2889482864043181
+hayfork,neg,tool,wn_hypernym,not_certain,0.28963089493374944
+sawmill,neg,tool,wn_hypernym,not_certain,0.2902687439468111
+tool,neg,tool,wn_hypernym,not_certain,0.29110161683658464
+mallet,neg,tool,wn_hypernym,not_certain,0.2916167669166054
+crank,neg,tool,wn_hypernym,not_certain,0.2916515294596476
+knickers,neg,is_used_in_cooking,cslb_crowd_neg,certain,0.29192758817765113
+spud,neg,tool,wn_hypernym,not_certain,0.2919462196338623
+cutter,pos,tool cutlery,wn_hypernym,not_certain,0.29461719470879316
+apron,pos,is_used_in_cooking,cslb,not_certain,0.29860300712473786
+gimlet,neg,tool,wn_hypernym,not_certain,0.2986923080148183
+edger,neg,tool,wn_hypernym,not_certain,0.29949215110383587
+straightedge,neg,tool,wn_hypernym,not_certain,0.30067070945457175
+polisher,neg,tool,wn_hypernym,not_certain,0.30079321054127744
+auger,neg,tool,wn_hypernym,not_certain,0.301394504978845
+leek,pos,is_used_in_cooking,cslb,not_certain,0.301803609291504
+plough,neg,tool,wn_hypernym,not_certain,0.3026802225124111
+blender,pos,is_used_in_cooking,cslb,not_certain,0.3035508205390907
+microwave,pos,is_used_in_cooking,cslb,not_certain,0.30469605135811134
+ham,pos,is_used_in_cooking,cslb,not_certain,0.30511383558950095
+bolo,pos,tool cutlery,wn_hypernym,not_certain,0.3073131236118762
+beetle,neg,tool,wn_hypernym,not_certain,0.3079378012888498
+sledgehammer,neg,tool,wn_hypernym,not_certain,0.31025377280076827
+plunger,neg,tool,wn_hypernym,not_certain,0.31202730638809617
+penknife,pos,tool cutlery,wn_hypernym,not_certain,0.31582156037605097
+parer,pos,tool cutlery,wn_hypernym,not_certain,0.3169338277832671
+reamer,neg,tool,wn_hypernym,not_certain,0.31738523308542144
+crampon,neg,tool,wn_hypernym,not_certain,0.3183913836397355
+punch,neg,tool,wn_hypernym,not_certain,0.3207861724554288
+hoe,neg,tool,wn_hypernym,not_certain,0.32136225216545383
+mower,neg,tool,wn_hypernym,not_certain,0.32151043617267855
+jackknife,pos,tool cutlery,wn_hypernym,not_certain,0.3255035542665329
+spreader,neg,tool,wn_hypernym,not_certain,0.32583982037194026
+chopper,pos,tool cutlery,wn_hypernym,not_certain,0.32684691107295694
+corkscrew,neg,tool,wn_hypernym,not_certain,0.3292388873795157
+tongs,pos,is_used_in_cooking,cslb,not_certain,0.329312476857461
+scoop,neg,tool,wn_hypernym,not_certain,0.3350536087726393
+switchblade,pos,tool cutlery,wn_hypernym,not_certain,0.33599081413199394
+barong,pos,tool cutlery,wn_hypernym,not_certain,0.33639419521452235
+spade,neg,tool,wn_hypernym,not_certain,0.3376235692761422
+cleaver,pos,tool cutlery,wn_hypernym,not_certain,0.33802420087025825
+scalpel,pos,tool cutlery,wn_hypernym,not_certain,0.3386058426455356
+wrench,neg,tool,wn_hypernym,not_certain,0.339374185850696
+fork,pos,tool cutlery,wn_hypernym,not_certain,0.3398089664083829
+fava,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.3401002782134977
+pickaxe,pos,tool cutlery,wn_hypernym,not_certain,0.34137036592043357
+sickle,pos,tool cutlery,wn_hypernym,not_certain,0.3446827858699019
+hammer,neg,tool,wn_hypernym,not_certain,0.3532514832149186
+scraper,neg,tool,wn_hypernym,not_certain,0.3539357185899032
+mattock,pos,tool cutlery,wn_hypernym,not_certain,0.3543612748951171
+whisk,pos,is_used_in_cooking,cslb,not_certain,0.36031510109110376
+plow,neg,tool,wn_hypernym,not_certain,0.36124419761880405
+pliers,neg,tool,wn_hypernym,not_certain,0.3637210131346522
+chainsaw,neg,tool,wn_hypernym,not_certain,0.3639540612939817
+hatchet,pos,tool cutlery,wn_hypernym,not_certain,0.36467563880667364
+trowel,neg,tool,wn_hypernym,not_certain,0.37233182501885204
+toaster,pos,is_used_in_cooking,cslb,not_certain,0.3727037429405109
+shears,pos,tool cutlery,wn_hypernym,not_certain,0.37370474181292596
+taco,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.374619855293064
+snips,pos,tool cutlery,wn_hypernym,not_certain,0.3765581589872926
+bacon,pos,is_used_in_cooking,cslb,not_certain,0.37725552878574786
+comb,neg,tool,wn_hypernym,not_certain,0.37830901721976967
+mussel,pos,is_used_in_cooking,cslb,not_certain,0.38256211364694825
+cutlery,pos,tool cutlery,wn_hypernym,not_certain,0.38394535921854206
+shovel,neg,tool,wn_hypernym,not_certain,0.38417181644183035
+scallop,pos,is_used_in_cooking,cslb,not_certain,0.38576912230882
+scythe,pos,tool cutlery,wn_hypernym,not_certain,0.38615065831621886
+screwdriver,neg,tool,wn_hypernym,not_certain,0.3873290506094809
+teaspoon,pos,cutlery,wn_hypernym,not_certain,0.3877758312813666
+stove,pos,is_used_in_cooking,cslb,not_certain,0.38883564171978285
+slicer,pos,tool cutlery,wn_hypernym,not_certain,0.39048471537408086
+rhubarb,pos,is_used_in_cooking,cslb,not_certain,0.3915877730394587
+chisel,pos,tool cutlery,wn_hypernym,not_certain,0.3934391515035093
+lime,pos,is_used_in_cooking,cslb,not_certain,0.3964015277731651
+razor,pos,tool cutlery,wn_hypernym,not_certain,0.3973309200878889
+pestle,neg,tool,wn_hypernym,not_certain,0.3973815690883122
+burrito,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.3995623346972868
+strainer,pos,is_used_in_cooking,cslb,not_certain,0.4007471798199093
+axe,pos,tool cutlery,wn_hypernym,not_certain,0.4050012666217495
+broccoli,pos,is_used_in_cooking,cslb,not_certain,0.4058441442623163
+rice,pos,is_used_in_cooking,cslb,not_certain,0.408462038764914
+slice,neg,tool,wn_hypernym,not_certain,0.4094257530097914
+adze,pos,tool cutlery,wn_hypernym,not_certain,0.41060271639441004
+prawn,pos,is_used_in_cooking,cslb,not_certain,0.41099914455697717
+blade,neg,tool,wn_hypernym,not_certain,0.41661918174762114
+mushroom,pos,is_used_in_cooking,cslb,not_certain,0.4171955972052928
+pie,pos,is_used_in_cooking,cslb,not_certain,0.41864318313964616
+toothpick,neg,tool,wn_hypernym,not_certain,0.41871451477814614
+artichoke,pos,is_used_in_cooking,cslb,not_certain,0.42751517733773037
+peas,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.4314394539901486
+cauliflower,pos,is_used_in_cooking,cslb,not_certain,0.4354714956143565
+aubergine,pos,is_used_in_cooking,cslb,not_certain,0.4379585384068354
+spatula,pos,tool is_used_in_cooking,cslb wn_hypernym,not_certain,0.4397725488538397
+scissors,pos,tool cutlery,wn_hypernym,not_certain,0.4423436832092774
+pimento,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.44313397371797286
+asparagus,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.44396606025712004
+parsley,pos,is_used_in_cooking,cslb,not_certain,0.44472456312508934
+coconut,pos,is_used_in_cooking,cslb,not_certain,0.45145677975627785
+savoury,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4527264116477342
+slaw,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45283639639395024
+homoeosoma,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4530964653337818
+hexachaeta,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45330102005133577
+stew,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45341645572458844
+buttered,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45361157444480715
+cream,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.453874851527563
+pigweed,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4543321816960707
+pepperoni,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.454483501914424
+almonds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.454780889941113
+pandemis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45488344960092836
+barbecued,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45498089784780993
+snack,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4550973548236964
+kebab,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45529010227958233
+atole,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4554299733867628
+dessert,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45575072397288247
+orthaga,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4558081477935038
+condiment,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45583703481820614
+spiciness,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45611060605153286
+browned,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4565059508392558
+slices,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4565146931028101
+mustard,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45652559565979384
+cucurbits,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4565402451786991
+radish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45700410782929735
+spoon,pos,cutlery,wn_hypernym,not_certain,0.4570454849926097
+soups,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4580422506132511
+shrimp,pos,pos,manually_included,certain,0.4580987415891099
+vermicelli,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4583418193139404
+pineapple,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45853737271163697
+mashed,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4586214484500719
+omiodes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45863853158462126
+condiments,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4587060117367254
+tablespoon,pos,cutlery,wn_hypernym,not_certain,0.4587960814139851
+hypotia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4588903841866716
+pies,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4589958345155468
+mooncakes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4596913866093121
+gravy,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4597141527859886
+pastry,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46027066036172354
+parboiled,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4602906499417846
+toppings,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4605985684253193
+jalapeos,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46076454147155976
+lygropia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46116260356125116
+pycnarmon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4615674362384804
+cakes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4616514218470642
+acaridae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4617352422263592
+crpes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46206119347027635
+shallots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4622996848129472
+moong,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46283397387017067
+oven,pos,is_used_in_cooking,cslb,not_certain,0.4636210559423637
+sundaes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46362338399034997
+corn,pos,is_used_in_cooking,cslb,not_certain,0.46378488816101826
+marinara,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46382257988403147
+phostria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4640638837716941
+transtillaspis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46429959500871254
+sapodilla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46445797553396084
+pancakes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4648885249936013
+casserole,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.464900832563901
+paneer,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4651171495631795
+tofu,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46548863547223185
+leucaena,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4656853471848895
+seasonings,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4667300917571291
+dried,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4668140693908185
+lentils,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4673845162111704
+refried,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46759899229081825
+lobster,pos,is_used_in_cooking,cslb,not_certain,0.46790056741768415
+calathus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4679379402793841
+carrots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46825946175855065
+euzophera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4686608711030482
+bean,pos,is_used_in_cooking,cslb,not_certain,0.4687415745905551
+dishes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4687827233740196
+enchiladas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4698358764896837
+chopped,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4698554096305002
+pudding,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4700208778528703
+fritters,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4701183910656394
+oregano,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4701534830645838
+vinegar,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47079046007337105
+candied,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47137466707299386
+turnip,pos,is_used_in_cooking,cslb,not_certain,0.47141892406062746
+sativum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4715205364261743
+spathulate,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4717147677470089
+beef,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4717351758981179
+croquettes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4718849251733281
+macchiato,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4719888186566409
+meats,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4722578717773435
+empanadas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.472790094356005
+tteok,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4729801803045051
+payasam,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4730248503465475
+cilantro,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47327632583182544
+baguettes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47335022529237486
+risotto,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.473505672939037
+grater,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.4735139043708099
+achiote,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4736835234539077
+omelettes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.474033710162041
+pumpkin,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4744813602872136
+doenjang,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.474565541393176
+sausages,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47509527817081176
+soursop,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4752436634627488
+sauces,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47575453368853393
+marinades,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47623289353963416
+steak,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4766916188443161
+brioche,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47769904161103505
+tortillas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47801877878483184
+peanut,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47833450655598836
+dish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4786552130734831
+eggplant,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47869374484486504
+trichilia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4788117499193209
+lefse,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47898554857156167
+cornmeal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4790026568239785
+cutlets,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4792290899754781
+caramelized,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4797638686545081
+acrolepiidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47985824930090504
+evergestis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4799800774240421
+lemongrass,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48076051517231033
+chickpeas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4809504263059525
+braised,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48149295319542673
+dough,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48150194520021267
+marinated,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4815490836205779
+spinach,pos,is_used_in_cooking,cslb_crowd_pos cslb,certain,0.4821740085736052
+endoxyla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4823818736968502
+celery,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48240323171968946
+congee,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48292773947332335
+allspice,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48301517691266826
+knife,pos,tool cutlery is_used_in_cooking,cslb wn_hypernym,not_certain,0.4839739586496764
+frying,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48495895853301363
+colocasia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4852144978173164
+marinade,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48579133594606655
+flatbread,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4859144309864148
+tempeh,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4864768376102621
+pickled,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48674283570215204
+vegetable,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48687467916984495
+patties,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48755206821295155
+chorizo,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4876163389980916
+pasta,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.487936128543613
+chutneys,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4879776894495917
+flour,pos,is_used_in_cooking,cslb,not_certain,0.48845390626366914
+sisurcana,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4887097866033332
+salads,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48971652916654623
+soup,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4903820378131662
+cutlet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49053846227628795
+lettuce,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.491361030147699
+eaten,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49235372513835945
+cucumber,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.492393491138321
+casseroles,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49240979907019666
+sliced,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4926809444649305
+pilocrocis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4934929786642772
+broiled,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4935426777619629
+galangal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4940972790841984
+breadcrumbs,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49421382524192164
+sashimi,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49625001202466046
+cabbage,pos,is_used_in_cooking,cslb,not_certain,0.4975444952912001
+carrot,pos,is_used_in_cooking,cslb,not_certain,0.4976501705925195
+baked,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4983580491913938
+confit,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4987371655891933
+mayonnaise,pos,is_used_in_cooking,cslb_crowd_pos,certain,0.4993766035373765
+minced,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4994256022668587
+braising,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4997824217549787
+stewed,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49992968914548497
+roasted,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5002301845513286
+lontong,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5002395124631877
+chives,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5019910564113563
+focaccia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5027042472815062
+blepharomastix,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5038451771950225
+buttercream,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5041423883806218
+onion,pos,is_used_in_cooking,cslb,not_certain,0.5049520494982495
+cake,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5049632804198305
+cheese,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.506545423592248
+stovetop,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5076699907115303
+pork,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.508529075879234
+noodles,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5102449752587573
+trombidium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5125785968078633
+bread,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5130171499478888
+meat,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5138135241816787
+salad,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5142629785546816
+shiitake,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5143667554279698
+fried,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5144285530646882
+breaded,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.515358671698291
+quesadillas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5161029666777702
+puree,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5162725720196584
+sausage,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5166938399056382
+bulgur,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5175964146258565
+sauted,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5177252640999868
+chhena,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5198355741269463
+gulai,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5235897297902459
+provolone,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5249423886941125
+bagoong,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5250696686057658
+butter,pos,is_used_in_cooking,cslb,not_certain,0.5291427964690751
+vinaigrette,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5312381644660081
+sauteed,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5331166236914153
+beans,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5354732843635884
+cooked,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5376461380362754
+onions,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5376554656148409
+vegetables,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5399216808458418
+chicken,pos,is_used_in_cooking is_used_in_cooking,cslb_crowd_pos manually_included,certain,0.5439138582290883
+sauce,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5447302417688574
+potatoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5505631614221951
+garlic,pos,is_used_in_cooking,cslb,not_certain,0.5507850224611599
+paratha,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5517815351954656
+tomato,pos,is_used_in_cooking,cslb,not_certain,0.5526116010229438
+potato,pos,is_used_in_cooking,cslb,not_certain,0.5534233758046683
+gochujang,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5706539818825563

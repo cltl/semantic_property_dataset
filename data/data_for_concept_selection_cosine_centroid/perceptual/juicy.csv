@@ -1,0 +1,403 @@
+concept,label,categories_str,sources_str,certainty,cosine_centroid
+discussion,neg,neg_met,manually_included,certain,0.04278849014302656
+key,pos/neg,fruit,wn_hypernym,not_certain,0.052602027879150415
+most,neg,sweet,conceptnet,not_certain,0.07081572010589
+emperor,pos/neg,fruit,wn_hypernym,not_certain,0.08678968480669066
+report,pos,pos_met,manually_included,certain,0.08924072701739995
+emotion,neg,neg_met,manually_included,certain,0.09600612239934204
+mast,pos/neg,fruit,wn_hypernym,not_certain,0.10263058220380997
+story,pos,pos_met,manually_included,certain,0.11004376979516844
+bartlett,pos/neg,fruit,wn_hypernym,not_certain,0.1105490506638446
+date,pos/neg,fruit,wn_hypernym,not_certain,0.11540491463893018
+cole,pos/neg,vegetable,wn_hypernym,not_certain,0.11640714104439905
+edda,pos/neg,vegetable,wn_hypernym,not_certain,0.11866129795824426
+marang,pos/neg,fruit,wn_hypernym,not_certain,0.12009536839658018
+samara,pos/neg,fruit,wn_hypernym,not_certain,0.1244635844090947
+pip,pos/neg,fruit,wn_hypernym,not_certain,0.1275253008653665
+cos,pos/neg,vegetable,wn_hypernym,not_certain,0.13008608610577105
+pulse,pos/neg,vegetable,wn_hypernym,not_certain,0.13350522326789402
+kail,pos/neg,vegetable,wn_hypernym,not_certain,0.1348909450367661
+jak,pos/neg,fruit,wn_hypernym,not_certain,0.14102753021513328
+brazil,pos/neg,fruit,wn_hypernym,not_certain,0.14251765541670655
+murphy,pos/neg,vegetable,wn_hypernym,not_certain,0.1442935475101884
+feeling,neg,neg_met,manually_included,certain,0.1449400418678992
+capitulum,pos/neg,fruit,wn_hypernym,not_certain,0.14733321129372584
+saskatoon,pos/neg,fruit,wn_hypernym,not_certain,0.14792091960292078
+dahl,pos/neg,vegetable,wn_hypernym,not_certain,0.1502326545160038
+windfall,pos/neg,fruit,wn_hypernym,not_certain,0.1528338032340921
+mangold,pos/neg,vegetable,wn_hypernym,not_certain,0.15587602025132766
+pyrene,pos/neg,fruit,wn_hypernym,not_certain,0.15777949165121238
+chou,pos/neg,vegetable,wn_hypernym,not_certain,0.1600248945512854
+anjou,pos/neg,fruit,wn_hypernym,not_certain,0.16221512819134096
+chile,pos/neg,vegetable,wn_hypernym,not_certain,0.16339162125786452
+cling,pos/neg,fruit,wn_hypernym,not_certain,0.17175629510605392
+spike,pos/neg,fruit,wn_hypernym,not_certain,0.17182958822454583
+hip,pos/neg,fruit,wn_hypernym,not_certain,0.17379037154926666
+savoy,pos/neg,vegetable,wn_hypernym,not_certain,0.1755017166340925
+rumor,pos,pos_met,manually_included,certain,0.17581028556306996
+bosc,pos/neg,fruit,wn_hypernym,not_certain,0.17689684333942057
+flageolet,pos/neg,vegetable,wn_hypernym,not_certain,0.1838497502064383
+sultana,pos/neg,fruit,wn_hypernym,not_certain,0.18414707379330275
+blackheart,pos/neg,fruit,wn_hypernym,not_certain,0.19375029989315382
+snap,pos/neg,vegetable,wn_hypernym,not_certain,0.19485679731992359
+ear,pos/neg,fruit,wn_hypernym,not_certain,0.19635702366572982
+spud,pos/neg,vegetable,wn_hypernym,not_certain,0.19741621324027822
+barleycorn,pos/neg,fruit,wn_hypernym,not_certain,0.19764463684257472
+pyxis,pos/neg,fruit,wn_hypernym,not_certain,0.19809233513056318
+bacca,pos/neg,fruit,wn_hypernym,not_certain,0.20103532173695254
+swede,pos/neg,vegetable,wn_hypernym,not_certain,0.20321096671407649
+jack,pos/neg,fruit,wn_hypernym,not_certain,0.2041669710738604
+buckeye,pos/neg,fruit,wn_hypernym,not_certain,0.20652360181870924
+romaine,pos/neg,vegetable,wn_hypernym,not_certain,0.20934132019700336
+kernel,pos/neg,fruit,wn_hypernym,not_certain,0.210714641188099
+freestone,pos/neg,fruit,wn_hypernym,not_certain,0.21345456433213567
+goober,pos/neg,fruit,wn_hypernym,not_certain,0.21698912293351208
+iceberg,pos/neg,vegetable,wn_hypernym,not_certain,0.21976644662329434
+julienne,pos/neg,vegetable,wn_hypernym,not_certain,0.2209696228636891
+marrow,pos/neg,vegetable,wn_hypernym,not_certain,0.22150301291486782
+greens,pos/neg,vegetable,wn_hypernym,not_certain,0.22173924181454316
+chilly,pos/neg,vegetable,wn_hypernym,not_certain,0.22262959293963464
+filbert,pos/neg,fruit,wn_hypernym,not_certain,0.22676356305570242
+clementine,pos/neg,fruit,wn_hypernym,not_certain,0.22841099450732844
+ham,pos/neg,is_food,cslb,not_certain,0.23326696811472217
+leek,pos/neg,vegetable,wn_hypernym,not_certain,0.23385216206415463
+muscat,pos/neg,fruit,wn_hypernym,not_certain,0.23831761180771585
+tabasco,pos/neg,vegetable,wn_hypernym,not_certain,0.24292979945043183
+green,pos/neg,vegetable,wn_hypernym,not_certain,0.24677798797891706
+pod,pos/neg,fruit,wn_hypernym,not_certain,0.24709669336498508
+veg,pos/neg,vegetable,wn_hypernym,not_certain,0.24755109670827938
+conker,pos/neg,fruit,wn_hypernym,not_certain,0.2478112493158006
+cayenne,pos/neg,vegetable,wn_hypernym,not_certain,0.2504080217882832
+chard,pos/neg,vegetable,wn_hypernym,not_certain,0.2588352760817325
+grain,pos/neg,fruit,wn_hypernym,not_certain,0.2699879199563695
+cob,pos/neg,fruit,wn_hypernym,not_certain,0.2702169073050683
+kale,pos/neg,vegetable,wn_hypernym,not_certain,0.2716360402356944
+chips,pos/neg,vegetable,wn_hypernym,not_certain,0.27368909092010246
+morello,pos/neg,fruit,wn_hypernym,not_certain,0.27413883428643765
+cocoanut,pos/neg,fruit,wn_hypernym,not_certain,0.286327209845566
+acorn,pos/neg,fruit,wn_hypernym,not_certain,0.2900101699240455
+sandwich,pos/neg,is_food,cslb,not_certain,0.29332190604071434
+sardine,pos/neg,is_food,cslb,not_certain,0.2972948475970526
+chinquapin,pos/neg,fruit,wn_hypernym,not_certain,0.3003753703648187
+sprout,pos/neg,vegetable,wn_hypernym,not_certain,0.30250655660985704
+citron,pos/neg,fruit,wn_hypernym,not_certain,0.3026737542972827
+gherkin,pos/neg,vegetable is_food,cslb wn_hypernym,not_certain,0.3052743763873589
+squash,pos/neg,vegetable,wn_hypernym,not_certain,0.3053780694113581
+scallop,pos/neg,is_food,cslb,not_certain,0.3072438007827425
+mussel,pos/neg,is_food,cslb,not_certain,0.3098196752693123
+seed,pos/neg,fruit,wn_hypernym,not_certain,0.31035990785734685
+cress,pos/neg,vegetable,wn_hypernym,not_certain,0.31084788367884925
+mandarin,pos/neg,fruit,wn_hypernym,not_certain,0.3109311875999738
+chipotle,pos/neg,vegetable,wn_hypernym,not_certain,0.31250865567925507
+wintergreen,pos/neg,fruit,wn_hypernym,not_certain,0.31262969117531314
+pome,pos/neg,fruit,wn_hypernym,not_certain,0.314440408017661
+satsuma,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.3145773682164418
+sorrel,pos/neg,vegetable,wn_hypernym,not_certain,0.31541208772139806
+tamarindo,pos/neg,fruit,wn_hypernym,not_certain,0.3159812262530408
+pea,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.3162517833475845
+yam,pos/neg,vegetable,wn_hypernym,not_certain,0.3171046046427011
+kiwi,pos/neg,fruit,wn_hypernym,not_certain,0.3183613108042169
+bacon,pos/neg,is_food,cslb,not_certain,0.3193005737741456
+dewberry,pos/neg,fruit,wn_hypernym,not_certain,0.3197273381441354
+huckleberry,pos/neg,fruit,wn_hypernym,not_certain,0.32183790633014364
+cottonseed,pos/neg,fruit,wn_hypernym,not_certain,0.3229936947950815
+parsnip,pos/neg,vegetable,wn_hypernym,not_certain,0.3234100868950091
+nutlet,pos/neg,fruit,wn_hypernym,not_certain,0.3245120510649517
+ananas,pos/neg,fruit,wn_hypernym,not_certain,0.325487658419593
+calabash,pos/neg,fruit,wn_hypernym,not_certain,0.3338963954235568
+linseed,pos/neg,fruit,wn_hypernym,not_certain,0.3339589979761818
+doughnut,pos/neg,is_food,cslb,not_certain,0.33594406836511387
+crabapple,pos/neg,fruit,wn_hypernym,not_certain,0.3386712381176955
+hackberry,pos/neg,fruit,wn_hypernym,not_certain,0.34196165454980304
+legume,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.343387786412448
+chestnut,pos/neg,fruit,wn_hypernym,not_certain,0.3437733089458585
+wines,neg,sweet,conceptnet,not_certain,0.34511604692452136
+watercress,pos/neg,vegetable,wn_hypernym,not_certain,0.3463657425492854
+oyster,pos/neg,is_food,cslb,not_certain,0.3467349710323977
+amaranth,pos/neg,fruit,wn_hypernym,not_certain,0.3480616491347983
+soya,pos/neg,vegetable,wn_hypernym,not_certain,0.3498982067760557
+rye,pos/neg,fruit,wn_hypernym,not_certain,0.35090688279088983
+oilseed,pos/neg,fruit,wn_hypernym,not_certain,0.35305064762152355
+burger,pos,pos,manually_included,certain,0.3532751361196859
+tater,pos/neg,vegetable,wn_hypernym,not_certain,0.35633579613783295
+gumbo,pos/neg,vegetable,wn_hypernym,not_certain,0.3570657830995424
+damson,pos/neg,fruit,wn_hypernym,not_certain,0.3595553965222928
+donuts,neg,sweet,conceptnet,not_certain,0.36194584840669897
+achene,pos/neg,fruit,wn_hypernym,not_certain,0.3619775004444062
+cumin,pos/neg,fruit,wn_hypernym,not_certain,0.36271520432751675
+fries,pos/neg,vegetable,wn_hypernym,not_certain,0.363635860537891
+rutabaga,pos/neg,vegetable,wn_hypernym,not_certain,0.36472323059602446
+rapeseed,pos/neg,fruit,wn_hypernym,not_certain,0.3659145498365389
+durian,pos/neg,fruit,wn_hypernym,not_certain,0.36599012311698453
+granadilla,pos/neg,fruit,wn_hypernym,not_certain,0.3661882905370085
+medlar,pos/neg,fruit,wn_hypernym,not_certain,0.3666507801808188
+veggie,pos/neg,vegetable,wn_hypernym,not_certain,0.36667100562545313
+biscuit,pos/neg,is_food,cslb,not_certain,0.3670532534697499
+fig,pos/neg,fruit,wn_hypernym,not_certain,0.36821783273363057
+flaxseed,pos/neg,fruit,wn_hypernym,not_certain,0.37107522237419643
+sloe,pos/neg,fruit,wn_hypernym,not_certain,0.373103236406397
+bilberry,pos/neg,fruit,wn_hypernym,not_certain,0.37586296793199786
+gourd,pos/neg,fruit,wn_hypernym,not_certain,0.3793175920886523
+taro,pos/neg,vegetable,wn_hypernym,not_certain,0.38234539940900536
+prune,pos/neg,fruit,wn_hypernym,not_certain,0.3837662767471787
+groundnut,pos/neg,fruit,wn_hypernym,not_certain,0.3843162218834456
+butternut,pos/neg,fruit,wn_hypernym,not_certain,0.38540096398505685
+aubergine,pos/neg,vegetable,wn_hypernym,not_certain,0.3869700439707994
+cookies,neg,sweet,conceptnet,not_certain,0.38886362249080053
+lobster,pos/neg,is_food,cslb,not_certain,0.38921618804338415
+honeydew,pos/neg,fruit,wn_hypernym,not_certain,0.3893474993979502
+yoghurt,pos/neg,is_food,cslb,not_certain,0.39151652140791193
+quince,pos/neg,fruit,wn_hypernym,not_certain,0.39165778734298545
+bread,pos/neg,is_food,cslb,not_certain,0.39219143753216507
+scallion,pos/neg,vegetable,wn_hypernym,not_certain,0.39263337148251376
+turnip,pos/neg,vegetable,wn_hypernym,not_certain,0.3958507370655829
+lentil,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.3976877505945419
+cauliflower,pos/neg,vegetable,wn_hypernym,not_certain,0.40016955294322754
+broccoli,pos/neg,vegetable,wn_hypernym,not_certain,0.4020995668209832
+elderberry,pos/neg,fruit,wn_hypernym,not_certain,0.40260073098149823
+crab,pos/neg,is_food,cslb,not_certain,0.402893770573501
+zucchini,pos/neg,vegetable,wn_hypernym,not_certain,0.403220977625952
+beetroot,pos/neg,vegetable,wn_hypernym,not_certain,0.40336070433561366
+soy,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.4056467381027971
+fennel,pos/neg,vegetable,wn_hypernym,not_certain,0.406005286946394
+artichoke,pos/neg,vegetable is_food,cslb wn_hypernym,not_certain,0.40796480968027576
+drupe,pos/neg,fruit,wn_hypernym,not_certain,0.40887349340810203
+pie,pos/neg,is_food,cslb,not_certain,0.4089197581931644
+olive,pos/neg,fruit is_food,cslb wn_hypernym,not_certain,0.4103454169190695
+raisin,pos/neg,fruit,wn_hypernym,not_certain,0.41177592306657934
+gooseberry,pos/neg,fruit,wn_hypernym,not_certain,0.4121337680591711
+breadfruit,pos/neg,fruit,wn_hypernym,not_certain,0.41217342942137847
+rice,pos/neg,is_food,cslb,not_certain,0.4122466110223419
+cake,neg,sweet,conceptnet,not_certain,0.4132733217484
+blackberry,pos/neg,fruit,wn_hypernym,not_certain,0.41487631556474336
+jujube,pos/neg,fruit,wn_hypernym,not_certain,0.41503992869527834
+walnut,pos/neg,fruit,wn_hypernym,not_certain,0.41546880836260325
+desserts,neg,sweet,conceptnet,not_certain,0.41623472509182186
+truffle,pos/neg,vegetable,wn_hypernym,not_certain,0.41770552665633887
+steak,pos,pos,manually_included,certain,0.42026330364773984
+chicory,pos/neg,vegetable,wn_hypernym,not_certain,0.42040268044119516
+rambutan,pos/neg,fruit,wn_hypernym,not_certain,0.4216683433418492
+soup,pos/neg,is_food,cslb,not_certain,0.42223340014166255
+cakes,neg,sweet,conceptnet,not_certain,0.4223397008085578
+persimmon,pos/neg,fruit,wn_hypernym,not_certain,0.42496766677346753
+berry,pos/neg,fruit,wn_hypernym,not_certain,0.4257791219856712
+cashew,pos/neg,fruit,wn_hypernym,not_certain,0.42716140220826865
+plantain,pos/neg,vegetable,wn_hypernym,not_certain,0.42754383950835756
+shallot,pos/neg,vegetable,wn_hypernym,not_certain,0.4281000058521565
+meat,pos,pos,manually_included,certain,0.42830573007948347
+orange,pos,fruit sweet is_juicy,cslb wn_hypernym conceptnet,not_certain,0.4294695412789372
+tamarind,pos/neg,fruit,wn_hypernym,not_certain,0.4301522795188658
+chickpea,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.43093916418433226
+cowpea,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.4321994683034884
+chilli,pos/neg,vegetable,wn_hypernym,not_certain,0.43444602077023736
+pomelo,pos/neg,fruit,wn_hypernym,not_certain,0.4347494308012995
+coffee,pos/neg,fruit,wn_hypernym,not_certain,0.43507202207515255
+mushroom,pos/neg,vegetable is_food,cslb wn_hypernym,not_certain,0.4352354265102291
+serviceberry,pos/neg,fruit,wn_hypernym,not_certain,0.4358959627802193
+nut,pos/neg,fruit is_food,cslb wn_hypernym,not_certain,0.43795645298430574
+pimento,pos/neg,vegetable,wn_hypernym,not_certain,0.43988786449253
+hazelnut,pos/neg,fruit,wn_hypernym,not_certain,0.4399385126039239
+mulberry,pos/neg,fruit,wn_hypernym,not_certain,0.44105233552983586
+pomegranate,pos/neg,fruit,wn_hypernym,not_certain,0.44484078130342
+rhubarb,pos/neg,vegetable,wn_hypernym,not_certain,0.44523516512509675
+corn,pos/neg,fruit is_food,cslb wn_hypernym,not_certain,0.44746468732155575
+cashews,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4476671121430581
+paratha,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44771957281303315
+cerasus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4477439531182438
+pepperoni,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4478003852233765
+savagnin,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4483061569762122
+mustard,pos/neg,vegetable,wn_hypernym,not_certain,0.44890320151766455
+pigweed,pos/neg,vegetable,wn_hypernym,not_certain,0.44903226154088755
+caramel,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44940464353187404
+kumquat,pos/neg,fruit,wn_hypernym,not_certain,0.44941364880215806
+cocoa,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4495703170080219
+chicken,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4496422532810733
+soapberry,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4504683863282127
+spicy,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4507644038697848
+candy,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4510149295880542
+anthracnose,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4511296308964715
+mayonnaise,pos/neg,is_food,cslb,not_certain,0.45113042966254774
+soybean,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.4511494037731076
+dried,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45116893733469127
+juices,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4512089199639877
+balsamic,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4513159712385871
+tangerine,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.4513450097079306
+salads,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4516626156937947
+calycina,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4516819050120407
+tomatoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4517264667520832
+marinades,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45220711397002156
+chili,pos/neg,vegetable,wn_hypernym,not_certain,0.45235360759286924
+shrimp,pos,is_food is_juicy is_food is_juicy,cslb cslb_crowd_pos manually_included,certain,0.4532777983622458
+bulgur,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4538683463515344
+blueberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4540842866549268
+cereal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.454193742787322
+spinach,pos/neg,vegetable is_food,cslb wn_hypernym,not_certain,0.45467935385072816
+ageratina,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45552888831330507
+pears,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4563747763354793
+blackberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4568356878309965
+quesadillas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45803415405338194
+colocasia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4584247380479182
+flavor,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4585186058956658
+lychee,pos/neg,fruit,wn_hypernym,not_certain,0.45870212200539334
+jackfruit,pos/neg,fruit,wn_hypernym,not_certain,0.4593197785006085
+rhagoletis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45932586046835644
+actinidia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4593271499903912
+papayas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45969841688917484
+sauteed,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46044266230535963
+shallots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4608767095949388
+arachis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4613035496266442
+achiote,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46165856028076524
+yogurt,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4618218063446724
+lemongrass,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46217934988012344
+buttercream,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46220123906152977
+litchi,pos/neg,fruit,wn_hypernym,not_certain,0.46220171247627523
+aligot,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46229361806969205
+ginger,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46235699119177
+cucurbita,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46272843892960214
+loquat,pos/neg,fruit,wn_hypernym,not_certain,0.4630634282800779
+okra,pos/neg,vegetable fruit,wn_hypernym,not_certain,0.4630926839201361
+cheese,pos/neg,is_food,cslb,not_certain,0.46353453237194614
+carrot,pos/neg,vegetable,wn_hypernym,not_certain,0.4641065274325979
+pecans,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46417602700694016
+sugarcane,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46445415221023495
+pineapples,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46482882872561637
+chhena,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4652689137377476
+carob,pos/neg,fruit,wn_hypernym,not_certain,0.46535364840113885
+fenugreek,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4657113812067361
+guavas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4660518036868402
+maraschino,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4661423605461986
+jelly,pos/neg,is_food,cslb,not_certain,0.46659705002299956
+currants,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46662100873777773
+edible,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4667984413885573
+oregano,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4669272855425164
+cultivars,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4677209245947145
+maize,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4677660970278592
+cranberry,pos/neg,fruit,wn_hypernym,not_certain,0.4678173062994321
+cultivar,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4681043824598115
+kiwifruit,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4681763267119008
+pork,neg,sweet,conceptnet,not_certain,0.46831741614469957
+shiso,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4693218540404965
+bagoong,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47021061384575025
+persimmons,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4706071540494229
+galangal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4711503427673091
+gooseberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4712788351877521
+sorbet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4713466498703225
+cilantro,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4714918593140893
+pudding,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4715223728244341
+pistachio,pos/neg,fruit,wn_hypernym,not_certain,0.4716166742373852
+caramelized,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47260266577199483
+pepper,pos/neg,vegetable,wn_hypernym,not_certain,0.4727143900376129
+prunus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4733641313453105
+coconuts,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47388018880657506
+sweetened,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47421838930612376
+horchata,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47513958659438926
+cinnamon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47535736423054575
+raisins,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47570426761549167
+cassava,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47717180933411835
+beet,pos/neg,vegetable,wn_hypernym,not_certain,0.4776346425127191
+hazelnuts,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47834251852558035
+avocados,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4786499789506186
+trichilia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4797341582060092
+custard,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.479807813058967
+radish,pos/neg,vegetable,wn_hypernym,not_certain,0.4799254539474932
+mangoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.480930730780417
+vegetable,pos/neg,vegetable,wn_hypernym,not_certain,0.48094680923083166
+bean,pos/neg,vegetable fruit is_food,cslb wn_hypernym,not_certain,0.48107590089443625
+peanuts,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48333896890931183
+salad,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4842338600818967
+honey,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4843478664241585
+flavors,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48462405163749084
+sativum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.485532225573686
+chocolate,pos/neg,is_food,cslb,not_certain,0.4856241331736853
+mesocarp,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4861047346238328
+pawpaw,pos/neg,fruit,wn_hypernym,not_certain,0.4861699028571535
+lemons,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4881901987274418
+blackcurrant,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4883178108032122
+beets,pos,is_juicy,mcrae,not_certain,0.488854583715385
+currant,pos,fruit is_food is_juicy,cslb wn_hypernym cslb_crowd_pos,certain,0.48899921923082496
+pecan,pos/neg,fruit,wn_hypernym,not_certain,0.4893770820940599
+flavored,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49015997574441633
+papaya,pos/neg,fruit,wn_hypernym,not_certain,0.49077869088778975
+mangosteen,pos/neg,fruit,wn_hypernym,not_certain,0.4910960986549742
+eggplant,pos/neg,vegetable,wn_hypernym,not_certain,0.4913300061340957
+onions,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49152251027483024
+cucurbits,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49295632092780883
+dessert,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49423871911214967
+cabbage,pos/neg,vegetable,wn_hypernym,not_certain,0.4944442228035761
+leucaena,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49614621065770875
+melons,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4962078750805622
+candied,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4971316010264286
+chutneys,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4972381362559787
+raspberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4982440695434318
+apricot,pos/neg,fruit,wn_hypernym,not_certain,0.498476628939653
+onion,pos/neg,vegetable,wn_hypernym,not_certain,0.49958720765519543
+sugar,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5012332545857652
+apricots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5015360715763982
+cream,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5031886117457773
+allspice,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5044523248841327
+jalapeos,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.505299282556023
+lime,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5053787768636886
+carrots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5083872433557441
+sauce,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5088694746623925
+almond,pos/neg,fruit,wn_hypernym,not_certain,0.5092638927972516
+nectarine,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5092738892977076
+shiitake,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5097898200941783
+butter,pos/neg,is_food,cslb,not_certain,0.5098875467334182
+asparagus,pos/neg,vegetable,wn_hypernym,not_certain,0.5102894103537848
+sweet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5112070093307426
+chives,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5117827474209229
+puree,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5121645886264128
+bananas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5122141059340972
+vanilla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5132156828990918
+lettuce,pos/neg,vegetable,wn_hypernym,not_certain,0.5165372767134163
+gochujang,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5171301116602947
+lingonberry,pos/neg,fruit,wn_hypernym,not_certain,0.5175330563979873
+mamey,pos/neg,fruit,wn_hypernym,not_certain,0.5188695603079647
+celery,pos/neg,vegetable,wn_hypernym,not_certain,0.519620337091078
+plums,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5197685004958509
+walnuts,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5197978516088955
+sapodilla,pos/neg,fruit,wn_hypernym,not_certain,0.5203017278709632
+almonds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.522345319105493
+guava,pos/neg,fruit,wn_hypernym,not_certain,0.5237860874698009
+cherries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5266622985244457
+cantaloupe,pos,fruit is_juicy,wn_hypernym mcrae,not_certain,0.5304718518524638
+avocado,pos/neg,fruit,wn_hypernym,not_certain,0.5318050732699987
+garlic,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5335196229908921
+beans,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5341529200104503
+oranges,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.534945015046665
+syrup,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5350128672731322
+berries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5358619375284035
+passionfruit,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5376892197353428
+pumpkin,pos/neg,vegetable,wn_hypernym,not_certain,0.5384848311462266
+peaches,pos,juicy,conceptnet,not_certain,0.5390737296683297
+apples,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5392335318306568
+peanut,pos/neg,fruit is_food,cslb wn_hypernym,not_certain,0.5408165782435447
+raspberry,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5410013926332691
+cucumber,pos/neg,vegetable,wn_hypernym,not_certain,0.5420592149170304
+grapes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5420942928352567
+pear,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.542740747852203
+plum,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5435268120155982
+melon,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5437267765429242
+vegetables,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5460318387300361
+apple,pos,fruit is_juicy,cslb wn_hypernym mcrae,not_certain,0.548510904399764
+strawberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5486012374387241
+blueberry,pos,fruit is_juicy,cslb wn_hypernym mcrae,not_certain,0.5498693715489364
+fruits,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5518069518418359
+cherry,pos,fruit is_juicy,wn_hypernym cslb_crowd_pos,certain,0.5537652037670922
+coconut,pos/neg,fruit,wn_hypernym,not_certain,0.5558884789689682
+soursop,pos/neg,fruit,wn_hypernym,not_certain,0.558776954731243
+banana,pos/neg,fruit fruit,wn_hypernym manually_included,certain,0.5624032319681951
+grape,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5626791354460043
+juice,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5644241023876847
+mango,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5648833218703845
+potatoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5694608732734268
+grapefruit,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5815567118166695
+peach,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.583550053756058
+potato,pos/neg,vegetable is_food vegetable is_food,cslb wn_hypernym manually_included,certain,0.5850681751639203
+watermelon,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.5868160558150098
+pineapple,pos,fruit is_juicy fruit is_juicy,cslb wn_hypernym manually_included,certain,0.596597726494762
+citrus,pos/neg,fruit,wn_hypernym,not_certain,0.599178826261165
+fruit,pos/neg,fruit,wn_hypernym,not_certain,0.6040791360481894
+lemon,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.6062876827575276
+strawberry,pos,fruit is_juicy,cslb wn_hypernym,not_certain,0.614146452292897
+tomato,pos,vegetable is_juicy,cslb wn_hypernym,not_certain,0.6615352898387721

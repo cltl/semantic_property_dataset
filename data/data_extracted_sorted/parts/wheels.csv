@@ -1,0 +1,476 @@
+concept,label,categories_str,sources_str,certainty
+scooty,pos,has_wheels,cslb_crowd_pos,certain
+snowplough,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+tipper_lorry,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+recumbent_bicycle,pos,has_wheels,cslb_crowd_pos,certain
+lawnmower,pos,has_wheels,cslb_crowd_pos,certain
+wheeler,pos,has_wheels,cslb_crowd_pos,certain
+pushbike,pos,has_wheels,cslb_crowd_pos,certain
+taxi_cab,pos,has_wheels,cslb_crowd_pos,certain
+cycle_rickshaw,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+SUV,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+motorized_tricycle,pos,has_wheels,cslb_crowd_pos,certain
+trike,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+trishaw,pos,has_wheels,cslb_crowd_pos,certain
+golf_cart,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+pushchair,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+towtruck,pos,has_wheels,cslb_crowd_pos,certain
+wagon,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+stroller,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+quadbike,pos,has_wheels,cslb_crowd_pos,certain
+firetruck,pos,has_wheels,cslb_crowd_pos,certain
+schoolbus,pos,has_wheels,cslb_crowd_pos,certain
+rickshaw,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+station_wagon,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+trailbike,pos,has_wheels,cslb_crowd_pos,certain
+quad_bike,pos,has_wheels,cslb_crowd_pos,certain
+bike,pos,wheel has_wheels,wn_parts mcrae cslb_crowd_pos,certain
+minibike,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+dumper_truck,pos,has_wheels,cslb_crowd_pos,certain
+dump_truck,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+recumbent_tricycle,pos,has_wheels,cslb_crowd_pos,certain
+pickup_truck,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+minivan,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+hay_wagon,pos,has_wheels,cslb_crowd_pos,certain
+motorcyle,pos,has_wheels,cslb_crowd_pos,certain
+donkey_cart,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+motocycle,pos,has_wheels,cslb_crowd_pos,certain
+motorycle,pos,has_wheels,cslb_crowd_pos,certain
+minibus,pos,has_wheels,cslb_crowd_pos,certain
+scooter,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+electric_scooter,pos,has_wheels,cslb_crowd_pos,certain
+bicyle,pos,has_wheels,cslb_crowd_pos,certain
+motor_scooter,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+motorbike,pos,wheel has_wheels,wn_parts cslb_crowd_pos,certain
+pushbikes,pos,has_wheels,cslb_crowd_pos,certain
+motorscooter,pos,has_wheels,cslb_crowd_pos,certain
+pulk,neg,has_wheels,cslb_crowd_neg,certain
+schooner,neg,has_wheels,cslb_crowd_neg,certain
+skidoo,neg,has_wheels,cslb_crowd_neg,certain
+zorb,neg,has_wheels,cslb_crowd_neg,certain
+cargo_ship,neg,has_wheels,cslb_crowd_neg,certain
+packhorse,neg,has_wheels,cslb_crowd_neg,certain
+tugboat,neg,has_wheels,cslb_crowd_neg,certain
+piton,neg,has_wheels,cslb_crowd_neg,certain
+warship,neg,has_wheels,cslb_crowd_neg,certain
+backcountry_ski,neg,has_wheels,cslb_crowd_neg,certain
+skiis,neg,has_wheels,cslb_crowd_neg,certain
+husky_sled,neg,has_wheels,cslb_crowd_neg,certain
+icy_slope,neg,has_wheels,cslb_crowd_neg,certain
+frigate,neg,has_wheels,cslb_crowd_neg,certain
+toboggan,neg,has_wheels,cslb_crowd_neg,certain
+dog_sled,neg,has_wheels,cslb_crowd_neg,certain
+sledger,neg,has_wheels,cslb_crowd_neg,certain
+ship_docked,neg,has_wheels,cslb_crowd_neg,certain
+ship,neg,has_wheels has_wheels,cslb_crowd_neg manually_included,certain
+naval_vessel,neg,has_wheels,cslb_crowd_neg,certain
+yacht,neg,has_wheels,cslb_crowd_neg,certain
+sled,neg,has_wheels has_wheels,cslb_crowd_neg manually_included,certain
+merchant_vessel,neg,has_wheels,cslb_crowd_neg,certain
+sledging,neg,has_wheels,cslb_crowd_neg,certain
+cruise_liner,neg,has_wheels,cslb_crowd_neg,certain
+cruise_ship,neg,has_wheels,cslb_crowd_neg,certain
+boxship,neg,has_wheels,cslb_crowd_neg,certain
+freighter,neg,has_wheels,cslb_crowd_neg,certain
+tailboard,neg,has_wheels,cslb_crowd_neg,certain
+crusier,neg,has_wheels,cslb_crowd_neg,certain
+skidoos,neg,has_wheels,cslb_crowd_neg,certain
+vessel,neg,has_wheels,cslb_crowd_neg,certain
+sledged,neg,has_wheels,cslb_crowd_neg,certain
+skijor,neg,has_wheels,cslb_crowd_neg,certain
+boat,neg,has_wheels has_wheels,cslb_crowd_neg manually_included,certain
+battleship,neg,has_wheels,cslb_crowd_neg,certain
+trawler,neg,has_wheels,cslb_crowd_neg,certain
+winch,neg,has_wheels,cslb_crowd_neg,certain
+aeroplane,pos,has_wheels,cslb,not_certain
+ambulance,pos,wheel has_wheels,wn_parts cslb,not_certain
+bicycle,pos,wheel has_wheels,wn_parts cslb,not_certain
+buggy,pos,wheel has_wheels,wn_parts mcrae cslb,not_certain
+bus,pos,wheel has_wheels,wn_parts mcrae cslb,not_certain
+cannon,pos,has_wheels,mcrae cslb,not_certain
+car,pos,wheel has_wheels wheel has_wheels,wn_parts mcrae cslb manually_included,certain
+caravan,pos,wheel has_wheels,wn_parts cslb,not_certain
+carriage,pos,wheel has_wheels wheel has_wheels,wn_parts cslb manually_included,certain
+cart,pos,wheel has_wheels,wn_parts cslb,not_certain
+coach_(vehicle),pos,has_wheels,cslb,not_certain
+jeep,pos,wheel has_wheels,wn_parts cslb,not_certain
+land_rover,pos,has_wheels,cslb,not_certain
+limousine,pos,wheel has_wheels,wn_parts cslb,not_certain
+lorry,pos,wheel has_wheels,wn_parts cslb,not_certain
+moped,pos,wheel has_wheels,wn_parts cslb,not_certain
+motorcycle,pos,wheel has_wheels,wn_parts cslb,not_certain
+oil_tanker,pos,has_wheels,cslb,not_certain
+porsche,pos,has_wheels,cslb,not_certain
+pram,pos,wheel has_wheels,wn_parts cslb,not_certain
+range_rover,pos,has_wheels,cslb,not_certain
+rollerskate,pos,has_wheels,cslb,not_certain
+rolls_royce,pos,has_wheels,cslb,not_certain
+skateboard,pos,wheel has_wheels,wn_parts cslb,not_certain
+taxi,pos,wheel has_wheels,wn_parts cslb,not_certain
+tractor,pos,wheel has_wheels,wn_parts cslb,not_certain
+train,pos,has_wheels has_wheels,cslb manually_included,certain
+tricycle,pos,wheel has_wheels,wn_parts cslb,not_certain
+trolley,pos,wheel has_wheels,wn_parts cslb,not_certain
+truck,pos,wheel has_wheels,wn_parts cslb,not_certain
+unicycle,pos,wheel has_wheels wheel has_wheels,wn_parts cslb manually_included,certain
+van,pos,wheel has_wheels,wn_parts cslb,not_certain
+wheelbarrow,pos,wheel has_wheels,wn_parts cslb,not_certain
+wheelchair,pos,has_wheels,cslb,not_certain
+felloe,pos,wheels,wn_parts,not_certain
+felly,pos,wheels,wn_parts,not_certain
+rim,pos,wheels,wn_parts,not_certain
+4WD,pos,wheel,wn_parts,not_certain
+APC,pos,wheel,wn_parts,not_certain
+Caterpillar,pos,wheel,wn_parts,not_certain
+Conestoga,pos,wheel,wn_parts,not_certain
+Conestoga_wagon,pos,wheel,wn_parts,not_certain
+Model_T,pos,wheel,wn_parts,not_certain
+Pullman,pos,wheel,wn_parts,not_certain
+Pullman_car,pos,wheel,wn_parts,not_certain
+R.V.,pos,wheel,wn_parts,not_certain
+RV,pos,wheel,wn_parts,not_certain
+S.U.V.,pos,wheel,wn_parts,not_certain
+Sno-cat,pos,wheel,wn_parts,not_certain
+Stanley_Steamer,pos,wheel,wn_parts,not_certain
+aerial_ladder_truck,pos,wheel,wn_parts,not_certain
+all-terrain_bike,pos,wheel,wn_parts,not_certain
+amphibian,pos,wheel,wn_parts,not_certain
+amphibious_vehicle,pos,wheel,wn_parts,not_certain
+angledozer,pos,wheel,wn_parts,not_certain
+applecart,pos,wheel,wn_parts,not_certain
+armored_car,pos,wheel,wn_parts,not_certain
+armored_combat_vehicle,pos,wheel,wn_parts,not_certain
+armored_personnel_carrier,pos,wheel,wn_parts,not_certain
+armored_vehicle,pos,wheel,wn_parts,not_certain
+armoured_car,pos,wheel,wn_parts,not_certain
+armoured_combat_vehicle,pos,wheel,wn_parts,not_certain
+armoured_personnel_carrier,pos,wheel,wn_parts,not_certain
+armoured_vehicle,pos,wheel,wn_parts,not_certain
+army_tank,pos,wheel,wn_parts,not_certain
+articulated_lorry,pos,wheel,wn_parts,not_certain
+assault_gun,pos,wheel,wn_parts,not_certain
+auto,pos,wheel,wn_parts,not_certain
+automobile,pos,wheel,wn_parts,not_certain
+automotive_vehicle,pos,wheel,wn_parts,not_certain
+baby_buggy,pos,wheel,wn_parts,not_certain
+baby_carriage,pos,wheel,wn_parts,not_certain
+baggage_car,pos,wheel,wn_parts,not_certain
+bandwagon,pos,wheel,wn_parts,not_certain
+barouche,pos,wheel,wn_parts,not_certain
+barrow,pos,wheel,wn_parts,not_certain
+bassinet,pos,wheel,wn_parts,not_certain
+beach_buggy,pos,wheel,wn_parts,not_certain
+beach_waggon,pos,wheel,wn_parts,not_certain
+beach_wagon,pos,wheel,wn_parts,not_certain
+berlin,pos,wheel,wn_parts,not_certain
+bicycle-built-for-two,pos,wheel,wn_parts,not_certain
+black_Maria,pos,wheel,wn_parts,not_certain
+bloodmobile,pos,wheel,wn_parts,not_certain
+boneshaker,pos,wheel,wn_parts,not_certain
+bookmobile,pos,wheel,wn_parts,not_certain
+boxcar,pos,wheel,wn_parts,not_certain
+brougham,pos,wheel,wn_parts,not_certain
+buckboard,pos,wheel,wn_parts,not_certain
+buffet_car,pos,wheel,wn_parts,not_certain
+bulldozer,pos,wheel,wn_parts,not_certain
+cab,pos,wheel,wn_parts,not_certain
+cabin_car,pos,wheel,wn_parts,not_certain
+caboose,pos,wheel,wn_parts,not_certain
+cabriolet,pos,wheel,wn_parts,not_certain
+camion,pos,wheel,wn_parts,not_certain
+camper,pos,wheel,wn_parts,not_certain
+camper_trailer,pos,wheel,wn_parts,not_certain
+camping_bus,pos,wheel,wn_parts,not_certain
+car_transporter,pos,wheel,wn_parts,not_certain
+caroche,pos,wheel,wn_parts,not_certain
+carrier,pos,wheel,wn_parts,not_certain
+cat,pos,wheel,wn_parts,not_certain
+cattle_car,pos,wheel,wn_parts,not_certain
+chair_car,pos,wheel,wn_parts,not_certain
+chaise,pos,wheel,wn_parts,not_certain
+chariot,pos,wheel,wn_parts,not_certain
+choo-choo,pos,wheel,wn_parts,not_certain
+chuck_wagon,pos,wheel,wn_parts,not_certain
+clarence,pos,wheel,wn_parts,not_certain
+club_car,pos,wheel,wn_parts,not_certain
+coach,pos,wheel,wn_parts,not_certain
+coach-and-four,pos,wheel,wn_parts,not_certain
+coal_car,pos,wheel,wn_parts,not_certain
+coaster_wagon,pos,wheel,wn_parts,not_certain
+compact,pos,wheel,wn_parts,not_certain
+compact_car,pos,wheel,wn_parts,not_certain
+convertible,pos,wheel,wn_parts,not_certain
+coupe,pos,wheel,wn_parts,not_certain
+covered_wagon,pos,wheel,wn_parts,not_certain
+cruiser,pos,wheel,wn_parts,not_certain
+cycle,pos,wheel,wn_parts,not_certain
+delivery_truck,pos,wheel,wn_parts,not_certain
+delivery_van,pos,wheel,wn_parts,not_certain
+diesel-electric,pos,wheel,wn_parts,not_certain
+diesel-electric_locomotive,pos,wheel,wn_parts,not_certain
+diesel-hydraulic,pos,wheel,wn_parts,not_certain
+diesel-hydraulic_locomotive,pos,wheel,wn_parts,not_certain
+diesel_locomotive,pos,wheel,wn_parts,not_certain
+diner,pos,wheel,wn_parts,not_certain
+dining_car,pos,wheel,wn_parts,not_certain
+dining_compartment,pos,wheel,wn_parts,not_certain
+dinkey,pos,wheel,wn_parts,not_certain
+dinky,pos,wheel,wn_parts,not_certain
+dirt_bike,pos,wheel,wn_parts,not_certain
+dogcart,pos,wheel,wn_parts,not_certain
+donkey_engine,pos,wheel,wn_parts,not_certain
+doodlebug,pos,wheel,wn_parts,not_certain
+dozer,pos,wheel,wn_parts,not_certain
+drawing-room_car,pos,wheel,wn_parts,not_certain
+dray,pos,wheel,wn_parts,not_certain
+droshky,pos,wheel,wn_parts,not_certain
+drosky,pos,wheel,wn_parts,not_certain
+dumpcart,pos,wheel,wn_parts,not_certain
+dumper,pos,wheel,wn_parts,not_certain
+dune_buggy,pos,wheel,wn_parts,not_certain
+dustcart,pos,wheel,wn_parts,not_certain
+electric,pos,wheel,wn_parts,not_certain
+electric_automobile,pos,wheel,wn_parts,not_certain
+electric_car,pos,wheel,wn_parts,not_certain
+electric_locomotive,pos,wheel,wn_parts,not_certain
+engine,pos,wheel,wn_parts,not_certain
+equipage,pos,wheel,wn_parts,not_certain
+estate_car,pos,wheel,wn_parts,not_certain
+finisher,pos,wheel,wn_parts,not_certain
+fire_engine,pos,wheel,wn_parts,not_certain
+fire_truck,pos,wheel,wn_parts,not_certain
+flat,pos,wheel,wn_parts,not_certain
+flatbed,pos,wheel,wn_parts,not_certain
+flatcar,pos,wheel,wn_parts,not_certain
+forklift,pos,wheel,wn_parts,not_certain
+four-in-hand,pos,wheel,wn_parts,not_certain
+four-wheel_drive,pos,wheel,wn_parts,not_certain
+four-wheeler,pos,wheel,wn_parts,not_certain
+freight_car,pos,wheel,wn_parts,not_certain
+funny_wagon,pos,wheel,wn_parts,not_certain
+garbage_truck,pos,wheel,wn_parts,not_certain
+garden_cart,pos,wheel,wn_parts,not_certain
+gas_guzzler,pos,wheel,wn_parts,not_certain
+gharry,pos,wheel,wn_parts,not_certain
+gig,pos,wheel,wn_parts,not_certain
+go-cart,pos,wheel,wn_parts,not_certain
+go-kart,pos,wheel,wn_parts,not_certain
+golfcart,pos,wheel,wn_parts,not_certain
+gondola,pos,wheel,wn_parts,not_certain
+gondola_car,pos,wheel,wn_parts,not_certain
+guard's_van,pos,wheel,wn_parts,not_certain
+gypsy_cab,pos,wheel,wn_parts,not_certain
+hack,pos,wheel,wn_parts,not_certain
+hackney,pos,wheel,wn_parts,not_certain
+hackney_carriage,pos,wheel,wn_parts,not_certain
+hackney_coach,pos,wheel,wn_parts,not_certain
+half_track,pos,wheel,wn_parts,not_certain
+hand_truck,pos,wheel,wn_parts,not_certain
+handcar,pos,wheel,wn_parts,not_certain
+handcart,pos,wheel,wn_parts,not_certain
+hansom,pos,wheel,wn_parts,not_certain
+hansom_cab,pos,wheel,wn_parts,not_certain
+hardtop,pos,wheel,wn_parts,not_certain
+hatchback,pos,wheel,wn_parts,not_certain
+heap,pos,wheel,wn_parts,not_certain
+hearse,pos,wheel,wn_parts,not_certain
+horse-cart,pos,wheel,wn_parts,not_certain
+horse-drawn_vehicle,pos,wheel,wn_parts,not_certain
+horse_cart,pos,wheel,wn_parts,not_certain
+horsecar,pos,wheel,wn_parts,not_certain
+horseless_carriage,pos,wheel,wn_parts,not_certain
+hot-rod,pos,wheel,wn_parts,not_certain
+hot_rod,pos,wheel,wn_parts,not_certain
+house_trailer,pos,wheel,wn_parts,not_certain
+ice-wagon,pos,wheel,wn_parts,not_certain
+ice_wagon,pos,wheel,wn_parts,not_certain
+iron_horse,pos,wheel,wn_parts,not_certain
+jalopy,pos,wheel,wn_parts,not_certain
+jaunting_car,pos,wheel,wn_parts,not_certain
+jaunty_car,pos,wheel,wn_parts,not_certain
+jinrikisha,pos,wheel,wn_parts,not_certain
+ladder_truck,pos,wheel,wn_parts,not_certain
+landau,pos,wheel,wn_parts,not_certain
+landrover,pos,wheel,wn_parts,not_certain
+laundry_cart,pos,wheel,wn_parts,not_certain
+laundry_truck,pos,wheel,wn_parts,not_certain
+lawn_cart,pos,wheel,wn_parts,not_certain
+limber,pos,wheel,wn_parts,not_certain
+limo,pos,wheel,wn_parts,not_certain
+loaner,pos,wheel,wn_parts,not_certain
+locomotive,pos,wheel,wn_parts,not_certain
+locomotive_engine,pos,wheel,wn_parts,not_certain
+lounge_car,pos,wheel,wn_parts,not_certain
+luggage_van,pos,wheel,wn_parts,not_certain
+machine,pos,wheel,wn_parts,not_certain
+mail_car,pos,wheel,wn_parts,not_certain
+manufactured_home,pos,wheel,wn_parts,not_certain
+marsh_buggy,pos,wheel,wn_parts,not_certain
+milk_float,pos,wheel,wn_parts,not_certain
+milk_wagon,pos,wheel,wn_parts,not_certain
+milkwagon,pos,wheel,wn_parts,not_certain
+minicab,pos,wheel,wn_parts,not_certain
+minicar,pos,wheel,wn_parts,not_certain
+mobile_home,pos,wheel,wn_parts,not_certain
+monocycle,pos,wheel,wn_parts,not_certain
+motor_home,pos,wheel,wn_parts,not_certain
+motor_vehicle,pos,wheel,wn_parts,not_certain
+motorcar,pos,wheel,wn_parts,not_certain
+motortruck,pos,wheel,wn_parts,not_certain
+mountain_bike,pos,wheel,wn_parts,not_certain
+moving_van,pos,wheel,wn_parts,not_certain
+nonsmoker,pos,wheel,wn_parts,not_certain
+nonsmoking_car,pos,wheel,wn_parts,not_certain
+off-roader,pos,wheel,wn_parts,not_certain
+ordinary,pos,wheel,wn_parts,not_certain
+ordinary_bicycle,pos,wheel,wn_parts,not_certain
+oxcart,pos,wheel,wn_parts,not_certain
+pace_car,pos,wheel,wn_parts,not_certain
+paddy_wagon,pos,wheel,wn_parts,not_certain
+palace_car,pos,wheel,wn_parts,not_certain
+panda_car,pos,wheel,wn_parts,not_certain
+panel_truck,pos,wheel,wn_parts,not_certain
+pantechnicon,pos,wheel,wn_parts,not_certain
+panzer,pos,wheel,wn_parts,not_certain
+parlor_car,pos,wheel,wn_parts,not_certain
+parlour_car,pos,wheel,wn_parts,not_certain
+passenger_car,pos,wheel,wn_parts,not_certain
+passenger_van,pos,wheel,wn_parts,not_certain
+pastry_cart,pos,wheel,wn_parts,not_certain
+patrol_car,pos,wheel,wn_parts,not_certain
+patrol_wagon,pos,wheel,wn_parts,not_certain
+pedicab,pos,wheel,wn_parts,not_certain
+perambulator,pos,wheel,wn_parts,not_certain
+personnel_carrier,pos,wheel,wn_parts,not_certain
+phaeton,pos,wheel,wn_parts,not_certain
+pickup,pos,wheel,wn_parts,not_certain
+pilot_engine,pos,wheel,wn_parts,not_certain
+police_car,pos,wheel,wn_parts,not_certain
+police_cruiser,pos,wheel,wn_parts,not_certain
+police_van,pos,wheel,wn_parts,not_certain
+police_wagon,pos,wheel,wn_parts,not_certain
+pony_cart,pos,wheel,wn_parts,not_certain
+ponycart,pos,wheel,wn_parts,not_certain
+post_chaise,pos,wheel,wn_parts,not_certain
+prairie_schooner,pos,wheel,wn_parts,not_certain
+prairie_wagon,pos,wheel,wn_parts,not_certain
+prowl_car,pos,wheel,wn_parts,not_certain
+push-bike,pos,wheel,wn_parts,not_certain
+pushcart,pos,wheel,wn_parts,not_certain
+pusher,pos,wheel,wn_parts,not_certain
+race_car,pos,wheel,wn_parts,not_certain
+racer,pos,wheel,wn_parts,not_certain
+racing_car,pos,wheel,wn_parts,not_certain
+railcar,pos,wheel,wn_parts,not_certain
+railroad_car,pos,wheel,wn_parts,not_certain
+railway_car,pos,wheel,wn_parts,not_certain
+railway_locomotive,pos,wheel,wn_parts,not_certain
+reconnaissance_vehicle,pos,wheel,wn_parts,not_certain
+recreational_vehicle,pos,wheel,wn_parts,not_certain
+refrigerator_car,pos,wheel,wn_parts,not_certain
+remise,pos,wheel,wn_parts,not_certain
+ricksha,pos,wheel,wn_parts,not_certain
+rig,pos,wheel,wn_parts,not_certain
+roadster,pos,wheel,wn_parts,not_certain
+rolling_stock,pos,wheel,wn_parts,not_certain
+runabout,pos,wheel,wn_parts,not_certain
+safety_bicycle,pos,wheel,wn_parts,not_certain
+safety_bike,pos,wheel,wn_parts,not_certain
+saloon,pos,wheel,wn_parts,not_certain
+scout_car,pos,wheel,wn_parts,not_certain
+scrambler,pos,wheel,wn_parts,not_certain
+secondhand_car,pos,wheel,wn_parts,not_certain
+sedan,pos,wheel wheel,wn_parts manually_included,certain
+self-propelled_vehicle,pos,wheel,wn_parts,not_certain
+semi,pos,wheel,wn_parts,not_certain
+serving_cart,pos,wheel,wn_parts,not_certain
+shay,pos,wheel,wn_parts,not_certain
+shooting_brake,pos,wheel,wn_parts,not_certain
+shopping_cart,pos,wheel,wn_parts,not_certain
+shunter,pos,wheel,wn_parts,not_certain
+skidder,pos,wheel,wn_parts,not_certain
+sleeper,pos,wheel,wn_parts,not_certain
+sleeping_car,pos,wheel,wn_parts,not_certain
+slip_carriage,pos,wheel,wn_parts,not_certain
+slip_coach,pos,wheel,wn_parts,not_certain
+smoker,pos,wheel,wn_parts,not_certain
+smoking_car,pos,wheel,wn_parts,not_certain
+smoking_carriage,pos,wheel,wn_parts,not_certain
+smoking_compartment,pos,wheel,wn_parts,not_certain
+snowmobile,pos,wheel,wn_parts,not_certain
+snowplow,pos,wheel,wn_parts,not_certain
+sound_truck,pos,wheel,wn_parts,not_certain
+sport_car,pos,wheel,wn_parts,not_certain
+sport_utility,pos,wheel,wn_parts,not_certain
+sport_utility_vehicle,pos,wheel,wn_parts,not_certain
+sports_car,pos,wheel,wn_parts,not_certain
+squad_car,pos,wheel,wn_parts,not_certain
+stage,pos,wheel,wn_parts,not_certain
+stagecoach,pos,wheel,wn_parts,not_certain
+stanhope,pos,wheel,wn_parts,not_certain
+station_waggon,pos,wheel,wn_parts,not_certain
+steam_locomotive,pos,wheel,wn_parts,not_certain
+stock_car,pos,wheel,wn_parts,not_certain
+stockcar,pos,wheel,wn_parts,not_certain
+streetcar,pos,wheel,wn_parts,not_certain
+subcompact,pos,wheel,wn_parts,not_certain
+subcompact_car,pos,wheel,wn_parts,not_certain
+sulky,pos,wheel,wn_parts,not_certain
+surrey,pos,wheel,wn_parts,not_certain
+swamp_buggy,pos,wheel,wn_parts,not_certain
+switch_engine,pos,wheel,wn_parts,not_certain
+tandem,pos,wheel,wn_parts,not_certain
+tandem_bicycle,pos,wheel,wn_parts,not_certain
+tandem_trailer,pos,wheel,wn_parts,not_certain
+tank,pos,wheel,wn_parts,not_certain
+tank_car,pos,wheel,wn_parts,not_certain
+tank_destroyer,pos,wheel,wn_parts,not_certain
+tank_engine,pos,wheel,wn_parts,not_certain
+tank_locomotive,pos,wheel,wn_parts,not_certain
+taxicab,pos,wheel,wn_parts,not_certain
+tea_cart,pos,wheel,wn_parts,not_certain
+tea_trolley,pos,wheel,wn_parts,not_certain
+tea_wagon,pos,wheel,wn_parts,not_certain
+teacart,pos,wheel,wn_parts,not_certain
+technical,pos,wheel,wn_parts,not_certain
+tender,pos,wheel,wn_parts,not_certain
+tip_truck,pos,wheel,wn_parts,not_certain
+tipper,pos,wheel,wn_parts,not_certain
+tipper_truck,pos,wheel,wn_parts,not_certain
+tourer,pos,wheel,wn_parts,not_certain
+touring_car,pos,wheel,wn_parts,not_certain
+tow_car,pos,wheel,wn_parts,not_certain
+tow_truck,pos,wheel,wn_parts,not_certain
+tracked_vehicle,pos,wheel,wn_parts,not_certain
+traction_engine,pos,wheel,wn_parts,not_certain
+tractor_trailer,pos,wheel,wn_parts,not_certain
+trail_bike,pos,wheel,wn_parts,not_certain
+trailer,pos,wheel,wn_parts,not_certain
+trailer_truck,pos,wheel,wn_parts,not_certain
+tram,pos,wheel,wn_parts,not_certain
+tramcar,pos,wheel,wn_parts,not_certain
+transporter,pos,wheel,wn_parts,not_certain
+trap,pos,wheel,wn_parts,not_certain
+troika,pos,wheel,wn_parts,not_certain
+trolley_car,pos,wheel,wn_parts,not_certain
+trucking_rig,pos,wheel,wn_parts,not_certain
+tub-cart,pos,wheel,wn_parts,not_certain
+tumbrel,pos,wheel,wn_parts,not_certain
+tumbril,pos,wheel,wn_parts,not_certain
+two-seater,pos,wheel,wn_parts,not_certain
+used-car,pos,wheel,wn_parts,not_certain
+velocipede,pos,wheel,wn_parts,not_certain
+waggon,pos,wheel,wn_parts,not_certain
+wagon-lit,pos,wheel,wn_parts,not_certain
+wain,pos,wheel,wn_parts,not_certain
+water_cart,pos,wheel,wn_parts,not_certain
+water_waggon,pos,wheel,wn_parts,not_certain
+water_wagon,pos,wheel,wn_parts,not_certain
+watering_cart,pos,wheel,wn_parts,not_certain
+weapons_carrier,pos,wheel,wn_parts,not_certain
+welcome_wagon,pos,wheel,wn_parts,not_certain
+wheel,pos,wheel,wn_parts,not_certain
+wheeled_vehicle,pos,wheel,wn_parts,not_certain
+wrecker,pos,wheel,wn_parts,not_certain
+,neg,neg_met,manually_included,certain
+sleigh,neg,neg,manually_included,certain

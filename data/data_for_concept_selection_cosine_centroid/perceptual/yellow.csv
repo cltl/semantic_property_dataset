@@ -1,0 +1,432 @@
+concept,label,categories_str,sources_str,certainty,cosine_centroid
+crypt,neg,is_black,veale_simile,not_certain,0.10141769697125598
+world,neg,blue,conceptnet,not_certain,0.11379732502699619
+recorder,neg,is_black,cslb,not_certain,0.11967910466123172
+football,neg,is_black,cslb,not_certain,0.1246974226484907
+newspaper,neg,is_black,cslb,not_certain,0.13011072254975004
+bluejay,neg,is_blue,mcrae,not_certain,0.13682023343408994
+cape,neg,is_black,mcrae,not_certain,0.1372720054196278
+tyre,neg,is_black,cslb,not_certain,0.13727947173459754
+ring,neg,blue,conceptnet,not_certain,0.1440131637807994
+suit,neg,is_black,cslb,not_certain,0.1479126730065796
+indian,neg,is_red,veale_simile,not_certain,0.1531377230464531
+shy,neg,blue,conceptnet,not_certain,0.15502120291630636
+rook,neg,is_black,veale_simile,not_certain,0.1569638224484462
+humans,neg,black,conceptnet,not_certain,0.16938201310146214
+jay,neg,is_blue,veale_simile,not_certain,0.17047436056348708
+night,neg,is_black black,conceptnet veale_simile,not_certain,0.1710652282958597
+pit,neg,is_black,veale_simile,not_certain,0.17125450905930642
+parka,neg,is_green,cslb,not_certain,0.17284708282271852
+tires,neg,black,conceptnet,not_certain,0.177246697518627
+cannon,neg,is_black,mcrae,not_certain,0.17900416460173507
+tar,neg,black,conceptnet,not_certain,0.17916869639489677
+cricket,neg,is_green,cslb,not_certain,0.18066517858687275
+tank,neg,is_green,cslb,not_certain,0.18124726054585436
+clarinet,neg,is_black,cslb,not_certain,0.18175355420620476
+bloodstone,neg,red,conceptnet,not_certain,0.18248756245495457
+robin,neg,is_red,cslb,not_certain,0.1825011569440024
+ambulance,neg,is_red,mcrae,not_certain,0.1842655570713599
+leafs,neg,green,conceptnet,not_certain,0.18729596488171868
+heart,neg,is_yellow is_red,cslb cslb_crowd_neg,certain,0.1879026502095762
+cloak,neg,is_black,cslb,not_certain,0.19486674878378052
+jeeps,neg,red,conceptnet,not_certain,0.19526219753966298
+bus,pos,is_yellow is_red,cslb mcrae,not_certain,0.20188473417008865
+blackboard,neg,is_black,veale_simile,not_certain,0.20346529376783146
+nightmare,neg,is_black,veale_simile,not_certain,0.20375598986682683
+car,neg,red green,conceptnet,not_certain,0.20646214138458577
+fox,neg,is_red,cslb veale_simile,not_certain,0.2064624125509674
+piano,neg,is_black,cslb,not_certain,0.20661141307039457
+cars,neg,red,conceptnet,not_certain,0.20820438163061916
+jaguars,neg,black,conceptnet,not_certain,0.2095134787694226
+jeans,neg,is_black is_blue,cslb,not_certain,0.20966883790558816
+cinder,neg,is_black,veale_simile,not_certain,0.21022469364041577
+tongue,neg,is_red,cslb,not_certain,0.21058752842437456
+bra,neg,is_black,mcrae,not_certain,0.21672544899894058
+calf,neg,is_black,cslb,not_certain,0.2171345987996964
+coal,neg,is_black,veale_simile,not_certain,0.21728072398322387
+lagoon,neg,is_blue,veale_simile,not_certain,0.21969493778743088
+eye,neg,is_green is_blue,cslb,not_certain,0.2200469286756452
+wand,neg,is_black,cslb,not_certain,0.22187607101512546
+moss,neg,is_green,cslb,not_certain,0.22376904571379222
+miner,neg,is_black,veale_simile,not_certain,0.22602222370487207
+jeep,neg,is_green,cslb,not_certain,0.2264067502493344
+wetsuit,neg,is_black,cslb,not_certain,0.2287349376246816
+dress,neg,blue,conceptnet,not_certain,0.22927249968163435
+gown,neg,is_black,cslb,not_certain,0.229388989845823
+pyramid,pos,is_yellow,cslb,not_certain,0.23092566605727907
+hose,neg,is_green,cslb,not_certain,0.2310479437612286
+limousine,neg,is_black,cslb,not_certain,0.23107465531485227
+panther,neg,is_black,cslb veale_simile,not_certain,0.23389513177598137
+starling,neg,is_black,cslb,not_certain,0.23411622786503916
+clothing,neg,red,conceptnet,not_certain,0.234852821850181
+barn,neg,is_red,mcrae,not_certain,0.23511613415550622
+raven,neg,is_black,cslb veale_simile,not_certain,0.23551856160161835
+couch,neg,black,conceptnet,not_certain,0.23922915381247783
+crow,neg,is_black,veale_simile,not_certain,0.2398402349947096
+leopards,neg,black,conceptnet,not_certain,0.2404869769648964
+iceberg,neg,is_blue,veale_simile,not_certain,0.2408314780906045
+taxi,pos,is_yellow is_black,cslb,not_certain,0.24380557634077046
+tights,neg,is_black,cslb,not_certain,0.2464285032185054
+diamond,neg,blue,conceptnet,not_certain,0.25087239984903786
+herring,neg,is_red,cslb veale_simile,not_certain,0.2517836309183955
+eyes,neg,green blue,conceptnet,not_certain,0.2537304819433954
+fir,neg,is_green,cslb,not_certain,0.2538048707272279
+water,neg,blue,conceptnet,not_certain,0.2552483827088567
+brick,neg,is_red,cslb mcrae,not_certain,0.2561696746340547
+rhino,neg,is_black,cslb,not_certain,0.25657711023850555
+dolphin,neg,is_blue,cslb veale_simile,not_certain,0.2587649401931291
+sun,pos,is_yellow,veale_simile,not_certain,0.2591098772288182
+jade,neg,green,conceptnet,not_certain,0.26043561112152247
+sky,neg,blue is_blue,conceptnet veale_simile,not_certain,0.2612646696184951
+crane,pos,pos,manually_included,certain,0.2615852267948377
+stockings,neg,is_black,cslb,not_certain,0.2637372794368149
+boots,neg,is_black,mcrae,not_certain,0.2652358492585209
+sand,neg,black,conceptnet,not_certain,0.2668341825712103
+kingfisher,neg,is_green is_blue,cslb veale_simile,not_certain,0.2668365618259162
+lark,neg,is_blue,veale_simile,not_certain,0.2671550562983869
+flame,neg,is_red,veale_simile,not_certain,0.2682976875010347
+bear,neg,is_black,cslb mcrae,not_certain,0.2700677472724623
+chameleons,neg,blue,conceptnet,not_certain,0.27132123149033316
+thundercloud,neg,is_black,veale_simile,not_certain,0.2723197119696462
+yoyo,neg,red,conceptnet,not_certain,0.27265814001417965
+lantern,neg,is_black,cslb,not_certain,0.2736988312995936
+lips,neg,is_red,cslb,not_certain,0.27397463710235354
+cats,neg,black,conceptnet,not_certain,0.27653704215008096
+lawn,neg,green,conceptnet,not_certain,0.2766842607103438
+hair,neg,is_black is_red,cslb,not_certain,0.27737937420012315
+buzzard,neg,is_black,mcrae,not_certain,0.2783497502286286
+elm,neg,is_green,cslb,not_certain,0.27920866730405836
+jam,neg,is_red,cslb,not_certain,0.2796929196739601
+ink,neg,black,conceptnet,not_certain,0.28016994429427317
+ruby,neg,red is_red,conceptnet veale_simile,not_certain,0.2821987604143517
+canary,pos,is_yellow is_yellow,cslb mcrae manually_included,certain,0.2825842229778367
+bat,neg,is_black,veale_simile,not_certain,0.28294429514913927
+whale,neg,is_blue,cslb,not_certain,0.28344370608339886
+rooster,neg,is_red,veale_simile,not_certain,0.2841894543875108
+millipede,neg,is_black,cslb,not_certain,0.286481209516267
+umbrellas,neg,blue,conceptnet,not_certain,0.28704527535353175
+pelican,neg,is_black,cslb,not_certain,0.2881938276451362
+sunbeam,pos,is_yellow,veale_simile,not_certain,0.28856388373940567
+paint,pos,pos,manually_included,certain,0.2886311348495879
+blackbird,neg,is_black,mcrae,not_certain,0.28986327008231116
+cheetah,pos,is_yellow,cslb,not_certain,0.2904040984951889
+beehive,pos,is_yellow,mcrae,not_certain,0.29105966490927093
+balloons,neg,red,conceptnet,not_certain,0.2911924998444152
+peacock,neg,is_green is_blue,cslb,not_certain,0.29230455822222995
+sandpaper,pos,is_yellow,cslb cslb_crowd_pos,certain,0.29335034839963914
+penguin,neg,is_black,cslb,not_certain,0.29483604578209066
+tiger,neg,is_black,cslb,not_certain,0.2954937676854792
+glass,neg,green,conceptnet,not_certain,0.29699757036713276
+oven,neg,is_black,veale_simile,not_certain,0.2970136624083327
+rose,pos,red is_yellow is_red,cslb conceptnet veale_simile cslb_crowd_pos,certain,0.2973023948946349
+gorilla,neg,is_black,cslb,not_certain,0.2976483361689472
+leek,neg,is_green,cslb,not_certain,0.2987635219148888
+emerald,neg,green,conceptnet,not_certain,0.30214949818256753
+scorpion,neg,is_black,cslb,not_certain,0.30272211347819794
+rubies,neg,red,conceptnet,not_certain,0.3036778826559858
+wines,neg,red,conceptnet,not_certain,0.30475302280485816
+housefly,neg,is_black,cslb,not_certain,0.3048410069748339
+sapphire,neg,blue,conceptnet,not_certain,0.30592399417936766
+limes,neg,green,conceptnet,not_certain,0.3061184243822581
+crocodile,neg,is_green,cslb,not_certain,0.30789280687901144
+slug,neg,is_black,cslb,not_certain,0.3083544889803489
+cockroach,neg,is_black,cslb,not_certain,0.3109127125766679
+lion,pos,is_yellow,cslb,not_certain,0.3112829126604178
+pot,neg,is_black,veale_simile,not_certain,0.3137110433246785
+spider,neg,is_black,cslb,not_certain,0.31481504788312936
+hornet,pos,is_yellow is_black,cslb,not_certain,0.31481819383715004
+iguana,neg,is_green,cslb,not_certain,0.3204113409697856
+flea,neg,is_black,cslb,not_certain,0.32073275643360905
+magpie,neg,is_black,cslb,not_certain,0.3213531552554899
+grasshopper,neg,is_green,cslb,not_certain,0.32212941199795736
+sycamore,neg,is_green,cslb,not_certain,0.32257661919653774
+raccoon,neg,is_black,cslb,not_certain,0.3226750644375828
+lizard,neg,is_green,cslb,not_certain,0.32280400807812837
+gherkin,neg,is_green,cslb,not_certain,0.32335107660948204
+champagne,pos,is_yellow,cslb,not_certain,0.32918126329381325
+mussel,neg,is_black,cslb,not_certain,0.3296648046710972
+prune,neg,is_black,cslb,not_certain,0.3299283082568503
+dog,neg,black,conceptnet,not_certain,0.3310939897638478
+carnation,neg,is_red,cslb,not_certain,0.33129206088733837
+zebra,neg,is_black,cslb,not_certain,0.33333071477448845
+parakeets,neg,green,conceptnet,not_certain,0.33586603281917915
+lipstick,neg,is_red,cslb,not_certain,0.3358766774737027
+wasp,pos,is_yellow is_black,cslb,not_certain,0.33710102843552137
+giraffe,pos,is_yellow,cslb,not_certain,0.33750329800289625
+tarantula,neg,is_black,cslb,not_certain,0.33791964662034235
+ant,neg,is_black is_red,cslb mcrae,not_certain,0.3396355683018668
+green,pos,yellow,conceptnet,not_certain,0.34145091546457446
+frogs,neg,green,conceptnet,not_certain,0.34183489522750116
+budgie,pos,is_green is_yellow is_blue,cslb mcrae,not_certain,0.34345620561158413
+turtle,neg,is_green,cslb,not_certain,0.34416815339693835
+leopard,pos,is_yellow is_black,cslb,not_certain,0.34506668332691043
+willow,neg,is_green,cslb,not_certain,0.3453419086875425
+caterpillar,neg,is_green,cslb,not_certain,0.34651959507947294
+locust,pos,is_yellow,cslb,not_certain,0.34735424748921123
+alligator,neg,is_green,cslb mcrae,not_certain,0.3474881713099896
+tortoise,neg,is_green,cslb,not_certain,0.34810565846540376
+pomegranates,neg,red,conceptnet,not_certain,0.3501507034636609
+sheep,neg,is_black,cslb,not_certain,0.35306433376142105
+toad,neg,is_green,cslb,not_certain,0.35321350436473287
+weeds,neg,green,conceptnet,not_certain,0.3552510320200051
+squirrel,neg,is_red,cslb,not_certain,0.3553187784403684
+insects,neg,green,conceptnet,not_certain,0.3553331156753771
+frog,neg,is_green green,cslb conceptnet,not_certain,0.35595915507265474
+ladybird,neg,is_black is_red,cslb,not_certain,0.3601279816054086
+pansy,pos,is_yellow,cslb,not_certain,0.3607751990272811
+skunk,neg,is_black,cslb,not_certain,0.3617428782106937
+berry,neg,is_red,veale_simile,not_certain,0.3626297383688573
+peony,neg,is_red,veale_simile,not_certain,0.36336329757593916
+yolk,pos,yellow,conceptnet,not_certain,0.36365189472997805
+daisy,pos,is_yellow,cslb,not_certain,0.36495894763462894
+raisin,neg,is_black,cslb,not_certain,0.36618133689120513
+daisies,pos,yellow,conceptnet,not_certain,0.36715073043192875
+wine,neg,is_red,cslb,not_certain,0.36799995575750727
+pine,neg,is_green,cslb,not_certain,0.3688431317755127
+aubergine,neg,is_green,cslb,not_certain,0.3690028288793972
+cow,neg,is_black,cslb,not_certain,0.3752732013025614
+beer,pos,is_yellow,cslb cslb_crowd_pos,certain,0.3768127266150906
+violets,neg,blue,conceptnet,not_certain,0.3777157665682247
+sloe,neg,is_black,veale_simile,not_certain,0.37802651734295334
+corncob,pos,yellow,conceptnet,not_certain,0.379437994489776
+beetle,neg,is_black,cslb mcrae,not_certain,0.3802268029081575
+lobster,neg,is_red,cslb veale_simile,not_certain,0.38165087490112226
+beets,neg,is_red,mcrae,not_certain,0.38234085271876245
+eggs,neg,blue,conceptnet,not_certain,0.3825895061321393
+truffles,neg,black,conceptnet,not_certain,0.39002560881149734
+geranium,neg,is_red,cslb,not_certain,0.3906652316773124
+rice,neg,black,conceptnet,not_certain,0.3910128552777599
+fern,neg,is_green,cslb,not_certain,0.39350195811799954
+daffodil,pos,is_yellow,cslb veale_simile,not_certain,0.394528903394142
+tomatoes,neg,red,conceptnet,not_certain,0.39516598189520036
+broccoli,neg,is_green green,cslb conceptnet mcrae,not_certain,0.3970345883674842
+seaweed,neg,is_green,cslb,not_certain,0.39734914109681746
+beetroot,neg,is_red,veale_simile,not_certain,0.39746821056080395
+goldfish,pos,is_yellow,cslb,not_certain,0.39966504762368055
+ketchup,neg,is_red,cslb,not_certain,0.40145890178256316
+bee,pos,is_yellow is_black,cslb,not_certain,0.4020723236184332
+beet,neg,is_red,veale_simile,not_certain,0.4073156005923571
+bottle,neg,is_green,mcrae,not_certain,0.4106618827865149
+parsley,neg,is_green,cslb,not_certain,0.4134458865448405
+peppers,neg,red green,conceptnet,not_certain,0.42044392810543485
+coffee,neg,is_black,cslb,not_certain,0.4205746800166176
+olive,neg,is_green is_black,cslb,not_certain,0.4216727498135427
+cider,pos,is_yellow,cslb cslb_crowd_pos,certain,0.4223968912575868
+currant,neg,is_black is_red,cslb,not_certain,0.4229841384602726
+eucalyptus,neg,is_green,cslb,not_certain,0.42319197698407085
+lemonade,pos,is_yellow,cslb_crowd_pos,certain,0.4245010860566655
+artichokes,neg,green,conceptnet,not_certain,0.42762695042283394
+peas,neg,is_green green,cslb conceptnet,not_certain,0.4286781402774733
+radish,neg,is_red,cslb veale_simile,not_certain,0.42915907519987195
+saffron,pos,is_yellow,veale_simile,not_certain,0.4312099400531484
+artichoke,neg,is_green,cslb,not_certain,0.43172791154358775
+pears,neg,green,conceptnet,not_certain,0.43463940954521907
+cherry,neg,is_red,cslb veale_simile,not_certain,0.43586964221741026
+buttercup,pos,is_yellow,cslb veale_simile,not_certain,0.43685579052425777
+crab,neg,is_red,cslb,not_certain,0.4422313401770122
+celery,neg,is_green,cslb,not_certain,0.4428503205090026
+grape,neg,is_green green is_red,cslb conceptnet,not_certain,0.44491496945461817
+clover,neg,green,conceptnet,not_certain,0.4454485047792792
+lime,neg,is_green,cslb,not_certain,0.44742380394556963
+blueberry,neg,blue is_blue,cslb conceptnet mcrae veale_simile,not_certain,0.45291993930353164
+cheese,pos,is_yellow,cslb,not_certain,0.4540472487955559
+asparagus,neg,is_green,cslb mcrae,not_certain,0.4548009760574541
+oppositifolia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45510126395868594
+almonds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4554884407597528
+plantain,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45550850388140296
+jalapeos,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4556938711563787
+phostria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45577821780454475
+pycnarmon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4558415355843085
+rhubarb,neg,is_green is_red,cslb,not_certain,0.4562326244559551
+milk,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4564856697526956
+herbs,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45652027230823905
+jelly,neg,is_green is_red,cslb,not_certain,0.4567746641285762
+antennaria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45682001936412375
+marigold,pos,is_yellow is_yellow,cslb manually_included,certain,0.45686118948363424
+geraniums,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45718716896333145
+poppy,neg,is_black is_red,cslb veale_simile,not_certain,0.4572137698048157
+sweet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45724859558698144
+laurifolia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45761915748835114
+salicina,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4576325331158094
+mangifera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.457718225420673
+cowpeas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4577464196852521
+jackfruit,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4578978811892746
+buttercream,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45827910576685593
+macaranga,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4585653547890063
+bottlebrush,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4587398863477852
+blackcurrant,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4589424925196752
+avocado,neg,is_green,cslb mcrae,not_certain,0.4589611360584015
+raspberry,neg,is_red,cslb veale_simile,not_certain,0.4590338832116001
+pepper,neg,is_red black,conceptnet veale_simile,not_certain,0.45915184336523357
+salad,neg,green,conceptnet,not_certain,0.46024321269569524
+huckleberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46026848774869833
+bean,neg,is_green,cslb,not_certain,0.4602914629734152
+cereal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.460453138055058
+pistachio,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4605578573467717
+biflora,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4606151242519737
+actinidia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4606374648256729
+monocotyledonous,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4609422932420072
+seedpods,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.461127590831079
+palaquium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4613690764247981
+madhuca,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4613734061415402
+lemongrass,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4613905226030028
+peucedanum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4616077875983977
+cryptocarya,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.461620758698865
+cultivars,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46168031644928975
+mangoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4616914008881409
+cactus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46180520915320183
+papaya,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46190086464228786
+liatris,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46243874992302964
+sterculia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4625186313989913
+soapberry,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46252474026932333
+acianthera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4625386494831235
+crassifolia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4626039701093191
+pigweed,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46268330686532516
+shiitake,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4631226009386119
+gooseberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46326915977847105
+teucrium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46340523696656827
+fragrant,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4635623197554991
+drupes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46358373308136236
+raspberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4639189990630475
+platanthera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4639625430476826
+vanilla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46396584851462036
+adansonia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4640024408510754
+orchids,pos,yellow,conceptnet,not_certain,0.46401384029794296
+crassula,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46403103333733153
+nectarine,pos,is_yellow is_red,cslb,not_certain,0.464671736878364
+parryi,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46506907018334265
+peanuts,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46543030920745176
+colocasia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4664315072129477
+pomegranate,neg,is_red,veale_simile,not_certain,0.4665144472824371
+umbellifers,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46653871842008154
+candy,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46747280631711774
+serviceberry,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46749595656051157
+helenium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46757251477506834
+pecans,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4676165170112101
+homoeosoma,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4676779848485374
+cherries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46789500136922524
+toadflax,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4680232930927344
+peperomia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4682382682951762
+leafroller,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46838148708029487
+pawpaw,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4695208906647898
+hexachaeta,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4695392576182006
+pratense,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46959856680485557
+mamey,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.46977742246221715
+custard,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4705999563294425
+scoparium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47063436724462215
+walnuts,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47065962894046937
+meadowsweet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4709329143801433
+arachis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47095418897254904
+quesadillas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47103065198321664
+cryptantha,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.471220227746449
+pear,neg,is_green,cslb,not_certain,0.471901993356742
+oranges,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4719333907274649
+spinach,neg,is_green,cslb,not_certain,0.4721627570946216
+diplacus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4723108300711143
+passionfruit,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4725174121326499
+tagetes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47279651939886624
+chocolate,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4729140899571002
+meconopsis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4729869114174824
+apricots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47429675623391643
+barley,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47439279416415103
+loquat,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4751494130740258
+gochujang,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47518257095516714
+miniata,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47532675108942685
+ageratina,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4753568847885638
+mustard,pos,yellow,conceptnet,not_certain,0.4756373343299843
+guava,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47569284917192994
+galangal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47616198998193243
+scabious,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47646685314355935
+blossoms,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4766452214372713
+lavandula,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4768634386297548
+grapes,neg,red green,conceptnet,not_certain,0.4772326038645968
+blepharomastix,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4772567071165202
+drummondii,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47778903392351457
+plumeria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47788635537365987
+barringtonia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47791099589687286
+milkwort,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.47799317670100616
+sunflowers,pos,yellow,conceptnet,not_certain,0.47807492496683485
+cucurbits,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4790724720537847
+melons,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4791987526109401
+carrots,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4794849057410331
+citrus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4804787589789574
+mango,pos,is_green is_yellow,cslb,not_certain,0.48065697568047533
+syrup,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4812007882205557
+carrot,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48222856866726244
+photinia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48234327675526467
+onion,neg,is_red,cslb,not_certain,0.48273950660141796
+grapefruit,pos,is_yellow is_red,cslb,not_certain,0.4828016424638203
+peach,pos,is_yellow,cslb,not_certain,0.48381596819974737
+gentianaceae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4839641021635517
+corn,pos,is_yellow,cslb,not_certain,0.48400823811017546
+onions,neg,green,conceptnet,not_certain,0.48428469030994686
+gentianella,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4849294626947954
+evergestis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48516387391822524
+peaches,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.485548046422864
+tanacetum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4862709809709698
+sativum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4866984625774634
+plum,pos,is_yellow,cslb,not_certain,0.4869788857647008
+orthotylus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4874966086421143
+endoxyla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4881042730182504
+dogwoods,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4883729027023524
+cercocarpus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48842147112537826
+dandelion,pos,is_yellow,cslb veale_simile,not_certain,0.4884309906614559
+apple,pos,red is_green is_yellow green is_red,cslb conceptnet mcrae veale_simile,not_certain,0.48846794177290653
+dogbane,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4887107269829411
+glochidion,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48970677950994523
+rhagoletis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.48977856132831293
+lettuce,neg,is_green,cslb,not_certain,0.49084098476543947
+plums,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4913798489829187
+stanhopea,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49177384435354443
+allspice,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4921149222890509
+edible,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4935080803051952
+vegetable,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4937204718387763
+acrolepiidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49481606875571893
+juice,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4948601828378778
+pandemis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49498266643585775
+persicaria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4949852389358763
+lewisia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49526941642341005
+cream,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49561785738800246
+calathea,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4966541427551646
+melilotus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4969382284875014
+coconut,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.49718289240025326
+sapodilla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4982695828168149
+watermelon,neg,is_green is_red,cslb,not_certain,0.49948187870047384
+echinocereus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5009736484900685
+millefolium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5010352691203779
+cucumber,neg,is_green,cslb,not_certain,0.5010442732822264
+apricot,pos,is_yellow,cslb,not_certain,0.501098773848318
+apples,pos,red green yellow,conceptnet,not_certain,0.501635287686629
+trombidium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5030462268943455
+dysoxylum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5040800020224656
+garlic,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5042411284440417
+bananas,pos,yellow,conceptnet,not_certain,0.5064126110850714
+leucaena,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.507354109718265
+butter,pos,is_yellow yellow,cslb conceptnet,not_certain,0.5088181110113215
+chives,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5096118680053217
+peanut,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5109558486171475
+melon,pos,is_green is_yellow,cslb,not_certain,0.5114238514317289
+ginger,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5116867782631342
+soursop,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5117698480040878
+potatoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5126941938133154
+fruits,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5149198904108325
+calycina,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5149563725614015
+cabbage,neg,is_green is_red,cslb mcrae,not_certain,0.5156853632040853
+pumpkin,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5159033623218521
+sunflower,pos,is_yellow,cslb veale_simile,not_certain,0.5161389643893202
+potato,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5165363873997668
+berries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5171297374127818
+vegetables,neg,green,conceptnet,not_certain,0.5184068116393995
+banana,pos,is_green is_yellow yellow,cslb conceptnet mcrae veale_simile,not_certain,0.5189990337299248
+strawberry,neg,is_red,cslb veale_simile,not_certain,0.519067869951545
+strawberries,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5204314819431151
+beans,pos,is_green is_yellow,mcrae,not_certain,0.5206921049180875
+mentzelia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5229037594369641
+flower,pos,yellow,conceptnet,not_certain,0.5283943795320709
+trichilia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5290164015288199
+flowers,pos,red green blue yellow,conceptnet,not_certain,0.5322875155113105
+honey,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5359898523365516
+tomato,neg,is_green is_red,cslb veale_simile,not_certain,0.5446143010608326
+pineapple,pos,is_green is_yellow is_green is_yellow,cslb manually_included,certain,0.5451002988784421
+lemon,pos,is_yellow is_yellow,cslb veale_simile manually_included,certain,0.552608662653356
+fruit,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5688718380007975

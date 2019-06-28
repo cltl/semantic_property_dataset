@@ -1,0 +1,470 @@
+"concept"	"label"	"categories_str"	"sources_str"	"certainty"	"cosine_centroid"	"selection"
+"debate"	"neg"	"neg_met"	"manually_included"	"certain"	0.0753348227	3
+"discussion"	"neg"	"neg_met"	"manually_included"	"certain"	0.0784972589	3
+"world"	"neg"	"blue"	"conceptnet"	"not_certain"	0.1048594944	3
+"pupil"	"pos"	"pos"	"manually_included"	"certain"	0.1118338182	1
+"death"	"pos"	"pos_met"	"manually_included"	"certain"	0.1288044258	
+"market"	"pos"	"pos_met"	"manually_included"	"certain"	0.1587078262	
+"indian"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.1606076437	
+"day"	"pos"	"pos_met"	"manually_included"	"certain"	0.167445445	
+"football"	"pos"	"is_black"	"cslb"	"not_certain"	0.1722171679	
+"heart"	"neg"	"is_red"	"cslb"	"not_certain"	0.1906253368	
+"limes"	"neg"	"green"	"conceptnet"	"not_certain"	0.1933940504	
+"newspaper"	"pos"	"is_black"	"cslb"	"not_certain"	0.2000156083	
+"recorder"	"pos"	"is_black"	"cslb"	"not_certain"	0.2033459491	
+"cricket"	"neg"	"is_green"	"cslb"	"not_certain"	0.2087374844	
+"bus"	"neg"	"is_yellow is_red"	"cslb mcrae"	"not_certain"	0.2094247586	
+"ambulance"	"neg"	"is_red"	"mcrae"	"not_certain"	0.2095926231	
+"shy"	"neg"	"blue"	"conceptnet"	"not_certain"	0.209889214	
+"yoyo"	"neg"	"red"	"conceptnet"	"not_certain"	0.2104626657	
+"pyramid"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2143032641	
+"rose"	"neg"	"red is_red"	"cslb conceptnet veale_simile"	"not_certain"	0.2148022903	
+"gherkin"	"neg"	"is_green"	"cslb"	"not_certain"	0.2150556224	
+"leafs"	"neg"	"green"	"conceptnet"	"not_certain"	0.2154490352	
+"satire"	"pos"	"pos_met"	"manually_included"	"certain"	0.2191040535	
+"ring"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2195578836	
+"wines"	"neg"	"red"	"conceptnet"	"not_certain"	0.22059409	
+"crypt"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.2206560908	
+"jeeps"	"neg"	"red"	"conceptnet"	"not_certain"	0.2225361487	
+"coal"	"pos"	"is_black is_black"	"veale_simile manually_included"	"certain"	0.2310487157	
+"supermarket"	"neg"	"neg_met"	"manually_included"	"certain"	0.2314730331	
+"tyre"	"pos"	"is_black"	"cslb"	"not_certain"	0.2348360856	
+"tank"	"neg"	"is_green"	"cslb"	"not_certain"	0.2353745354	
+"sun"	"neg"	"is_yellow is_yellow"	"veale_simile manually_included"	"certain"	0.2371503048	
+"cape"	"pos"	"is_black"	"mcrae"	"not_certain"	0.2372155182	
+"lagoon"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.2379092751	
+"lawn"	"neg"	"green"	"conceptnet"	"not_certain"	0.2397464145	
+"jay"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.2425260467	
+"clarinet"	"pos"	"is_black"	"cslb"	"not_certain"	0.244485921	
+"fir"	"neg"	"is_green"	"cslb"	"not_certain"	0.2483033509	
+"water"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2492987146	
+"champagne"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2504222996	
+"pomegranates"	"neg"	"red"	"conceptnet"	"not_certain"	0.2510384524	
+"sunbeam"	"neg"	"is_yellow"	"veale_simile"	"not_certain"	0.2511698457	
+"bloodstone"	"neg"	"red"	"conceptnet"	"not_certain"	0.2527883496	
+"moss"	"neg"	"is_green"	"cslb"	"not_certain"	0.2540228733	
+"taxi"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.254055395	
+"carnation"	"neg"	"is_red"	"cslb"	"not_certain"	0.2560973964	
+"leek"	"neg"	"is_green"	"cslb"	"not_certain"	0.2582168226	
+"humor"	"pos"	"pos_met"	"manually_included"	"certain"	0.2587702836	
+"jam"	"neg"	"is_red"	"cslb"	"not_certain"	0.2588660373	
+"miner"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.2592167114	
+"berry"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.2601840481	
+"cannon"	"pos"	"is_black"	"mcrae"	"not_certain"	0.2615003687	
+"cars"	"neg"	"red"	"conceptnet"	"not_certain"	0.2615062154	
+"beets"	"neg"	"is_red"	"mcrae"	"not_certain"	0.2624831266	
+"robin"	"neg"	"is_red"	"cslb"	"not_certain"	0.2627760112	
+"beet"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.2630188211	
+"diamond"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2630795634	
+"brick"	"neg"	"is_red"	"cslb mcrae"	"not_certain"	0.2644843312	
+"tar"	"pos"	"black"	"conceptnet"	"not_certain"	0.2650250208	
+"beetroot"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.265604365	
+"bluejay"	"neg"	"is_blue"	"mcrae"	"not_certain"	0.2657030389	
+"rice"	"pos"	"black"	"conceptnet"	"not_certain"	0.2659880377	
+"pansy"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2665606609	
+"piano"	"pos"	"is_black"	"cslb"	"not_certain"	0.2671478901	
+"night"	"pos"	"is_black black"	"conceptnet veale_simile"	"not_certain"	0.2682734521	
+"tongue"	"neg"	"is_red"	"cslb"	"not_certain"	0.2684346273	
+"wine"	"neg"	"is_red"	"cslb"	"not_certain"	0.2688756328	
+"eye"	"neg"	"is_green is_blue"	"cslb"	"not_certain"	0.2690792684	
+"tomatoes"	"neg"	"red"	"conceptnet"	"not_certain"	0.2690859513	
+"iceberg"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.2694420918	
+"daisies"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.2717102443	
+"humans"	"pos"	"black"	"conceptnet"	"not_certain"	0.2735397121	
+"rubies"	"neg"	"red"	"conceptnet"	"not_certain"	0.2735876712	
+"car"	"neg"	"red green"	"conceptnet"	"not_certain"	0.2738965641	
+"broccoli"	"neg"	"is_green green"	"cslb conceptnet mcrae"	"not_certain"	0.2743231828	
+"blackboard"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.2754556549	
+"cider"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2755347345	
+"green"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.2757303998	
+"pears"	"neg"	"green"	"conceptnet"	"not_certain"	0.2758832399	
+"jade"	"neg"	"green"	"conceptnet"	"not_certain"	0.2768651124	
+"marigold"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2769819502	
+"aubergine"	"neg"	"is_green"	"cslb"	"not_certain"	0.2772572642	
+"elm"	"neg"	"is_green"	"cslb"	"not_certain"	0.2777205764	
+"suit"	"pos"	"is_black"	"cslb"	"not_certain"	0.2786681117	
+"cloud"	"pos"	"pos"	"manually_included"	"certain"	0.2788065744	
+"sunflowers"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.2808698959	
+"beehive"	"neg"	"is_yellow"	"mcrae"	"not_certain"	0.2811481677	
+"ruby"	"neg"	"red is_red"	"conceptnet veale_simile"	"not_certain"	0.2813182169	
+"peony"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.281447533	
+"canary"	"neg"	"is_yellow"	"cslb mcrae"	"not_certain"	0.2815028347	
+"pomegranate"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.2821506671	
+"nectarine"	"neg"	"is_yellow is_red"	"cslb"	"not_certain"	0.2824630821	
+"sandpaper"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2847039347	
+"rain"	"neg"	"neg"	"manually_included"	"certain"	0.2857921534	
+"beer"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2870284606	
+"nightmare"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.2873144599	
+"pit"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.2881463837	
+"sky"	"neg"	"blue is_blue"	"conceptnet veale_simile"	"not_certain"	0.2885718206	
+"jeep"	"neg"	"is_green"	"cslb"	"not_certain"	0.2886441762	
+"prune"	"pos"	"is_black"	"cslb"	"not_certain"	0.2892182597	
+"herring"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.2896532668	
+"emerald"	"neg"	"green"	"conceptnet"	"not_certain"	0.2913314439	
+"daffodil"	"neg"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.2934807936	
+"yolk"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.294090969	
+"tires"	"pos"	"black"	"conceptnet"	"not_certain"	0.2944478435	
+"artichokes"	"neg"	"green"	"conceptnet"	"not_certain"	0.2947592019	
+"daisy"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.2954264601	
+"saffron"	"neg"	"is_yellow"	"veale_simile"	"not_certain"	0.2958493911	
+"hose"	"neg"	"is_green"	"cslb"	"not_certain"	0.2973563675	
+"sycamore"	"neg"	"is_green"	"cslb"	"not_certain"	0.2976018963	
+"jeans"	"pos"	"is_blue is_black"	"cslb"	"not_certain"	0.2979141426	
+"celery"	"neg"	"is_green"	"cslb"	"not_certain"	0.2990497261	
+"rook"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3007705533	
+"glass"	"neg"	"green"	"conceptnet"	"not_certain"	0.3010003845	
+"umbrellas"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3018910314	
+"limousine"	"pos"	"is_black"	"cslb"	"not_certain"	0.3019863143	
+"peas"	"neg"	"is_green green"	"cslb conceptnet"	"not_certain"	0.302235334	
+"barn"	"neg"	"is_red"	"mcrae"	"not_certain"	0.3045000123	
+"flame"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.3045751865	
+"wand"	"pos"	"is_black"	"cslb"	"not_certain"	0.3051444692	
+"peppers"	"neg"	"red green"	"conceptnet"	"not_certain"	0.3057893622	
+"eyes"	"neg"	"green blue"	"conceptnet"	"not_certain"	0.305831578	
+"artichoke"	"neg"	"is_green"	"cslb"	"not_certain"	0.3065322736	
+"jaguars"	"pos"	"black"	"conceptnet"	"not_certain"	0.3065356372	
+"bra"	"pos"	"is_black"	"mcrae"	"not_certain"	0.308546041	
+"parsley"	"neg"	"is_green"	"cslb"	"not_certain"	0.3095026779	
+"violets"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3097870774	
+"cherry"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.3098619713	
+"grape"	"neg"	"is_green green is_red"	"cslb conceptnet"	"not_certain"	0.3106023389	
+"peacock"	"neg"	"is_green is_blue"	"cslb"	"not_certain"	0.310721641	
+"couch"	"pos"	"black"	"conceptnet"	"not_certain"	0.3110201305	
+"balloons"	"neg"	"red"	"conceptnet"	"not_certain"	0.3111203425	
+"salad"	"neg"	"green"	"conceptnet"	"not_certain"	0.3116943211	
+"rhubarb"	"neg"	"is_green is_red"	"cslb"	"not_certain"	0.3136403345	
+"avocado"	"neg"	"is_green"	"cslb mcrae"	"not_certain"	0.3142710381	
+"cinder"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3148229165	
+"budgie"	"neg"	"is_green is_yellow is_blue"	"cslb mcrae"	"not_certain"	0.3152207108	
+"geranium"	"neg"	"is_red"	"cslb"	"not_certain"	0.3159763011	
+"apples"	"neg"	"red green yellow"	"conceptnet"	"not_certain"	0.3170279171	
+"pot"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3170312025	
+"calf"	"pos"	"is_black"	"cslb"	"not_certain"	0.3175894971	
+"parka"	"neg"	"is_green"	"cslb"	"not_certain"	0.3181071484	
+"bananas"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.3183787334	
+"radish"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.3192061166	
+"corn"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3198527083	
+"mango"	"neg"	"is_green is_yellow"	"cslb"	"not_certain"	0.3200515483	
+"vegetables"	"neg"	"green"	"conceptnet"	"not_certain"	0.321068405	
+"weeds"	"neg"	"green"	"conceptnet"	"not_certain"	0.3216032172	
+"lime"	"neg"	"is_green"	"cslb"	"not_certain"	0.322217539	
+"lips"	"neg"	"is_red"	"cslb"	"not_certain"	0.324470487	
+"corncob"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.3245182768	
+"thundercloud"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3255159394	
+"apricot"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3268279244	
+"dolphin"	"neg"	"is_blue"	"cslb veale_simile"	"not_certain"	0.3275015647	
+"spinach"	"neg"	"is_green"	"cslb"	"not_certain"	0.3275621645	
+"coffee"	"pos"	"is_black is_black"	"cslb manually_included"	"certain"	0.3283357881	
+"milk"	"neg"	"neg"	"manually_included"	"certain"	0.3283368455	
+"paint"	"pos"	"pos"	"manually_included"	"certain"	0.3284442806	
+"blueberry"	"neg"	"blue is_blue"	"cslb conceptnet mcrae veale_simile"	"not_certain"	0.3298379977	
+"grapes"	"neg"	"red green"	"conceptnet"	"not_certain"	0.3298408976	
+"grapefruit"	"neg"	"is_yellow is_red"	"cslb"	"not_certain"	0.33144717	
+"sapphire"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3315349104	
+"olive"	"pos"	"is_green is_black"	"cslb"	"not_certain"	0.3321368231	
+"lantern"	"pos"	"is_black"	"cslb"	"not_certain"	0.333187971	
+"buttercup"	"neg"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.3335071853	
+"asparagus"	"neg"	"is_green"	"cslb mcrae"	"not_certain"	0.3350072426	
+"willow"	"neg"	"is_green"	"cslb"	"not_certain"	0.3351136593	
+"leopards"	"pos"	"black"	"conceptnet"	"not_certain"	0.3355561368	
+"sunflower"	"neg"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.3356542866	
+"ink"	"pos"	"black"	"conceptnet"	"not_certain"	0.3362384477	
+"ketchup"	"neg"	"is_red"	"cslb"	"not_certain"	0.3367170756	
+"fox"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.3367779626	
+"raisin"	"pos"	"is_black"	"cslb"	"not_certain"	0.3368032128	
+"clothing"	"neg"	"red"	"conceptnet"	"not_certain"	0.3373452209	
+"locust"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3375850944	
+"oven"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3385174146	
+"strawberry"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.3386469676	
+"pepper"	"neg"	"is_red black"	"conceptnet veale_simile"	"not_certain"	0.3388433794	
+"apple"	"neg"	"red is_green is_yellow green is_red"	"cslb conceptnet mcrae veale_simile"	"not_certain"	0.3388904405	
+"lettuce"	"neg"	"is_green"	"cslb"	"not_certain"	0.339061211	
+"plum"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.339285006	
+"sloe"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3394044723	
+"bear"	"pos"	"is_black"	"cslb mcrae"	"not_certain"	0.3397779904	
+"onions"	"neg"	"green"	"conceptnet"	"not_certain"	0.3402814097	
+"cloak"	"pos"	"is_black"	"cslb"	"not_certain"	0.34035845	
+"lipstick"	"neg"	"is_red"	"cslb"	"not_certain"	0.3405188472	
+"dress"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3411129723	
+"gown"	"pos"	"is_black"	"cslb"	"not_certain"	0.3412449282	
+"stockings"	"pos"	"is_black"	"cslb"	"not_certain"	0.3414058395	
+"chameleons"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3414989618	
+"pineapple"	"neg"	"is_green is_yellow"	"cslb"	"not_certain"	0.3420671386	
+"rooster"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.3424041055	
+"kingfisher"	"neg"	"is_green is_blue"	"cslb veale_simile"	"not_certain"	0.345455864	
+"onion"	"neg"	"is_red"	"cslb"	"not_certain"	0.3463925693	
+"truffles"	"pos"	"black"	"conceptnet"	"not_certain"	0.3473092892	
+"crow"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.3477892692	
+"eucalyptus"	"neg"	"is_green"	"cslb"	"not_certain"	0.3478063287	
+"mustard"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.3485806135	
+"watermelon"	"neg"	"is_green is_red"	"cslb"	"not_certain"	0.3492997896	
+"starling"	"pos"	"is_black"	"cslb"	"not_certain"	0.3496190832	
+"butter"	"neg"	"is_yellow yellow"	"cslb conceptnet"	"not_certain"	0.3496701402	
+"beans"	"neg"	"is_green is_yellow"	"mcrae"	"not_certain"	0.3509239761	
+"peach"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3510491849	
+"pear"	"neg"	"is_green"	"cslb"	"not_certain"	0.3512139431	
+"pine"	"neg"	"is_green"	"cslb"	"not_certain"	0.3529237887	
+"cheese"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3531680303	
+"poppy"	"pos"	"is_red is_black"	"cslb veale_simile"	"not_certain"	0.3542343454	
+"dandelion"	"neg"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.3550238487	
+"flowers"	"neg"	"red green blue yellow"	"conceptnet"	"not_certain"	0.3562927187	
+"panther"	"pos"	"is_black"	"cslb veale_simile"	"not_certain"	0.3570630105	
+"raspberry"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.357115816	
+"orchids"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.3576102945	
+"seaweed"	"neg"	"is_green"	"cslb"	"not_certain"	0.3577198675	
+"clover"	"neg"	"green"	"conceptnet"	"not_certain"	0.3606799678	
+"currant"	"pos"	"is_red is_black"	"cslb"	"not_certain"	0.3630780787	
+"melon"	"neg"	"is_green is_yellow"	"cslb"	"not_certain"	0.3634218984	
+"lemon"	"neg"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.3641563069	
+"caterpillar"	"neg"	"is_green"	"cslb"	"not_certain"	0.3644623047	
+"sand"	"pos"	"black"	"conceptnet"	"not_certain"	0.3644643102	
+"fern"	"neg"	"is_green"	"cslb"	"not_certain"	0.364761885	
+"parakeets"	"neg"	"green"	"conceptnet"	"not_certain"	0.3648708211	
+"pelican"	"pos"	"is_black"	"cslb"	"not_certain"	0.3657992778	
+"lark"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.3668773112	
+"giraffe"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3670234262	
+"flower"	"neg"	"yellow"	"conceptnet"	"not_certain"	0.3670698432	
+"eggs"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3675539686	
+"hair"	"pos"	"is_red is_black is_red is_black"	"cslb manually_included"	"certain"	0.3690798936	
+"tights"	"pos"	"is_black"	"cslb"	"not_certain"	0.3704931065	
+"millipede"	"pos"	"is_black"	"cslb"	"not_certain"	0.3706148939	
+"banana"	"neg"	"is_green is_yellow yellow"	"cslb conceptnet mcrae veale_simile"	"not_certain"	0.3707926326	
+"bean"	"neg"	"is_green"	"cslb"	"not_certain"	0.3727097632	
+"blackbird"	"pos"	"is_black"	"mcrae"	"not_certain"	0.37321154	
+"sheep"	"pos"	"is_black"	"cslb"	"not_certain"	0.3740661832	
+"wetsuit"	"pos"	"is_black"	"cslb"	"not_certain"	0.3745007452	
+"rhino"	"pos"	"is_black"	"cslb"	"not_certain"	0.3775763903	
+"whale"	"neg"	"is_blue"	"cslb"	"not_certain"	0.378359626	
+"iguana"	"neg"	"is_green"	"cslb"	"not_certain"	0.3790219662	
+"goldfish"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3796883498	
+"tomato"	"neg"	"is_green is_red"	"cslb veale_simile"	"not_certain"	0.3813747348	
+"penguin"	"pos"	"is_black"	"cslb"	"not_certain"	0.3825443877	
+"jelly"	"neg"	"is_green is_red"	"cslb"	"not_certain"	0.3831708012	
+"raven"	"pos"	"is_black"	"cslb veale_simile"	"not_certain"	0.3833197681	
+"cucumber"	"neg"	"is_green"	"cslb"	"not_certain"	0.3843439815	
+"bottle"	"neg"	"is_green"	"mcrae"	"not_certain"	0.3848311159	
+"cheetah"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3874184067	
+"lion"	"neg"	"is_yellow"	"cslb"	"not_certain"	0.3892320663	
+"grasshopper"	"neg"	"is_green"	"cslb"	"not_certain"	0.3911165452	
+"housefly"	"pos"	"is_black"	"cslb"	"not_certain"	0.3930975203	
+"hornet"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.3933654351	
+"boots"	"pos"	"is_black"	"mcrae"	"not_certain"	0.394556632	
+"mussel"	"pos"	"is_black"	"cslb"	"not_certain"	0.3959152495	
+"ladybird"	"pos"	"is_red is_black"	"cslb"	"not_certain"	0.3971918179	
+"cow"	"pos"	"is_black"	"cslb"	"not_certain"	0.3990222508	
+"cabbage"	"neg"	"is_green is_red"	"cslb mcrae"	"not_certain"	0.4013496811	
+"tiger"	"pos"	"is_black"	"cslb"	"not_certain"	0.4019326189	
+"buzzard"	"pos"	"is_black"	"mcrae"	"not_certain"	0.4066331898	
+"slug"	"pos"	"is_black"	"cslb"	"not_certain"	0.4091237678	
+"lobster"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.4109701726	
+"flea"	"pos"	"is_black"	"cslb"	"not_certain"	0.4122455607	
+"cats"	"pos"	"black"	"conceptnet"	"not_certain"	0.4124718568	
+"bat"	"pos"	"is_black"	"veale_simile"	"not_certain"	0.413919951	
+"crocodile"	"neg"	"is_green"	"cslb"	"not_certain"	0.4141650792	
+"scorpion"	"pos"	"is_black"	"cslb"	"not_certain"	0.4152732908	
+"magpie"	"pos"	"is_black"	"cslb"	"not_certain"	0.4162532736	
+"wasp"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.4178630172	
+"gorilla"	"pos"	"is_black"	"cslb"	"not_certain"	0.4200413407	
+"frogs"	"neg"	"green"	"conceptnet"	"not_certain"	0.4232659281	
+"bee"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.4256026502	
+"insects"	"neg"	"green"	"conceptnet"	"not_certain"	0.4321636339	
+"opossum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4328433263	
+"epicrocis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4329647132	
+"miniata"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4329862645	
+"potoroo"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4330628784	
+"dunnart"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4330758279	
+"rat"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4333403722	
+"zebra"	"pos"	"is_black"	"cslb"	"not_certain"	0.4335687166	
+"nyctemera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4337183137	
+"phrynobatrachus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4346317765	
+"abdominalis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4346444581	
+"celebensis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4346892947	
+"underfur"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4347238526	
+"woodpecker"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4347912144	
+"civet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4351742914	
+"macrobathra"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4353646486	
+"pothyne"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4356578196	
+"frogmouth"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4357430353	
+"symphlebia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4357532976	
+"myobatrachidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4358478953	
+"acalyptris"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4358734393	
+"apalis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4359189357	
+"propebela"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4360767218	
+"stizocera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4360774493	
+"orthetrum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4360977282	
+"flopsy"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4361929639	
+"tortoise"	"neg"	"is_green"	"cslb"	"not_certain"	0.4362380316	
+"auritus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4362656668	
+"estola"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4362780148	
+"lizards"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4363661895	
+"pipefishes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4365133786	
+"solenodon"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4365417538	
+"coatis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.436569352	
+"rockfowl"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4366275325	
+"forepaws"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4369596362	
+"rppells"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4370574572	
+"leiothrichidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4370976532	
+"rabbits"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4371117091	
+"thornbill"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4373273698	
+"mechana"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4375249732	
+"adetus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4375330369	
+"echinolittorina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4376738466	
+"compsoctena"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4378465776	
+"sinocyclocheilus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4379467907	
+"gnomidolon"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4382989917	
+"chironomid"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4383224885	
+"dogbane"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4385773705	
+"paridae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4387603669	
+"nyssodrysternum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4388260999	
+"zabrus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4388519552	
+"psapharochrus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4393353907	
+"elaphidion"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4396607257	
+"leopard"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.4398889689	
+"weasel"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4399225728	
+"calycina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4399728312	
+"tarantula"	"pos"	"is_black"	"cslb"	"not_certain"	0.4399934311	
+"clubmoss"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4400278252	
+"catoptria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4401700137	
+"hilarographa"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4407744964	
+"xanthidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4410025494	
+"aythya"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4412241125	
+"insect"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4415568111	
+"ant"	"pos"	"is_red is_black"	"cslb mcrae"	"not_certain"	0.441575668	
+"ardozyga"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4416298569	
+"eulemur"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4425629158	
+"viscacha"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4426819139	
+"obsoletus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4428704149	
+"choristoneura"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4428774531	
+"glipostenoda"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4429047374	
+"toad"	"neg"	"is_green"	"cslb"	"not_certain"	0.4431745851	
+"cercocarpus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4432361215	
+"leucogaster"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4434558033	
+"parrot"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4435382265	
+"coenagrionidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.443842663	
+"kingbird"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4443989626	
+"anelaphus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4448605529	
+"mannikin"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4449479983	
+"rhagoletis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.445003041	
+"dimidiata"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4451329778	
+"neolamprologus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.445200989	
+"brachodidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4452632269	
+"toucanet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4453284757	
+"megacyllene"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4456024649	
+"turtle"	"neg"	"is_green"	"cslb"	"not_certain"	0.4456459647	
+"ophichthus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4456593302	
+"lamprosema"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.446001527	
+"pycnonotus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4461094208	
+"glyphodes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4461132987	
+"alleni"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4461195875	
+"echinocereus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4461929087	
+"lindmania"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4465004838	
+"limoniidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4466403709	
+"batsuit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4467825473	
+"currawongs"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4469396967	
+"raccoon"	"pos"	"is_black"	"cslb"	"not_certain"	0.4471591107	
+"beetles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4473738659	
+"atratus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4475611109	
+"owl"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4476756217	
+"minivet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4478884419	
+"lizard"	"neg"	"is_green"	"cslb"	"not_certain"	0.4485073457	
+"scarabaeoidea"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4490115239	
+"herpetogramma"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4492165345	
+"parrotbill"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4492708729	
+"cuckooshrike"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4494355174	
+"alligator"	"neg"	"is_green"	"cslb mcrae"	"not_certain"	0.4496355308	
+"archips"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4498986908	
+"bird"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4499191767	
+"crassula"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4500684312	
+"combretum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.450228573	
+"diadelia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4502633449	
+"polygrammodes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.45040819	
+"catephia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4504384543	
+"snake"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4505003623	
+"cockroach"	"pos"	"is_black"	"cslb"	"not_certain"	0.4506865479	
+"cochylis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.450871343	
+"calathus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4512962774	
+"ctenucha"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4514812893	
+"ptychadena"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4515728779	
+"leafroller"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4519648716	
+"passerellidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4520393995	
+"skunk"	"pos"	"is_black"	"cslb"	"not_certain"	0.4527436337	
+"acupalpus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4536585768	
+"crab"	"neg"	"is_red"	"cslb"	"not_certain"	0.4537361201	
+"nigripes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4538753302	
+"ceratophyllus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4539110492	
+"spider"	"pos"	"is_black"	"cslb"	"not_certain"	0.4548475312	
+"boophis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4558417688	
+"pig"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4558823404	
+"nacoleia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4572735216	
+"parapoynx"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4572965804	
+"boiga"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4573205414	
+"hexachaeta"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4576362979	
+"astroblepus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4577596092	
+"littoraria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4577732758	
+"sparganothis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4592956754	
+"honey"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4595789405	
+"hoshihananomia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4597870103	
+"coleotechnites"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4601500558	
+"nymphicula"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4609650369	
+"acianthera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4611381515	
+"eugnosta"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4613844118	
+"trichilia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.461563422	
+"diplacus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4621132909	
+"synuchus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4622248002	
+"heliozelidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4622799238	
+"hydrelia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4628304964	
+"sapsucker"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4630975293	
+"frog"	"neg"	"is_green green"	"cslb conceptnet"	"not_certain"	0.463190905	
+"stanhopea"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4637445076	
+"hednota"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4639390927	
+"mentzelia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4641584036	
+"anthiinae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4643744772	
+"jaguarundi"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4649528575	
+"auratonota"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4659273454	
+"latirus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4660040966	
+"puffbird"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4660100832	
+"eupogonius"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.466174589	
+"homoeosoma"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4667931651	
+"urgleptes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4673193622	
+"cleptometopus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4674973542	
+"bacchisa"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4678802453	
+"hypotia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4689600288	
+"euderces"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4692711035	
+"monkey"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4709251307	
+"hemionus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4712676987	
+"jordanoleiopus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4720974646	
+"buthidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4722815418	
+"acaridae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4723310403	
+"trapania"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4727163817	
+"ceroplesis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4750439338	
+"suphisellus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4752385929	
+"beetle"	"pos"	"is_black"	"cslb mcrae"	"not_certain"	0.4756982994	
+"piletocera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4760283292	
+"pycnarmon"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4773085412	
+"orthaga"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.477808691	
+"dog"	"pos"	"black"	"conceptnet"	"not_certain"	0.4786157731	
+"transtillaspis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4788271236	
+"nemophora"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4788669192	
+"laelapidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4799805401	
+"cochylimorpha"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4800874901	
+"nealcidion"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4806917917	
+"pilocrocis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4807377608	
+"nectariniidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4811350286	
+"rabbit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4811614751	
+"lygropia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4826133888	
+"suturalis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4826674958	
+"hindfeet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4846786304	
+"dichocrocis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4851286549	
+"squirrel"	"neg"	"is_red"	"cslb"	"not_certain"	0.4863811362	
+"pandemis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4869097979	
+"hyllisia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.487274745	
+"aglossa"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4898666706	
+"phostria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4914744678	
+"cat"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4943605043	
+"acrolepiidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.495400526	
+"sisurcana"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5021530896	
+"orthotylus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5115730434	
+"evergestis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5135206	
+"endoxyla"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5238602171	
+"blepharomastix"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5336864601	
+"trombidium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5700413086	

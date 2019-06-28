@@ -1,0 +1,192 @@
+label,categories_str,sources_str,certainty,cosine_centroid,manual_coarse_grained,space_selection,qumcrae_label,word,lemma,wiki_frequency,word_in_wn?,word_noun_in_wn?,word_noun_spacy?,n_navigli_clusters,n_onto_senses_n_v,n_wn_senses,min_wn_sim_wup,av_sim_wup,polysemy_type,mipvu,wn_abs_conc,filter,conc,fam,aoa
+neg,neg,manually_included,certain,0.4103468128,-,True,-,tortoise,tortoise,3936,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,602,415,
+neg,neg,manually_included,certain,0.4550964871,-,True,-,turtle,turtle,14449,True,True,True,0,0,4,0.2,0.27391304347826084,poly,,conc,True,644,509,
+neg,fish,wn_hypernym,not_certain,0.2703597696,-,True,-,chinook,chinook,3233,True,True,True,2,0,5,0.09090909090909091,0.1974949494949495,poly,,abs-conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2046064807,-,True,-,seal,seal,35642,True,True,True,6,16,15,0.09523809523809523,0.27962022170964856,homonyms_also_same_pos,met non-met,abs-conc,True,587,482,328
+neg,fish,wn_hypernym,not_certain,0.126630845,-,True,-,mola,mola,825,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.3802671413,-,True,-,amberjack,amberjack,143,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.5097005047,-,True,-,mangabey,mangabey,165,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.337194869,-,True,-,titi,titi,839,True,True,True,2,0,3,0.4444444444444444,0.6018518518518519,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.188944,-,True,-,toy,toy,23496,True,True,True,3,1,8,0.25,0.5069753002415541,poly,met non-met,conc,True,567,550,164
+neg,mammal,wn_hypernym,not_certain,0.2048607811,-,True,-,ass,ass,6319,True,True,True,2,0,6,0.17391304347826086,0.2900971444014922,homonyms_also_same_pos,non-met,abs-conc-n,True,,,
+neg,fish,wn_hypernym,not_certain,0.1962724431,-,True,-,haddock,haddock,1663,True,True,True,1,0,2,0.17391304347826086,0.17391304347826086,mon,,conc,True,636,475,389
+neg,mammal,wn_hypernym,not_certain,0.3526136186,-,True,-,monkey,monkey,17203,True,True,True,2,0,4,0.25,0.3858695652173913,poly,met non-met,conc,True,566,531,
+neg,fish,wn_hypernym,not_certain,0.3830181876,-,True,-,grouper,grouper,857,True,True,True,1,0,2,0.18181818181818182,0.18181818181818182,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.1520438565,-,True,-,chow,chow,4843,True,True,True,1,0,3,0.09523809523809523,0.14503579209461562,homonyms_also_same_pos,,abs-conc,True,443,298,561
+neg,fish,wn_hypernym,not_certain,0.3036757507,-,True,-,plaice,plaice,281,True,True,True,1,0,2,0.14814814814814814,0.14814814814814814,mon,,conc,True,314,149,
+neg,mammal,wn_hypernym,not_certain,0.3340813094,-,True,-,giraffe,giraffe,2010,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,381,
+neg,fish,wn_hypernym,not_certain,0.1260947729,-,True,-,rudd,rudd,5219,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2684570707,-,True,-,ape,ape,4976,True,True,True,3,0,5,0.16666666666666666,0.4816252587991718,homonyms_only_different_pos,,conc,True,654,547,
+neg,mammal,wn_hypernym,not_certain,0.3801506502,-,True,-,armadillo,armadillo,1497,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,558,181,
+neg,mammal,wn_hypernym,not_certain,0.3693223257,-,True,-,howler,howler,904,True,True,True,2,0,3,0.08333333333333333,0.1414141414141414,mon,,abs-conc,True,366,359,478
+neg,mammal,wn_hypernym,not_certain,0.186071729,-,True,-,basset,basset,1639,True,True,True,0,0,2,None,,mon,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.3376227583,-,True,-,lynx,lynx,6514,True,True,True,1,0,2,0.07142857142857142,0.07142857142857142,mon,,conc-n,True,568,301,511
+neg,mammal,wn_hypernym,not_certain,0.4662518028,-,True,-,lemur,lemur,2842,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.1339798494,-,True,-,stock,stock,108833,True,True,True,11,17,27,0.08333333333333333,0.28307044946831506,homonyms_only_different_pos,non-met,abs-conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2447823104,-,True,-,razorback,razorback,888,True,True,True,2,0,3,0.7096774193548387,0.7096774193548387,poly,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.3457182899,-,True,-,toadfish,toadfish,393,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.4937604802,-,True,-,goatfish,goatfish,114,True,True,True,0,0,1,0.8823529411764706,0.8823529411764706,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2684938832,-,True,-,silverback,silverback,210,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.1285041189,-,True,-,watchdog,watchdog,2686,True,True,True,1,0,2,0.5714285714285714,0.5714285714285714,poly,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2235132928,-,True,-,pussy,pussy,1873,True,True,True,2,0,3,0.2,0.2,homonyms_also_same_pos,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.3509616877,-,True,-,bobcat,bobcat,1596,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.1532606699,-,True,-,ounce,ounce,2759,True,True,True,2,0,3,0.08695652173913043,0.2663043478260869,homonyms_also_same_pos,,abs-conc,True,502,565,
+neg,mammal,wn_hypernym,not_certain,0.1908384186,-,True,-,buffalo,buffalo,50181,True,True,True,2,0,5,0.16,0.3184952084952085,poly,non-met,conc-n,True,,,
+neg,mammal fish,wn_hypernym,not_certain,0.2724853354,-,True,-,hind,hind,8878,True,True,True,1,0,3,0.5625,0.5625,homonyms_only_different_pos,non-met,conc,True,474,416,469
+neg,mammal,wn_hypernym,not_certain,0.1976718908,-,True,-,roebuck,roebuck,1765,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.3828687358,-,True,-,deer,deer,30119,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,631,509,281
+neg,mammal,wn_hypernym,not_certain,0.1622954982,-,True,-,gnu,gnu,6175,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,474,226,
+neg,fish,wn_hypernym,not_certain,0.3716803102,-,True,-,minnow,minnow,1007,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,621,408,397
+neg,fish,wn_hypernym,not_certain,0.3414676045,-,True,-,bream,bream,1505,True,True,True,1,0,5,0.16,0.3854040404040404,poly,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2640724806,-,True,-,lion,lion,37189,True,True,True,1,0,4,0.2727272727272727,0.4448494028518257,poly,non-met,conc-n,True,627,511,244
+neg,fish,wn_hypernym,not_certain,0.3906883589,-,True,-,sunfish,sunfish,1527,True,True,True,2,0,3,0.16666666666666666,0.40277777777777773,mon,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.3488891168,-,True,-,rabbit,rabbit,15865,True,True,True,1,0,4,0.16666666666666666,0.2272727272727273,homonyms_only_different_pos,non-met,abs-conc,True,635,523,206
+neg,mammal,wn_hypernym,not_certain,0.261152136,-,True,-,stallion,stallion,5746,True,True,True,0,0,1,0.8823529411764706,0.8823529411764706,mon,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.4263461678,-,True,-,mammal,mammal,6922,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,549,458,
+neg,mammal,wn_hypernym,not_certain,0.4947997211,-,True,-,potoroo,potoroo,156,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.4194644014,-,True,-,damselfish,damselfish,318,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.2549124638,-,True,-,poacher,poacher,632,True,True,True,3,0,3,0.32,0.40086369770580293,poly,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.3652464297,-,True,-,zebra,zebra,4168,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,,333,
+neg,mammal,wn_hypernym,not_certain,0.3012251608,-,True,-,hog,hog,3844,True,True,True,2,0,4,0.46153846153846156,0.5151515151515151,homonyms_only_different_pos,,conc,True,581,528,
+neg,mammal,wn_hypernym,not_certain,0.471356708,-,True,-,pinniped,pinniped,101,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2348925859,-,True,-,glutton,glutton,257,True,True,True,2,0,2,0.48,0.48,poly,,conc,True,498,430,
+neg,mammal,wn_hypernym,not_certain,0.1693626837,-,True,-,wheeler,wheeler,14696,True,True,True,2,0,5,0.4,0.4759997274090228,,non-met,conc-n,True,,,
+neg,mammal,wn_hypernym,not_certain,0.2587677698,-,True,-,tiger,tiger,39520,True,True,True,1,0,2,0.5217391304347826,0.5217391304347826,poly,met,conc,True,611,513,
+neg,fish,wn_hypernym,not_certain,0.3705358846,-,True,-,catfish,catfish,6112,True,True,True,2,0,3,0.16,0.3821376811594203,mon,,conc,True,614,416,411
+neg,mammal,wn_hypernym,not_certain,0.2525839136,-,True,-,bearcat,bearcat,532,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,mammal,wn_hypernym,not_certain,0.1847700597,-,True,-,jade,jade,10914,True,True,True,3,0,7,0.08,0.19662931839402428,homonyms_also_same_pos,,abs-conc,True,570,359,572
+neg,mammal,wn_hypernym,not_certain,0.3259208104,-,True,-,mouse,mouse,30002,True,True,True,5,0,6,0.08333333333333333,0.2766012465592298,poly,,abs-conc,True,624,520,242
+neg,fish,wn_hypernym,not_certain,0.253686033,-,True,-,sheepshead,sheepshead,530,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.355152729,-,True,-,shark,shark,17480,True,True,True,2,0,5,0.13333333333333333,0.44666285278413426,homonyms_also_same_pos,,conc,True,611,516,
+neg,mammal,wn_hypernym,not_certain,0.2114046223,-,True,-,groundhog,groundhog,675,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg,fish,wn_hypernym,not_certain,0.4260820851,-,True,-,lizardfish,lizardfish,286,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,bird bird,wn_hypernym manually_included,certain,0.3977176162,-,True,-,ostrich,ostrich,2008,True,True,True,2,0,2,0.6,0.6,poly,,conc,True,,358,
+pos,does_fly fly vehicle does_fly fly vehicle,cslb wn_hypernym conceptnet manually_included,certain,0.2071143315,-,True,-,helicopter,helicopter,33816,True,True,True,0,1,1,1.0,1.0,mon,non-met,conc,True,,,
+pos,does_fly bird does_fly bird,cslb wn_hypernym manually_included,certain,0.407260777,-,True,-,kite,kite,6487,True,True,True,5,0,8,0.08333333333333333,0.2528799903799903,poly,,abs-conc,True,592,481,
+pos,bird bird,wn_hypernym manually_included,certain,0.3624022764,-,True,-,crane,crane,17753,True,True,True,2,0,6,0.36363636363636365,0.4592889376817227,homonyms_only_different_pos,non-met,conc-n,True,606,428,350
+pos,bird bird,wn_hypernym manually_included,certain,0.402068472,-,True,-,penguin,penguin,10664,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,360,
+pos,does_fly bird does_fly bird,cslb wn_hypernym manually_included,certain,0.367316557,-,True,-,seagull,seagull,1860,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.5251699428,-,True,-,gull,gull,4337,True,True,True,3,0,4,0.2857142857142857,0.39285714285714285,homonyms_also_same_pos,,conc,True,,,
+pos,does_fly fly,cslb conceptnet,not_certain,0.2313425939,-,True,-,arrow,arrow,21291,True,True,True,1,0,2,0.10526315789473684,0.10526315789473684,poly,,abs-conc,True,595,490,
+pos,bird,wn_hypernym,not_certain,0.1715882496,-,True,-,moorcock,moorcock,700,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.3891095397,-,True,-,nightingale,nightingale,4702,True,True,True,1,0,2,0.46153846153846156,0.46153846153846156,mon,,conc-n,True,621,375,419
+pos,bird,wn_hypernym,not_certain,0.6116172092,-,True,-,grosbeak,grosbeak,368,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6157054882,-,True,-,grosbeaks,grosbeak,104,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4460752945,-,True,-,marabou,marabou,179,True,True,True,2,0,2,0.34782608695652173,0.34782608695652173,poly,,abs-conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.5518253402,-,True,-,babbler,babbler,990,True,True,True,2,0,2,0.5,0.5,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4696419546,-,True,-,tit,tit,2171,True,True,True,2,0,3,0.17391304347826086,0.3436853002070393,homonyms_also_same_pos,,conc,True,,,
+pos,fly,conceptnet,not_certain,0.2001423363,-,True,-,sky,sky,68976,True,True,True,0,1,2,None,,homonyms_only_different_pos,non-met,conc,True,542,607,
+pos,mammal bird,wn_hypernym,not_certain,0.3075157119,-,True,-,whistler,whistler,4462,True,True,True,3,0,5,0.46153846153846156,0.5426169003410383,,,conc-n,True,,,
+pos,bird,wn_hypernym,not_certain,0.5574342621,-,True,-,quail,quail,2710,True,True,True,1,0,3,0.2,0.2,homonyms_only_different_pos,,conc,True,600,376,536
+pos,bird,wn_hypernym,not_certain,0.2550064614,-,True,-,hobby,hobby,9185,True,True,True,3,0,3,0.08695652173913043,0.19763630089717044,mon,non-met,abs-conc,True,449,518,361
+pos,bird,wn_hypernym,not_certain,0.5482640212,-,True,-,towhee,towhee,193,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,does_fly,cslb,not_certain,0.3715129584,-,True,-,butterfly,butterfly,28016,True,True,True,3,0,5,0.08333333333333333,0.1534090909090909,poly,,abs-conc,True,593,481,
+pos,bird,wn_hypernym,not_certain,0.4285777646,-,True,-,fowl,fowl,2267,True,True,True,1,0,4,0.21052631578947367,0.48026315789473684,poly,non-met,conc,True,532,452,
+pos,bird,wn_hypernym,not_certain,0.4028031284,-,True,-,skylark,skylark,1194,True,True,True,0,0,2,None,,homonyms_only_different_pos,,conc,True,614,350,394
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.5691553404,-,True,-,owl,owl,12496,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,614,477,269
+pos,bird,wn_hypernym,not_certain,0.5184609019,-,True,-,yellowhammer,yellowhammer,130,True,True,True,1,0,2,0.6896551724137931,0.6896551724137931,,,conc,True,,,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.4911810722,-,True,-,hawk,hawk,17454,True,True,True,6,4,6,0.18181818181818182,0.3255892255892256,homonyms_only_different_pos,non-met,conc,True,623,504,
+pos,bird,wn_hypernym,not_certain,0.2428510473,-,True,-,knot,knot,8350,True,True,True,9,3,10,0.08695652173913043,0.20417907084627038,homonyms_only_different_pos,,abs-conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4389728444,-,True,-,bunting,bunting,2460,True,True,True,2,0,4,0.2222222222222222,0.30158730158730157,homonyms_also_same_pos,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.568033539,-,True,-,gallinule,gallinule,120,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,mammal bird,wn_hypernym,not_certain,0.1754454812,-,True,-,cob,cob,1485,True,True,True,2,0,4,0.26666666666666666,0.45904937973903487,poly,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4793374116,-,True,-,avocet,avocet,328,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6085017273,-,True,-,avocets,avocet,141,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4046176739,-,True,-,crow,crow,15515,True,True,True,4,3,9,0.09090909090909091,0.21977103277412874,homonyms_also_same_pos,,abs-conc-n,True,590,490,308
+pos,bird,wn_hypernym,not_certain,0.4672782959,-,True,-,goldcrest,goldcrest,276,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.2997015117,-,True,-,chick,chick,6826,True,True,True,2,0,2,0.5714285714285714,0.5714285714285714,poly,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.3324768158,-,True,-,flicker,flicker,1548,True,True,True,3,1,6,0.09090909090909091,0.24147426647426648,homonyms_only_different_pos,,abs-conc,True,415,470,
+pos,bird,wn_hypernym,not_certain,0.3301990831,-,True,-,trumpeter,trumpeter,5262,True,True,True,2,0,4,0.5,0.5768434464086638,,,conc,True,,,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.5217577414,-,True,-,pigeon,pigeon,8779,True,True,True,0,0,1,1.0,1.0,poly,met,conc,True,609,499,325
+pos,bird,wn_hypernym,not_certain,0.3607537471,-,True,-,barnacle,barnacle,974,True,True,True,1,0,2,0.5384615384615384,0.5384615384615384,poly,,conc,True,542,277,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.4668894574,-,True,-,wren,wren,4622,True,True,True,1,0,2,0.5454545454545454,0.5454545454545454,mon,non-met,conc-n,True,629,396,375
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.3101428926,-,True,-,robin,robin,49512,True,True,True,1,0,2,0.9285714285714286,0.9285714285714286,poly,non-met,conc,True,637,487,233
+pos,bird,wn_hypernym,not_certain,0.4829480351,-,True,-,albatross,albatross,2518,True,True,True,1,0,2,0.09090909090909091,0.09090909090909091,mon,,abs-conc,True,621,309,528
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.2589876896,-,True,-,budgie,budgie,511,True,True,True,0,0,1,1.0,1.0,,non-met,conc,True,,,
+pos,fly,conceptnet,not_certain,0.2173331265,-,True,-,wing,wing,178319,True,True,True,7,11,12,0.10526315789473684,0.2532620739488175,homonyms_only_different_pos,met non-met,abs-conc,True,595,510,
+pos,fly,conceptnet,not_certain,0.2886059165,-,True,-,wings,wing,71016,True,True,True,7,11,12,0.10526315789473684,0.2532620739488175,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.1187431739,-,True,-,fryer,fryer,1151,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.410629537,-,True,-,puffin,puffin,1162,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.6236333651,-,True,-,woodpecker,woodpecker,3585,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4816175756,-,True,-,vulture,vulture,4066,True,True,True,1,0,2,0.5217391304347826,0.5217391304347826,poly,,conc,True,,,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.4910167719,-,True,-,pelican,pelican,3522,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,does_fly bird,cslb wn_hypernym,not_certain,0.4633733865,-,True,-,duck,duck,22057,True,True,True,5,4,8,0.09523809523809523,0.21896305184348663,homonyms_also_same_pos,met non-met,abs-conc,True,606,529,164
+pos,bird,wn_hypernym,not_certain,0.4765807154,-,True,-,ouzel,ouzel,165,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.359982901,-,True,-,cock,cock,4137,True,True,True,5,4,8,0.17391304347826086,0.33455355124251446,homonyms_also_same_pos,met,conc,True,611,434,314
+pos,bird,wn_hypernym,not_certain,0.3906737603,-,True,-,loon,loon,1899,True,True,True,2,0,3,0.5,0.5333333333333333,homonyms_also_same_pos,,conc,True,481,303,
+pos,bird,wn_hypernym,not_certain,0.4429716691,-,True,-,ratite,ratite,130,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4956996637,-,True,-,stork,stork,2729,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,614,393,356
+pos,bird,wn_hypernym,not_certain,0.6540878112,-,True,-,whitethroat,whitethroat,132,True,True,True,1,0,3,0.8275862068965517,0.861247947454844,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.3982628239,-,True,-,hen,hen,4921,True,True,True,2,0,4,0.16666666666666666,0.44606080418437405,poly,non-met,conc,True,631,461,219
+pos,bird,wn_hypernym,not_certain,0.4731946202,-,True,-,titmouse,titmouse,151,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.2046067953,-,True,-,snowbird,snowbird,462,True,True,True,2,0,3,0.8275862068965517,0.8604269293924466,,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.4124670484,-,True,-,skimmer,skimmer,542,True,True,True,3,0,4,0.32,0.40174603174603174,poly,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.5433443433,-,True,-,pheasant,pheasant,2260,True,True,True,1,0,2,0.2,0.2,poly,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.3115201107,-,True,-,emu,emu,4215,True,True,True,2,0,2,0.1111111111111111,0.1111111111111111,mon,,abs-conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.5924155045,-,True,-,merganser,merganser,241,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6243042861,-,True,-,mergansers,merganser,136,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle vehicle,wn_hypernym manually_included,certain,0.2136012632,-,True,-,ship,ship,244709,True,True,True,2,7,6,0.25,0.27976190476190477,homonyms_only_different_pos,non-met,conc,True,615,553,249
+pos/neg,fly vehicle fly vehicle,wn_hypernym conceptnet manually_included,certain,0.1625836023,-,True,-,plane,plane,68878,True,True,True,7,0,9,0.1111111111111111,0.2943256090314914,homonyms_also_same_pos,non-met,abs-conc,True,535,558,
+pos/neg,vehicle vehicle,wn_hypernym manually_included,certain,0.1459878432,-,True,-,car,car,294557,True,True,True,1,4,5,0.47619047619047616,0.6434791524265209,poly,non-met,conc,True,622,634,197
+pos/neg,vehicle vehicle,wn_hypernym manually_included,certain,0.2284586939,-,True,-,boat,boat,102356,True,True,True,1,0,3,0.6,0.6,homonyms_only_different_pos,non-met,conc,True,637,584,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6225002936,-,True,-,motacilla,motacilla,112,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.143223511,-,True,-,clarence,clarence,15386,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2600930553,-,True,-,yawl,yawl,296,True,True,True,1,0,3,0.8,0.8,poly,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2902234691,-,True,-,bark,bark,14798,True,True,True,5,5,9,0.1,0.255685378218273,homonyms_also_same_pos,met non-met,abs-conc,True,563,518,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5882596273,-,True,-,nuthatches,nuthatch,232,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.5948055698,-,True,-,nuthatch,nuthatch,574,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.252231179,-,True,-,autogyro,autogyro,571,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.217159413,-,True,-,wherry,wherry,405,True,True,True,1,0,2,0.8148148148148148,0.8148148148148148,mon,,conc,True,378,135,683
+pos/neg,vehicle,wn_hypernym,not_certain,0.1536621365,-,True,-,truck,truck,46100,True,True,True,1,9,3,0.6956521739130435,0.6956521739130435,homonyms_also_same_pos,,conc,True,595,620,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2831161079,-,True,-,schooner,schooner,8164,True,True,True,2,0,2,0.5714285714285714,0.5714285714285714,poly,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6650865444,-,True,-,paridae,paridae,117,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+pos/neg,fly vehicle,wn_hypernym conceptnet,not_certain,0.2058369239,-,True,-,balloon,balloon,13372,True,True,True,4,4,4,0.14285714285714285,0.33458646616541354,homonyms_only_different_pos,,conc,True,623,520,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1584223661,-,True,-,craft,craft,38495,True,True,True,3,3,6,0.11764705882352941,0.28144149967679377,homonyms_only_different_pos,met,abs-conc,True,464,487,422
+pos/neg,vehicle,wn_hypernym,not_certain,0.2268250897,-,True,-,jalopy,jalopy,110,True,True,True,0,0,1,0.9230769230769231,0.9230769230769231,mon,,abs,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.134494404,-,True,-,lorry,lorry,2714,True,True,True,1,0,2,0.6666666666666666,0.6666666666666666,mon,non-met,conc,True,420,198,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1908648888,-,True,-,saloon,saloon,10441,True,True,True,1,0,3,0.47619047619047616,0.5396825396825397,poly,non-met,conc,True,575,381,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1598345827,-,True,-,taxi,taxi,18419,True,True,True,2,0,3,0.25,0.25,homonyms_only_different_pos,non-met,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1416355353,-,True,-,cart,cart,10134,True,True,True,2,0,4,0.25,0.5059523809523809,homonyms_only_different_pos,,conc,True,576,454,258
+pos,bird,wn_hypernym,not_certain,0.5478212905,-,True,-,caracara,caracara,248,True,True,False,0,0,1,1.0,1.0,,,conc,False,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5926456126,-,True,-,caracaras,caracara,106,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2093695367,-,True,-,shell,shell,62273,True,True,True,6,7,18,0.19047619047619047,0.40295295866170433,homonyms_only_different_pos,,abs-conc,True,597,524,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2539597346,-,True,-,steamer,steamer,10407,True,True,True,2,0,5,0.19047619047619047,0.2973084886128364,poly,,conc,True,591,458,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2963409029,-,True,-,minesweeper,minesweeper,3190,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.614354928,-,True,-,tropicbirds,tropicbird,131,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.6462725724,-,True,-,tropicbird,tropicbird,150,True,True,False,0,0,1,1.0,1.0,,,conc,False,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6500833836,-,True,-,icteridae,icteridae,107,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.589406105,-,True,-,flycatchers,flycatcher,684,True,True,True,1,0,2,0.8461538461538461,0.8461538461538461,mon,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.642871706,-,True,-,flycatcher,flycatcher,2600,True,True,True,1,0,2,0.8461538461538461,0.8461538461538461,mon,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1996970879,-,True,-,jet,jet,38624,True,True,True,4,0,9,0.08695652173913043,0.2726197905831773,homonyms_also_same_pos,non-met,abs-conc,True,580,583,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1502794007,-,True,-,trailer,trailer,22133,True,True,True,3,6,4,0.125,0.3407442216652743,poly,,abs-conc,True,597,528,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1491612966,-,True,-,tramcar,tramcar,445,True,True,True,0,0,2,0.7272727272727273,0.7272727272727273,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1525342107,-,True,-,heap,heap,4710,True,True,True,3,3,6,0.2222222222222222,0.27524790024790025,homonyms_only_different_pos,met non-met,abs,True,485,519,319
+pos/neg,vehicle,wn_hypernym,not_certain,0.2342235186,-,True,-,interceptor,interceptor,5107,True,True,True,0,0,1,0.8571428571428571,0.8571428571428571,poly,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1719520116,-,True,-,capsule,capsule,9772,True,True,True,4,0,9,0.11764705882352941,0.2926182993133457,poly,,abs-conc,True,540,505,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2107031668,-,True,-,submarine,submarine,50803,True,True,True,2,3,8,0.15384615384615385,0.18717242353605992,homonyms_only_different_pos,,conc,True,583,450,381
+pos/neg,vehicle,wn_hypernym,not_certain,0.126156764,-,True,-,van,van,186143,True,True,True,2,0,5,0.09523809523809523,0.32264768255480325,homonyms_also_same_pos,non-met,abs-conc,True,606,542,267
+pos/neg,vehicle,wn_hypernym,not_certain,0.1583464067,-,True,-,ferry,ferry,49438,True,True,True,2,1,5,0.09090909090909091,0.2122113997113997,homonyms_only_different_pos,non-met,abs-conc,True,580,458,378
+pos/neg,vehicle,wn_hypernym,not_certain,0.1636870643,-,True,-,scull,scull,1163,True,True,True,1,0,4,0.5,0.6296296296296297,homonyms_only_different_pos,non-met,conc,True,508,344,533
+pos/neg,vehicle,wn_hypernym,not_certain,0.1856813836,-,True,-,bogie,bogie,2489,True,True,True,1,0,2,0.09523809523809523,0.09523809523809523,poly,,abs-conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2142901441,-,True,-,velocipede,velocipede,248,True,True,True,1,0,2,0.7619047619047619,0.7619047619047619,poly,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2963756551,-,True,-,sloop,sloop,5992,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6238050914,-,True,-,emberizidae,emberizidae,157,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+pos/neg,fly vehicle,wn_hypernym conceptnet,not_certain,0.1213152825,-,True,-,machine,machine,130531,True,True,True,5,5,8,0.11764705882352941,0.34776627955807515,homonyms_only_different_pos,met non-met,abs-conc,True,578,549,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2461740446,-,True,-,shunter,shunter,432,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1595797799,-,True,-,junk,junk,4816,True,True,True,2,7,3,0.2,0.2,homonyms_also_same_pos,non-met,abs-conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1908150602,-,True,-,bomber,bomber,27940,True,True,True,3,6,3,0.19047619047619047,0.2927318295739348,poly,non-met,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1548464964,-,True,-,tower,tower,163709,True,True,True,2,6,4,0.11764705882352941,0.2702098383212934,homonyms_only_different_pos,met non-met,abs-conc,True,585,463,353
+pos/neg,vehicle,wn_hypernym,not_certain,0.1964376291,-,True,-,coupe,coupe,9247,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1846946132,-,True,-,tractor,tractor,9778,True,True,True,1,0,2,0.8333333333333334,0.8333333333333334,mon,non-met,conc,True,590,518,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2491034549,-,True,-,phaeton,phaeton,743,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,383,132,689
+pos,bird,wn_hypernym,not_certain,0.5924155045,-,True,-,merganser,merganser,241,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6243042861,-,True,-,mergansers,merganser,136,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2149882956,-,True,-,airship,airship,4850,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,585,332,406
+pos/neg,vehicle,wn_hypernym,not_certain,0.2159016037,-,True,-,sharpie,sharpie,261,True,True,True,3,0,4,0.3333333333333333,0.43678563998930137,,,abs-conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2009401638,-,True,-,carrier,carrier,52346,True,True,True,3,14,11,0.10526315789473684,0.3638429550560144,poly,met,abs-conc,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.3334213144,-,True,-,twinjet,twinjet,141,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.6156245789,-,True,-,phalacrocorax,phalacrocorax,193,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.1680996229,-,True,-,forklift,forklift,720,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5853951228,-,True,-,thrushes,thrush,572,True,True,True,2,0,3,0.17391304347826086,0.28814645308924486,homonyms_also_same_pos,,conc,True,,,
+pos,bird,wn_hypernym,not_certain,0.6100876991,-,True,-,thrush,thrush,2577,True,True,False,2,0,3,0.17391304347826086,0.28814645308924486,homonyms_also_same_pos,,conc,False,,,
+pos/neg,vehicle,wn_hypernym,not_certain,0.2162462216,-,True,-,sausage,sausage,4194,True,True,True,2,0,2,0.2,0.2,poly,non-met,conc,True,,,

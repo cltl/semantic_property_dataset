@@ -1,0 +1,8 @@
+chess_board
+bedrooms
+cube
+disks
+dressers
+salt_granulars
+tables
+world

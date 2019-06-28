@@ -1,0 +1,432 @@
+"concept"	"label"	"categories_str"	"sources_str"	"certainty"	"cosine_centroid"	"selection"
+"crypt"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.101417697	3
+"world"	"neg"	"blue"	"conceptnet"	"not_certain"	0.113797325	3
+"recorder"	"neg"	"is_black"	"cslb"	"not_certain"	0.1196791047	3
+"football"	"neg"	"is_black"	"cslb"	"not_certain"	0.1246974226	2
+"newspaper"	"neg"	"is_black"	"cslb"	"not_certain"	0.1301107225	2
+"bluejay"	"neg"	"is_blue"	"mcrae"	"not_certain"	0.1368202334	3
+"cape"	"neg"	"is_black"	"mcrae"	"not_certain"	0.1372720054	
+"tyre"	"neg"	"is_black"	"cslb"	"not_certain"	0.1372794717	
+"ring"	"neg"	"blue"	"conceptnet"	"not_certain"	0.1440131638	
+"suit"	"neg"	"is_black"	"cslb"	"not_certain"	0.147912673	
+"indian"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.153137723	
+"shy"	"neg"	"blue"	"conceptnet"	"not_certain"	0.1550212029	
+"rook"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.1569638224	
+"humans"	"neg"	"black"	"conceptnet"	"not_certain"	0.1693820131	
+"jay"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.1704743606	
+"night"	"neg"	"is_black black"	"conceptnet veale_simile"	"not_certain"	0.1710652283	
+"pit"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.1712545091	
+"parka"	"neg"	"is_green"	"cslb"	"not_certain"	0.1728470828	
+"tires"	"neg"	"black"	"conceptnet"	"not_certain"	0.1772466975	
+"cannon"	"neg"	"is_black"	"mcrae"	"not_certain"	0.1790041646	
+"tar"	"neg"	"black"	"conceptnet"	"not_certain"	0.1791686964	
+"cricket"	"neg"	"is_green"	"cslb"	"not_certain"	0.1806651786	
+"tank"	"neg"	"is_green"	"cslb"	"not_certain"	0.1812472605	
+"clarinet"	"neg"	"is_black"	"cslb"	"not_certain"	0.1817535542	
+"bloodstone"	"neg"	"red"	"conceptnet"	"not_certain"	0.1824875625	
+"robin"	"neg"	"is_red"	"cslb"	"not_certain"	0.1825011569	
+"ambulance"	"neg"	"is_red"	"mcrae"	"not_certain"	0.1842655571	
+"leafs"	"neg"	"green"	"conceptnet"	"not_certain"	0.1872959649	
+"heart"	"neg"	"is_yellow is_red"	"cslb cslb_crowd_neg"	"certain"	0.1879026502	
+"cloak"	"neg"	"is_black"	"cslb"	"not_certain"	0.1948667488	
+"jeeps"	"neg"	"red"	"conceptnet"	"not_certain"	0.1952621975	
+"bus"	"pos"	"is_yellow is_red"	"cslb mcrae"	"not_certain"	0.2018847342	
+"blackboard"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.2034652938	
+"nightmare"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.2037559899	
+"car"	"neg"	"red green"	"conceptnet"	"not_certain"	0.2064621414	
+"fox"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.2064624126	
+"piano"	"neg"	"is_black"	"cslb"	"not_certain"	0.2066114131	
+"cars"	"neg"	"red"	"conceptnet"	"not_certain"	0.2082043816	
+"jaguars"	"neg"	"black"	"conceptnet"	"not_certain"	0.2095134788	
+"jeans"	"neg"	"is_black is_blue"	"cslb"	"not_certain"	0.2096688379	
+"cinder"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.2102246936	
+"tongue"	"neg"	"is_red"	"cslb"	"not_certain"	0.2105875284	
+"bra"	"neg"	"is_black"	"mcrae"	"not_certain"	0.216725449	
+"calf"	"neg"	"is_black"	"cslb"	"not_certain"	0.2171345988	
+"coal"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.217280724	
+"lagoon"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.2196949378	
+"eye"	"neg"	"is_green is_blue"	"cslb"	"not_certain"	0.2200469287	
+"wand"	"neg"	"is_black"	"cslb"	"not_certain"	0.221876071	
+"moss"	"neg"	"is_green"	"cslb"	"not_certain"	0.2237690457	
+"miner"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.2260222237	
+"jeep"	"neg"	"is_green"	"cslb"	"not_certain"	0.2264067502	
+"wetsuit"	"neg"	"is_black"	"cslb"	"not_certain"	0.2287349376	
+"dress"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2292724997	
+"gown"	"neg"	"is_black"	"cslb"	"not_certain"	0.2293889898	
+"pyramid"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.2309256661	
+"hose"	"neg"	"is_green"	"cslb"	"not_certain"	0.2310479438	
+"limousine"	"neg"	"is_black"	"cslb"	"not_certain"	0.2310746553	
+"panther"	"neg"	"is_black"	"cslb veale_simile"	"not_certain"	0.2338951318	
+"starling"	"neg"	"is_black"	"cslb"	"not_certain"	0.2341162279	
+"clothing"	"neg"	"red"	"conceptnet"	"not_certain"	0.2348528219	
+"barn"	"neg"	"is_red"	"mcrae"	"not_certain"	0.2351161342	
+"raven"	"neg"	"is_black"	"cslb veale_simile"	"not_certain"	0.2355185616	
+"couch"	"neg"	"black"	"conceptnet"	"not_certain"	0.2392291538	
+"crow"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.239840235	
+"leopards"	"neg"	"black"	"conceptnet"	"not_certain"	0.240486977	
+"iceberg"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.2408314781	
+"taxi"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.2438055763	
+"tights"	"neg"	"is_black"	"cslb"	"not_certain"	0.2464285032	
+"diamond"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2508723998	
+"herring"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.2517836309	
+"eyes"	"neg"	"green blue"	"conceptnet"	"not_certain"	0.2537304819	
+"fir"	"neg"	"is_green"	"cslb"	"not_certain"	0.2538048707	
+"water"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2552483827	
+"brick"	"neg"	"is_red"	"cslb mcrae"	"not_certain"	0.2561696746	
+"rhino"	"neg"	"is_black"	"cslb"	"not_certain"	0.2565771102	
+"dolphin"	"neg"	"is_blue"	"cslb veale_simile"	"not_certain"	0.2587649402	
+"sun"	"pos"	"is_yellow"	"veale_simile"	"not_certain"	0.2591098772	
+"jade"	"neg"	"green"	"conceptnet"	"not_certain"	0.2604356111	
+"sky"	"neg"	"blue is_blue"	"conceptnet veale_simile"	"not_certain"	0.2612646696	
+"crane"	"pos"	"pos"	"manually_included"	"certain"	0.2615852268	
+"stockings"	"neg"	"is_black"	"cslb"	"not_certain"	0.2637372794	
+"boots"	"neg"	"is_black"	"mcrae"	"not_certain"	0.2652358493	
+"sand"	"neg"	"black"	"conceptnet"	"not_certain"	0.2668341826	
+"kingfisher"	"neg"	"is_green is_blue"	"cslb veale_simile"	"not_certain"	0.2668365618	
+"lark"	"neg"	"is_blue"	"veale_simile"	"not_certain"	0.2671550563	
+"flame"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.2682976875	
+"bear"	"neg"	"is_black"	"cslb mcrae"	"not_certain"	0.2700677473	
+"chameleons"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2713212315	
+"thundercloud"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.272319712	
+"yoyo"	"neg"	"red"	"conceptnet"	"not_certain"	0.27265814	
+"lantern"	"neg"	"is_black"	"cslb"	"not_certain"	0.2736988313	
+"lips"	"neg"	"is_red"	"cslb"	"not_certain"	0.2739746371	
+"cats"	"neg"	"black"	"conceptnet"	"not_certain"	0.2765370422	
+"lawn"	"neg"	"green"	"conceptnet"	"not_certain"	0.2766842607	
+"hair"	"neg"	"is_black is_red"	"cslb"	"not_certain"	0.2773793742	
+"buzzard"	"neg"	"is_black"	"mcrae"	"not_certain"	0.2783497502	
+"elm"	"neg"	"is_green"	"cslb"	"not_certain"	0.2792086673	
+"jam"	"neg"	"is_red"	"cslb"	"not_certain"	0.2796929197	
+"ink"	"neg"	"black"	"conceptnet"	"not_certain"	0.2801699443	
+"ruby"	"neg"	"red is_red"	"conceptnet veale_simile"	"not_certain"	0.2821987604	
+"canary"	"pos"	"is_yellow is_yellow"	"cslb mcrae manually_included"	"certain"	0.282584223	
+"bat"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.2829442951	
+"whale"	"neg"	"is_blue"	"cslb"	"not_certain"	0.2834437061	
+"rooster"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.2841894544	
+"millipede"	"neg"	"is_black"	"cslb"	"not_certain"	0.2864812095	
+"umbrellas"	"neg"	"blue"	"conceptnet"	"not_certain"	0.2870452754	
+"pelican"	"neg"	"is_black"	"cslb"	"not_certain"	0.2881938276	
+"sunbeam"	"pos"	"is_yellow"	"veale_simile"	"not_certain"	0.2885638837	
+"paint"	"pos"	"pos"	"manually_included"	"certain"	0.2886311348	
+"blackbird"	"neg"	"is_black"	"mcrae"	"not_certain"	0.2898632701	
+"cheetah"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.2904040985	
+"beehive"	"pos"	"is_yellow"	"mcrae"	"not_certain"	0.2910596649	
+"balloons"	"neg"	"red"	"conceptnet"	"not_certain"	0.2911924998	
+"peacock"	"neg"	"is_green is_blue"	"cslb"	"not_certain"	0.2923045582	
+"sandpaper"	"pos"	"is_yellow"	"cslb cslb_crowd_pos"	"certain"	0.2933503484	
+"penguin"	"neg"	"is_black"	"cslb"	"not_certain"	0.2948360458	
+"tiger"	"neg"	"is_black"	"cslb"	"not_certain"	0.2954937677	
+"glass"	"neg"	"green"	"conceptnet"	"not_certain"	0.2969975704	
+"oven"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.2970136624	
+"rose"	"pos"	"red is_yellow is_red"	"cslb conceptnet veale_simile cslb_crowd_pos"	"certain"	0.2973023949	
+"gorilla"	"neg"	"is_black"	"cslb"	"not_certain"	0.2976483362	
+"leek"	"neg"	"is_green"	"cslb"	"not_certain"	0.2987635219	
+"emerald"	"neg"	"green"	"conceptnet"	"not_certain"	0.3021494982	
+"scorpion"	"neg"	"is_black"	"cslb"	"not_certain"	0.3027221135	
+"rubies"	"neg"	"red"	"conceptnet"	"not_certain"	0.3036778827	
+"wines"	"neg"	"red"	"conceptnet"	"not_certain"	0.3047530228	
+"housefly"	"neg"	"is_black"	"cslb"	"not_certain"	0.304841007	
+"sapphire"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3059239942	
+"limes"	"neg"	"green"	"conceptnet"	"not_certain"	0.3061184244	
+"crocodile"	"neg"	"is_green"	"cslb"	"not_certain"	0.3078928069	
+"slug"	"neg"	"is_black"	"cslb"	"not_certain"	0.308354489	
+"cockroach"	"neg"	"is_black"	"cslb"	"not_certain"	0.3109127126	
+"lion"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.3112829127	
+"pot"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.3137110433	
+"spider"	"neg"	"is_black"	"cslb"	"not_certain"	0.3148150479	
+"hornet"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.3148181938	
+"iguana"	"neg"	"is_green"	"cslb"	"not_certain"	0.320411341	
+"flea"	"neg"	"is_black"	"cslb"	"not_certain"	0.3207327564	
+"magpie"	"neg"	"is_black"	"cslb"	"not_certain"	0.3213531553	
+"grasshopper"	"neg"	"is_green"	"cslb"	"not_certain"	0.322129412	
+"sycamore"	"neg"	"is_green"	"cslb"	"not_certain"	0.3225766192	
+"raccoon"	"neg"	"is_black"	"cslb"	"not_certain"	0.3226750644	
+"lizard"	"neg"	"is_green"	"cslb"	"not_certain"	0.3228040081	
+"gherkin"	"neg"	"is_green"	"cslb"	"not_certain"	0.3233510766	
+"champagne"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.3291812633	
+"mussel"	"neg"	"is_black"	"cslb"	"not_certain"	0.3296648047	
+"prune"	"neg"	"is_black"	"cslb"	"not_certain"	0.3299283083	
+"dog"	"neg"	"black"	"conceptnet"	"not_certain"	0.3310939898	
+"carnation"	"neg"	"is_red"	"cslb"	"not_certain"	0.3312920609	
+"zebra"	"neg"	"is_black"	"cslb"	"not_certain"	0.3333307148	
+"parakeets"	"neg"	"green"	"conceptnet"	"not_certain"	0.3358660328	
+"lipstick"	"neg"	"is_red"	"cslb"	"not_certain"	0.3358766775	
+"wasp"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.3371010284	
+"giraffe"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.337503298	
+"tarantula"	"neg"	"is_black"	"cslb"	"not_certain"	0.3379196466	
+"ant"	"neg"	"is_black is_red"	"cslb mcrae"	"not_certain"	0.3396355683	
+"green"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.3414509155	
+"frogs"	"neg"	"green"	"conceptnet"	"not_certain"	0.3418348952	
+"budgie"	"pos"	"is_green is_yellow is_blue"	"cslb mcrae"	"not_certain"	0.3434562056	
+"turtle"	"neg"	"is_green"	"cslb"	"not_certain"	0.3441681534	
+"leopard"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.3450666833	
+"willow"	"neg"	"is_green"	"cslb"	"not_certain"	0.3453419087	
+"caterpillar"	"neg"	"is_green"	"cslb"	"not_certain"	0.3465195951	
+"locust"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.3473542475	
+"alligator"	"neg"	"is_green"	"cslb mcrae"	"not_certain"	0.3474881713	
+"tortoise"	"neg"	"is_green"	"cslb"	"not_certain"	0.3481056585	
+"pomegranates"	"neg"	"red"	"conceptnet"	"not_certain"	0.3501507035	
+"sheep"	"neg"	"is_black"	"cslb"	"not_certain"	0.3530643338	
+"toad"	"neg"	"is_green"	"cslb"	"not_certain"	0.3532135044	
+"weeds"	"neg"	"green"	"conceptnet"	"not_certain"	0.355251032	
+"squirrel"	"neg"	"is_red"	"cslb"	"not_certain"	0.3553187784	
+"insects"	"neg"	"green"	"conceptnet"	"not_certain"	0.3553331157	
+"frog"	"neg"	"is_green green"	"cslb conceptnet"	"not_certain"	0.3559591551	
+"ladybird"	"neg"	"is_black is_red"	"cslb"	"not_certain"	0.3601279816	
+"pansy"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.360775199	
+"skunk"	"neg"	"is_black"	"cslb"	"not_certain"	0.3617428782	
+"berry"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.3626297384	
+"peony"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.3633632976	
+"yolk"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.3636518947	
+"daisy"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.3649589476	
+"raisin"	"neg"	"is_black"	"cslb"	"not_certain"	0.3661813369	
+"daisies"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.3671507304	
+"wine"	"neg"	"is_red"	"cslb"	"not_certain"	0.3679999558	
+"pine"	"neg"	"is_green"	"cslb"	"not_certain"	0.3688431318	
+"aubergine"	"neg"	"is_green"	"cslb"	"not_certain"	0.3690028289	
+"cow"	"neg"	"is_black"	"cslb"	"not_certain"	0.3752732013	
+"beer"	"pos"	"is_yellow"	"cslb cslb_crowd_pos"	"certain"	0.3768127266	
+"violets"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3777157666	
+"sloe"	"neg"	"is_black"	"veale_simile"	"not_certain"	0.3780265173	
+"corncob"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.3794379945	
+"beetle"	"neg"	"is_black"	"cslb mcrae"	"not_certain"	0.3802268029	
+"lobster"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.3816508749	
+"beets"	"neg"	"is_red"	"mcrae"	"not_certain"	0.3823408527	
+"eggs"	"neg"	"blue"	"conceptnet"	"not_certain"	0.3825895061	
+"truffles"	"neg"	"black"	"conceptnet"	"not_certain"	0.3900256088	
+"geranium"	"neg"	"is_red"	"cslb"	"not_certain"	0.3906652317	
+"rice"	"neg"	"black"	"conceptnet"	"not_certain"	0.3910128553	
+"fern"	"neg"	"is_green"	"cslb"	"not_certain"	0.3935019581	
+"daffodil"	"pos"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.3945289034	
+"tomatoes"	"neg"	"red"	"conceptnet"	"not_certain"	0.3951659819	
+"broccoli"	"neg"	"is_green green"	"cslb conceptnet mcrae"	"not_certain"	0.3970345884	
+"seaweed"	"neg"	"is_green"	"cslb"	"not_certain"	0.3973491411	
+"beetroot"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.3974682106	
+"goldfish"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.3996650476	
+"ketchup"	"neg"	"is_red"	"cslb"	"not_certain"	0.4014589018	
+"bee"	"pos"	"is_yellow is_black"	"cslb"	"not_certain"	0.4020723236	
+"beet"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.4073156006	
+"bottle"	"neg"	"is_green"	"mcrae"	"not_certain"	0.4106618828	
+"parsley"	"neg"	"is_green"	"cslb"	"not_certain"	0.4134458865	
+"peppers"	"neg"	"red green"	"conceptnet"	"not_certain"	0.4204439281	
+"coffee"	"neg"	"is_black"	"cslb"	"not_certain"	0.42057468	
+"olive"	"neg"	"is_green is_black"	"cslb"	"not_certain"	0.4216727498	
+"cider"	"pos"	"is_yellow"	"cslb cslb_crowd_pos"	"certain"	0.4223968913	
+"currant"	"neg"	"is_black is_red"	"cslb"	"not_certain"	0.4229841385	
+"eucalyptus"	"neg"	"is_green"	"cslb"	"not_certain"	0.423191977	
+"lemonade"	"pos"	"is_yellow"	"cslb_crowd_pos"	"certain"	0.4245010861	
+"artichokes"	"neg"	"green"	"conceptnet"	"not_certain"	0.4276269504	
+"peas"	"neg"	"is_green green"	"cslb conceptnet"	"not_certain"	0.4286781403	
+"radish"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.4291590752	
+"saffron"	"pos"	"is_yellow"	"veale_simile"	"not_certain"	0.4312099401	
+"artichoke"	"neg"	"is_green"	"cslb"	"not_certain"	0.4317279115	
+"pears"	"neg"	"green"	"conceptnet"	"not_certain"	0.4346394095	
+"cherry"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.4358696422	
+"buttercup"	"pos"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.4368557905	
+"crab"	"neg"	"is_red"	"cslb"	"not_certain"	0.4422313402	
+"celery"	"neg"	"is_green"	"cslb"	"not_certain"	0.4428503205	
+"grape"	"neg"	"is_green green is_red"	"cslb conceptnet"	"not_certain"	0.4449149695	
+"clover"	"neg"	"green"	"conceptnet"	"not_certain"	0.4454485048	
+"lime"	"neg"	"is_green"	"cslb"	"not_certain"	0.4474238039	
+"blueberry"	"neg"	"blue is_blue"	"cslb conceptnet mcrae veale_simile"	"not_certain"	0.4529199393	
+"cheese"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.4540472488	
+"asparagus"	"neg"	"is_green"	"cslb mcrae"	"not_certain"	0.4548009761	
+"oppositifolia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.455101264	
+"almonds"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4554884408	
+"plantain"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4555085039	
+"jalapeos"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4556938712	
+"phostria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4557782178	
+"pycnarmon"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4558415356	
+"rhubarb"	"neg"	"is_green is_red"	"cslb"	"not_certain"	0.4562326245	
+"milk"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4564856698	
+"herbs"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4565202723	
+"jelly"	"neg"	"is_green is_red"	"cslb"	"not_certain"	0.4567746641	
+"antennaria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4568200194	
+"marigold"	"pos"	"is_yellow is_yellow"	"cslb manually_included"	"certain"	0.4568611895	
+"geraniums"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.457187169	
+"poppy"	"neg"	"is_black is_red"	"cslb veale_simile"	"not_certain"	0.4572137698	
+"sweet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4572485956	
+"laurifolia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4576191575	
+"salicina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4576325331	
+"mangifera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4577182254	
+"cowpeas"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4577464197	
+"jackfruit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4578978812	
+"buttercream"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4582791058	
+"macaranga"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4585653548	
+"bottlebrush"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4587398863	
+"blackcurrant"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4589424925	
+"avocado"	"neg"	"is_green"	"cslb mcrae"	"not_certain"	0.4589611361	
+"raspberry"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.4590338832	
+"pepper"	"neg"	"is_red black"	"conceptnet veale_simile"	"not_certain"	0.4591518434	
+"salad"	"neg"	"green"	"conceptnet"	"not_certain"	0.4602432127	
+"huckleberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4602684877	
+"bean"	"neg"	"is_green"	"cslb"	"not_certain"	0.460291463	
+"cereal"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4604531381	
+"pistachio"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4605578573	
+"biflora"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4606151243	
+"actinidia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4606374648	
+"monocotyledonous"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4609422932	
+"seedpods"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4611275908	
+"palaquium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4613690764	
+"madhuca"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4613734061	
+"lemongrass"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4613905226	
+"peucedanum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4616077876	
+"cryptocarya"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4616207587	
+"cultivars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4616803164	
+"mangoes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4616914009	
+"cactus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4618052092	
+"papaya"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4619008646	
+"liatris"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4624387499	
+"sterculia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4625186314	
+"soapberry"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4625247403	
+"acianthera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4625386495	
+"crassifolia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4626039701	
+"pigweed"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4626833069	
+"shiitake"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4631226009	
+"gooseberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4632691598	
+"teucrium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.463405237	
+"fragrant"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4635623198	
+"drupes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4635837331	
+"raspberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4639189991	
+"platanthera"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.463962543	
+"vanilla"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4639658485	
+"adansonia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4640024409	
+"orchids"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.4640138403	
+"crassula"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4640310333	
+"nectarine"	"pos"	"is_yellow is_red"	"cslb"	"not_certain"	0.4646717369	
+"parryi"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4650690702	
+"peanuts"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4654303092	
+"colocasia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4664315072	
+"pomegranate"	"neg"	"is_red"	"veale_simile"	"not_certain"	0.4665144473	
+"umbellifers"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4665387184	
+"candy"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4674728063	
+"serviceberry"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4674959566	
+"helenium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4675725148	
+"pecans"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.467616517	
+"homoeosoma"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4676779848	
+"cherries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4678950014	
+"toadflax"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4680232931	
+"peperomia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4682382683	
+"leafroller"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4683814871	
+"pawpaw"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4695208907	
+"hexachaeta"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4695392576	
+"pratense"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4695985668	
+"mamey"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4697774225	
+"custard"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4705999563	
+"scoparium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4706343672	
+"walnuts"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4706596289	
+"meadowsweet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4709329144	
+"arachis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.470954189	
+"quesadillas"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.471030652	
+"cryptantha"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4712202277	
+"pear"	"neg"	"is_green"	"cslb"	"not_certain"	0.4719019934	
+"oranges"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4719333907	
+"spinach"	"neg"	"is_green"	"cslb"	"not_certain"	0.4721627571	
+"diplacus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4723108301	
+"passionfruit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4725174121	
+"tagetes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4727965194	
+"chocolate"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.47291409	
+"meconopsis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4729869114	
+"apricots"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4742967562	
+"barley"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4743927942	
+"loquat"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4751494131	
+"gochujang"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.475182571	
+"miniata"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4753267511	
+"ageratina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4753568848	
+"mustard"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.4756373343	
+"guava"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4756928492	
+"galangal"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.47616199	
+"scabious"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4764668531	
+"blossoms"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4766452214	
+"lavandula"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4768634386	
+"grapes"	"neg"	"red green"	"conceptnet"	"not_certain"	0.4772326039	
+"blepharomastix"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4772567071	
+"drummondii"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4777890339	
+"plumeria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4778863554	
+"barringtonia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4779109959	
+"milkwort"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4779931767	
+"sunflowers"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.478074925	
+"cucurbits"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4790724721	
+"melons"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4791987526	
+"carrots"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4794849057	
+"citrus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.480478759	
+"mango"	"pos"	"is_green is_yellow"	"cslb"	"not_certain"	0.4806569757	
+"syrup"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4812007882	
+"carrot"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4822285687	
+"photinia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4823432768	
+"onion"	"neg"	"is_red"	"cslb"	"not_certain"	0.4827395066	
+"grapefruit"	"pos"	"is_yellow is_red"	"cslb"	"not_certain"	0.4828016425	
+"peach"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.4838159682	
+"gentianaceae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4839641022	
+"corn"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.4840082381	
+"onions"	"neg"	"green"	"conceptnet"	"not_certain"	0.4842846903	
+"gentianella"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4849294627	
+"evergestis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4851638739	
+"peaches"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4855480464	
+"tanacetum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.486270981	
+"sativum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4866984626	
+"plum"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.4869788858	
+"orthotylus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4874966086	
+"endoxyla"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.488104273	
+"dogwoods"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4883729027	
+"cercocarpus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4884214711	
+"dandelion"	"pos"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.4884309907	
+"apple"	"pos"	"red is_green is_yellow green is_red"	"cslb conceptnet mcrae veale_simile"	"not_certain"	0.4884679418	
+"dogbane"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.488710727	
+"glochidion"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4897067795	
+"rhagoletis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4897785613	
+"lettuce"	"neg"	"is_green"	"cslb"	"not_certain"	0.4908409848	
+"plums"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.491379849	
+"stanhopea"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4917738444	
+"allspice"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4921149223	
+"edible"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4935080803	
+"vegetable"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4937204718	
+"acrolepiidae"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4948160688	
+"juice"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4948601828	
+"pandemis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4949826664	
+"persicaria"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4949852389	
+"lewisia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4952694164	
+"cream"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4956178574	
+"calathea"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4966541428	
+"melilotus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4969382285	
+"coconut"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4971828924	
+"sapodilla"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4982695828	
+"watermelon"	"neg"	"is_green is_red"	"cslb"	"not_certain"	0.4994818787	
+"echinocereus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5009736485	
+"millefolium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5010352691	
+"cucumber"	"neg"	"is_green"	"cslb"	"not_certain"	0.5010442733	
+"apricot"	"pos"	"is_yellow"	"cslb"	"not_certain"	0.5010987738	
+"apples"	"pos"	"red green yellow"	"conceptnet"	"not_certain"	0.5016352877	
+"trombidium"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5030462269	
+"dysoxylum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.504080002	
+"garlic"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5042411284	
+"bananas"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.5064126111	
+"leucaena"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5073541097	
+"butter"	"pos"	"is_yellow yellow"	"cslb conceptnet"	"not_certain"	0.508818111	
+"chives"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.509611868	
+"peanut"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5109558486	
+"melon"	"pos"	"is_green is_yellow"	"cslb"	"not_certain"	0.5114238514	
+"ginger"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5116867783	
+"soursop"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.511769848	
+"potatoes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5126941938	
+"fruits"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5149198904	
+"calycina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5149563726	
+"cabbage"	"neg"	"is_green is_red"	"cslb mcrae"	"not_certain"	0.5156853632	
+"pumpkin"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5159033623	
+"sunflower"	"pos"	"is_yellow"	"cslb veale_simile"	"not_certain"	0.5161389644	
+"potato"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5165363874	
+"berries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5171297374	
+"vegetables"	"neg"	"green"	"conceptnet"	"not_certain"	0.5184068116	
+"banana"	"pos"	"is_green is_yellow yellow"	"cslb conceptnet mcrae veale_simile"	"not_certain"	0.5189990337	
+"strawberry"	"neg"	"is_red"	"cslb veale_simile"	"not_certain"	0.51906787	
+"strawberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5204314819	
+"beans"	"pos"	"is_green is_yellow"	"mcrae"	"not_certain"	0.5206921049	
+"mentzelia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5229037594	
+"flower"	"pos"	"yellow"	"conceptnet"	"not_certain"	0.5283943795	
+"trichilia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5290164015	
+"flowers"	"pos"	"red green blue yellow"	"conceptnet"	"not_certain"	0.5322875155	
+"honey"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5359898523	
+"tomato"	"neg"	"is_green is_red"	"cslb veale_simile"	"not_certain"	0.5446143011	
+"pineapple"	"pos"	"is_green is_yellow is_green is_yellow"	"cslb manually_included"	"certain"	0.5451002989	
+"lemon"	"pos"	"is_yellow is_yellow"	"cslb veale_simile manually_included"	"certain"	0.5526086627	
+"fruit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.568871838	

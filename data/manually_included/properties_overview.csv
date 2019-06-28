@@ -1,0 +1,24 @@
+category,property,pos, pos_met, neg, neg_met
+perceptual,warm
+perceptual,hot
+perceptual,red
+perceptual,square
+perceptual,green
+perceptual,cold
+perceptual,sweet
+perceptual,blue
+perceptual,yellow
+perceptual,round
+perceptual,black
+perceptual,juicy
+complex,dangerous
+complex,found_in_seas
+complex,used_in_cooking
+complex,female
+parts,wheels
+parts,wings
+parts,made_of_wood
+activities,swim
+activities,roll
+activities,lay_eggs
+activities,fly

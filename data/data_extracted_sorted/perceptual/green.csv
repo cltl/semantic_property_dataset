@@ -1,0 +1,377 @@
+concept,label,categories_str,sources_str,certainty
+apricotis_red,neg,is_green,cslb_crowd_neg,certain
+alligator,pos,is_green,cslb mcrae,not_certain
+apple,pos,red is_green is_yellow green is_red,cslb conceptnet mcrae veale_simile,not_certain
+artichoke,pos,is_green,cslb,not_certain
+asparagus,pos,is_green,cslb mcrae,not_certain
+aubergine,pos,is_green,cslb,not_certain
+avocado,pos,is_green,cslb mcrae,not_certain
+banana,pos,is_green is_yellow yellow,cslb conceptnet mcrae veale_simile,not_certain
+bean,pos,is_green,cslb,not_certain
+broccoli,pos,is_green green is_green green,cslb conceptnet mcrae manually_included,certain
+brussel_sprouts,pos,is_green,cslb,not_certain
+cabbage,pos,is_green is_red,cslb mcrae,not_certain
+caterpillar,pos,is_green,cslb,not_certain
+celery,pos,is_green,cslb,not_certain
+courgette,pos,is_green is_yellow,cslb,not_certain
+cricket,pos,is_green,cslb,not_certain
+crocodile,pos,is_green,cslb,not_certain
+cucumber,pos,is_green,cslb,not_certain
+elm,pos,is_green,cslb,not_certain
+eucalyptus,pos,is_green,cslb,not_certain
+eye,pos,is_green is_blue,cslb,not_certain
+fern,pos,is_green,cslb,not_certain
+fir,pos,is_green,cslb,not_certain
+frog,pos,is_green green,cslb conceptnet,not_certain
+gherkin,pos,is_green,cslb,not_certain
+grape,pos,is_green green is_red,cslb conceptnet,not_certain
+grasshopper,pos,is_green,cslb,not_certain
+hose,pos,is_green,cslb,not_certain
+iguana,pos,is_green,cslb,not_certain
+jeep,pos,is_green,cslb,not_certain
+jelly,pos,is_green is_red,cslb,not_certain
+kingfisher,pos,is_green is_blue,cslb veale_simile,not_certain
+kiwi_fruit,pos,is_green,cslb,not_certain
+leek,pos,is_green,cslb,not_certain
+lettuce,pos,is_green,cslb,not_certain
+lime,pos,is_green,cslb,not_certain
+lizard,pos,is_green,cslb,not_certain
+mango,pos,is_green is_yellow,cslb,not_certain
+melon,pos,is_green is_yellow,cslb,not_certain
+moss,pos,is_green,cslb,not_certain
+olive,pos,is_green is_black,cslb,not_certain
+parka,pos,is_green,cslb,not_certain
+parsley,pos,is_green,cslb,not_certain
+peacock,pos,is_green is_blue,cslb,not_certain
+pear,pos,is_green,cslb,not_certain
+peas,pos,is_green green,cslb conceptnet,not_certain
+pine,pos,is_green,cslb,not_certain
+pineapple,pos,is_green is_yellow,cslb,not_certain
+rhubarb,pos,is_green is_red,cslb,not_certain
+seaweed,pos,is_green,cslb,not_certain
+spinach,pos,is_green is_green,cslb manually_included,certain
+stick_insect,pos,is_green,cslb,not_certain
+sycamore,pos,is_green,cslb,not_certain
+tank,pos,is_green,cslb,not_certain
+toad,pos,is_green,cslb,not_certain
+tomato,pos,is_green is_red is_green is_red,cslb veale_simile manually_included,certain
+tortoise,pos,is_green,cslb,not_certain
+turtle,pos,is_green,cslb,not_certain
+watermelon,pos,is_green is_red,cslb,not_certain
+willow,pos,is_green,cslb,not_certain
+beans,pos,is_green is_yellow,mcrae,not_certain
+board_(black),pos,is_green is_black,mcrae,not_certain
+bottle,pos,is_green,mcrae,not_certain
+budgie,pos,is_green is_yellow is_blue,cslb mcrae,not_certain
+lemon,neg,is_yellow,cslb veale_simile,not_certain
+buttercup,neg,is_yellow,cslb veale_simile,not_certain
+sunflower,neg,is_yellow,cslb veale_simile,not_certain
+daffodil,neg,is_yellow,cslb veale_simile,not_certain
+sunbeam,neg,is_yellow,veale_simile,not_certain
+egg_yolk,neg,is_yellow,veale_simile,not_certain
+saffron,neg,is_yellow,veale_simile,not_certain
+sun,neg,is_yellow,veale_simile,not_certain
+dandelion,neg,is_yellow,cslb veale_simile,not_certain
+banana_peel,neg,is_yellow,veale_simile,not_certain
+apricot,neg,is_yellow,cslb,not_certain
+bee,neg,is_yellow is_black,cslb,not_certain
+beer,neg,is_yellow,cslb,not_certain
+butter,neg,is_yellow yellow,cslb conceptnet,not_certain
+canary,neg,is_yellow,cslb mcrae,not_certain
+champagne,neg,is_yellow,cslb,not_certain
+cheese,neg,is_yellow,cslb,not_certain
+cheetah,neg,is_yellow,cslb,not_certain
+cider,neg,is_yellow,cslb,not_certain
+corn,neg,is_yellow,cslb,not_certain
+crane_(equipment),neg,is_yellow,cslb,not_certain
+daisy,neg,is_yellow is_yellow,cslb manually_included,certain
+giraffe,neg,is_yellow,cslb,not_certain
+goldfish,neg,is_yellow,cslb,not_certain
+grapefruit,neg,is_yellow is_red,cslb,not_certain
+hornet,neg,is_yellow is_black,cslb,not_certain
+leopard,neg,is_yellow is_black,cslb,not_certain
+lion,neg,is_yellow,cslb,not_certain
+locust,neg,is_yellow,cslb,not_certain
+marigold,neg,is_yellow,cslb,not_certain
+nectarine,neg,is_yellow is_red,cslb,not_certain
+pansy,neg,is_yellow,cslb,not_certain
+peach,neg,is_yellow,cslb,not_certain
+plum,neg,is_yellow,cslb,not_certain
+pyramid,neg,is_yellow,cslb,not_certain
+sandpaper,neg,is_yellow,cslb,not_certain
+taxi,neg,is_yellow is_black,cslb,not_certain
+wasp,neg,is_yellow is_black,cslb,not_certain
+beehive,neg,is_yellow,mcrae,not_certain
+bus,neg,is_yellow is_red,cslb mcrae,not_certain
+beetroot,neg,is_red,veale_simile,not_certain
+beet,neg,is_red,veale_simile,not_certain
+lobster,neg,is_red,cslb veale_simile,not_certain
+strawberry,neg,is_red,cslb veale_simile,not_certain
+pomegranate,neg,is_red,veale_simile,not_certain
+radish,neg,is_red,cslb veale_simile,not_certain
+poppy,neg,is_black is_red,cslb veale_simile,not_certain
+berry,neg,is_red,veale_simile,not_certain
+peony,neg,is_red,veale_simile,not_certain
+plum_pudding,neg,is_red,veale_simile,not_certain
+pepper,neg,is_red black,conceptnet veale_simile,not_certain
+raspberry,neg,is_red,cslb veale_simile,not_certain
+cherry,neg,is_red,cslb veale_simile,not_certain
+ground_cherry,neg,is_red,veale_simile,not_certain
+rooster,neg,is_red,veale_simile,not_certain
+candy_apple,neg,is_red,veale_simile,not_certain
+fire_hydrant,neg,is_red,veale_simile,not_certain
+fox,neg,is_red,cslb veale_simile,not_certain
+flame,neg,is_red,veale_simile,not_certain
+ruby,neg,red is_red,conceptnet veale_simile,not_certain
+beefsteak_tomato,neg,is_red,veale_simile,not_certain
+rose,neg,red is_red,cslb conceptnet veale_simile,not_certain
+herring,neg,is_red,cslb veale_simile,not_certain
+indian,neg,is_red,veale_simile,not_certain
+ant,neg,is_black is_red,cslb mcrae,not_certain
+brick,neg,is_red,cslb mcrae,not_certain
+carnation,neg,is_red,cslb,not_certain
+crab,neg,is_red,cslb,not_certain
+currant,neg,is_black is_red,cslb,not_certain
+geranium,neg,is_red,cslb,not_certain
+hair,neg,is_black is_red,cslb,not_certain
+heart,neg,is_red,cslb,not_certain
+jam,neg,is_red,cslb,not_certain
+ketchup,neg,is_red,cslb,not_certain
+ladybird,neg,is_black is_red,cslb,not_certain
+lips,neg,is_red,cslb,not_certain
+lipstick,neg,is_red,cslb,not_certain
+onion,neg,is_red,cslb,not_certain
+robin,neg,is_red,cslb,not_certain
+squirrel,neg,is_red,cslb,not_certain
+tongue,neg,is_red,cslb,not_certain
+wine,neg,is_red,cslb,not_certain
+ambulance,neg,is_red,mcrae,not_certain
+barn,neg,is_red,mcrae,not_certain
+beets,neg,is_red,mcrae,not_certain
+bow_(ribbon),neg,is_red,mcrae,not_certain
+blueberry,neg,blue is_blue,cslb conceptnet mcrae veale_simile,not_certain
+iceberg,neg,is_blue,veale_simile,not_certain
+lark,neg,is_blue,veale_simile,not_certain
+lagoon,neg,is_blue,veale_simile,not_certain
+pilot_light,neg,is_blue,veale_simile,not_certain
+dolphin,neg,is_blue,cslb veale_simile,not_certain
+sky,neg,blue is_blue,conceptnet veale_simile,not_certain
+jay,neg,is_blue,veale_simile,not_certain
+jeans,neg,is_black is_blue,cslb,not_certain
+whale,neg,is_blue,cslb,not_certain
+bluejay,neg,is_blue,mcrae,not_certain
+raven,neg,is_black,cslb veale_simile,not_certain
+crow,neg,is_black,veale_simile,not_certain
+coal,neg,is_black,veale_simile,not_certain
+coal_miner,neg,is_black,veale_simile,not_certain
+thundercloud,neg,is_black,veale_simile,not_certain
+sloe,neg,is_black,veale_simile,not_certain
+panther,neg,is_black,cslb veale_simile,not_certain
+cinder,neg,is_black,veale_simile,not_certain
+bat,neg,is_black,veale_simile,not_certain
+miner,neg,is_black,veale_simile,not_certain
+rook,neg,is_black,veale_simile,not_certain
+pot,neg,is_black,veale_simile,not_certain
+pit,neg,is_black,veale_simile,not_certain
+coal_mine,neg,is_black,veale_simile,not_certain
+oven,neg,is_black,veale_simile,not_certain
+nightmare,neg,is_black,veale_simile,not_certain
+blackboard,neg,is_black,veale_simile,not_certain
+crypt,neg,is_black,veale_simile,not_certain
+night,neg,is_black black,conceptnet veale_simile,not_certain
+bat_(animal),neg,is_black,cslb mcrae,not_certain
+bear,neg,is_black,cslb mcrae,not_certain
+beetle,neg,is_black,cslb mcrae,not_certain
+calf,neg,is_black,cslb,not_certain
+clarinet,neg,is_black,cslb,not_certain
+cloak,neg,is_black,cslb,not_certain
+cockroach,neg,is_black,cslb,not_certain
+coffee,neg,is_black,cslb,not_certain
+cow,neg,is_black,cslb,not_certain
+flea,neg,is_black,cslb,not_certain
+football,neg,is_black,cslb,not_certain
+gorilla,neg,is_black,cslb,not_certain
+gown,neg,is_black,cslb,not_certain
+housefly,neg,is_black,cslb,not_certain
+lantern,neg,is_black,cslb,not_certain
+limousine,neg,is_black,cslb,not_certain
+magpie,neg,is_black,cslb,not_certain
+millipede,neg,is_black,cslb,not_certain
+mussel,neg,is_black,cslb,not_certain
+newspaper,neg,is_black,cslb,not_certain
+pelican,neg,is_black,cslb,not_certain
+penguin,neg,is_black,cslb,not_certain
+piano,neg,is_black,cslb,not_certain
+prune,neg,is_black,cslb,not_certain
+raccoon,neg,is_black,cslb,not_certain
+raisin,neg,is_black,cslb,not_certain
+recorder,neg,is_black,cslb,not_certain
+rhino,neg,is_black,cslb,not_certain
+scorpion,neg,is_black,cslb,not_certain
+sheep,neg,is_black,cslb,not_certain
+skunk,neg,is_black,cslb,not_certain
+slug,neg,is_black,cslb,not_certain
+spider,neg,is_black,cslb,not_certain
+starling,neg,is_black,cslb,not_certain
+stockings,neg,is_black,cslb,not_certain
+suit,neg,is_black,cslb,not_certain
+tarantula,neg,is_black,cslb,not_certain
+tiger,neg,is_black,cslb,not_certain
+tights,neg,is_black,cslb,not_certain
+tyre,neg,is_black,cslb,not_certain
+wand,neg,is_black,cslb,not_certain
+wetsuit,neg,is_black,cslb,not_certain
+zebra,neg,is_black,cslb,not_certain
+blackbird,neg,is_black,mcrae,not_certain
+boots,neg,is_black,mcrae,not_certain
+bra,neg,is_black,mcrae,not_certain
+buzzard,neg,is_black,mcrae,not_certain
+cannon,neg,is_black,mcrae,not_certain
+cape,neg,is_black,mcrae,not_certain
+emerald,pos,green,conceptnet,not_certain
+lawn,pos,green,conceptnet,not_certain
+most_leaves,pos,green,conceptnet,not_certain
+vegetables,pos,green,conceptnet,not_certain
+color_of_grass,pos,green,conceptnet,not_certain
+eyes,pos,green blue,conceptnet,not_certain
+healthy_grass,pos,green,conceptnet,not_certain
+leafs,pos,green,conceptnet,not_certain
+lot_of_plants,pos,green,conceptnet,not_certain
+parakeets,pos,green,conceptnet,not_certain
+peppers,pos,red green,conceptnet,not_certain
+weeds,pos,green,conceptnet,not_certain
+apples,pos,red green yellow,conceptnet,not_certain
+artichokes,pos,green,conceptnet,not_certain
+baseball_field,pos,green,conceptnet,not_certain
+car,pos,red green,conceptnet,not_certain
+clover,pos,green,conceptnet,not_certain
+colour_of_lawns,pos,green,conceptnet,not_certain
+flowers,pos,red green blue yellow,conceptnet,not_certain
+fresh_vegetables,pos,green,conceptnet,not_certain
+frogs,pos,green,conceptnet,not_certain
+glass,pos,green,conceptnet,not_certain
+grapes,pos,red green,conceptnet,not_certain
+grass_broccoli_and_many_other_plants,pos,green,conceptnet,not_certain
+ink_in_pens,pos,red green blue black,conceptnet,not_certain
+insects,pos,green,conceptnet,not_certain
+jade,pos,green,conceptnet,not_certain
+limes,pos,green,conceptnet,not_certain
+many_vegetables,pos,green,conceptnet,not_certain
+most_grass,pos,green,conceptnet,not_certain
+most_plant_foliage,pos,green,conceptnet,not_certain
+onions,pos,green,conceptnet,not_certain
+pears,pos,green,conceptnet,not_certain
+raw_bananas,pos,green,conceptnet,not_certain
+salad,pos,green,conceptnet,not_certain
+soccer_field,pos,green,conceptnet,not_certain
+suguaros,pos,green,conceptnet,not_certain
+traffic_light,pos,green,conceptnet,not_certain
+unripe_banana_peels,pos,green,conceptnet,not_certain
+unripe_oranges,pos,green,conceptnet,not_certain
+varieties_of_apples,pos,green,conceptnet,not_certain
+when_unripe_bananas,pos,green,conceptnet,not_certain
+bananas,neg,yellow,conceptnet,not_certain
+apples_and_lizards,neg,yellow,conceptnet,not_certain
+banana_peels,neg,red yellow,conceptnet,not_certain
+colour_of_hay,neg,yellow,conceptnet,not_certain
+common_marker_color,neg,yellow,conceptnet,not_certain
+corncob,neg,yellow,conceptnet,not_certain
+daffodils_flowers,neg,yellow,conceptnet,not_certain
+daisies,neg,yellow,conceptnet,not_certain
+flower,neg,yellow,conceptnet,not_certain
+green,neg,yellow,conceptnet,not_certain
+highlighter_pen,neg,yellow,conceptnet,not_certain
+mustard,neg,yellow,conceptnet,not_certain
+orchids,neg,yellow,conceptnet,not_certain
+ripe_bananas,neg,yellow,conceptnet,not_certain
+schoolbuses,neg,yellow,conceptnet,not_certain
+skin_of_bananas,neg,yellow,conceptnet,not_certain
+stick_of_butter,neg,yellow,conceptnet,not_certain
+sunflowers,neg,yellow,conceptnet,not_certain
+turn_signals,neg,yellow,conceptnet,not_certain
+yolk,neg,yellow,conceptnet,not_certain
+ripe_strawberries,neg,red,conceptnet,not_certain
+cars,neg,red,conceptnet,not_certain
+hardhat,neg,red,conceptnet,not_certain
+tomatoes,neg,red,conceptnet,not_certain
+balloons,neg,red,conceptnet,not_certain
+blood_cells,neg,red,conceptnet,not_certain
+blood_oranges,neg,red,conceptnet,not_certain
+bloodstone,neg,red,conceptnet,not_certain
+blushing_face,neg,red,conceptnet,not_certain
+brake_lights,neg,red,conceptnet,not_certain
+brake_lights_on_vehicle,neg,red,conceptnet,not_certain
+clothing,neg,red,conceptnet,not_certain
+drop_of_blood,neg,red,conceptnet,not_certain
+fruit_of_watermelon,neg,red,conceptnet,not_certain
+jeeps,neg,red,conceptnet,not_certain
+lot_of_baseball_hats,neg,red,conceptnet,not_certain
+many_toolboxes,neg,red,conceptnet,not_certain
+marinara_sauce,neg,red,conceptnet,not_certain
+most_fire_engines,neg,red,conceptnet,not_certain
+most_fire_trucks,neg,red,conceptnet,not_certain
+not_all_bikes,neg,red,conceptnet,not_certain
+not_all_station_wagons,neg,red,conceptnet,not_certain
+oxygenated_blood,neg,red,conceptnet,not_certain
+pomegranates,neg,red,conceptnet,not_certain
+ripe_raspberries,neg,red,conceptnet,not_certain
+ripe_strawberry,neg,red,conceptnet,not_certain
+rubies,neg,red,conceptnet,not_certain
+spaghetti_sauce,neg,red,conceptnet,not_certain
+tomatoes_green_before,neg,red,conceptnet,not_certain
+tomatos,neg,red,conceptnet,not_certain
+wines,neg,red,conceptnet,not_certain
+yoyo,neg,red,conceptnet,not_certain
+water,neg,blue,conceptnet,not_certain
+many_other_things,neg,blue,conceptnet,not_certain
+chameleons,neg,blue,conceptnet,not_certain
+diamond,neg,blue,conceptnet,not_certain
+dress,neg,blue,conceptnet,not_certain
+eggs,neg,blue,conceptnet,not_certain
+oxygen_starved_blood,neg,blue,conceptnet,not_certain
+ring,neg,blue,conceptnet,not_certain
+robin's_eggs,neg,blue,conceptnet,not_certain
+roses_red_violets,neg,blue,conceptnet,not_certain
+sapphire,neg,blue,conceptnet,not_certain
+shy,neg,blue,conceptnet,not_certain
+umbrellas,neg,blue,conceptnet,not_certain
+violets,neg,blue,conceptnet,not_certain
+windex,neg,blue,conceptnet,not_certain
+world,neg,blue,conceptnet,not_certain
+ink,neg,black,conceptnet,not_certain
+tires,neg,black,conceptnet,not_certain
+cats,neg,black,conceptnet,not_certain
+dog,neg,black,conceptnet,not_certain
+pupil_of_human_eye,neg,black,conceptnet,not_certain
+at_night_sky,neg,black,conceptnet,not_certain
+coffe,neg,black,conceptnet,not_certain
+color_of_guinness,neg,black,conceptnet,not_certain
+color_of_night,neg,black,conceptnet,not_certain
+colour_of_vegemite,neg,black,conceptnet,not_certain
+couch,neg,black,conceptnet,not_certain
+hockey_puck,neg,black,conceptnet,not_certain
+humans,neg,black,conceptnet,not_certain
+jaguars,neg,black,conceptnet,not_certain
+leopards,neg,black,conceptnet,not_certain
+most_oboes,neg,black,conceptnet,not_certain
+outer_space,neg,black,conceptnet,not_certain
+overripe_bananas,neg,black,conceptnet,not_certain
+piece_of_coal,neg,black,conceptnet,not_certain
+rice,neg,black,conceptnet,not_certain
+sand,neg,black,conceptnet,not_certain
+tar,neg,black,conceptnet,not_certain
+truffles,neg,black,conceptnet,not_certain
+grass,pos,pos,manually_included,certain
+paint,pos,pos,manually_included,certain
+t-shirt,pos,pos,manually_included,certain
+party,pos,pos_met,manually_included,certain
+policy,pos,pos_met,manually_included,certain
+idea,pos,pos_met,manually_included,certain
+government,pos,pos_met,manually_included,certain
+agenda,pos,pos_met,manually_included,certain
+carrot,neg,neg,manually_included,certain
+argument,neg,neg_met,manually_included,certain
+problem,neg,neg_met,manually_included,certain
+discussion,neg,neg_met,manually_included,certain
+debate,neg,neg_met,manually_included,certain
+,neg,neg_met,manually_included,certain

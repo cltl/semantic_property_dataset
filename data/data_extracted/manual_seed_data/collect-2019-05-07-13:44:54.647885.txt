@@ -1,0 +1,12 @@
+trash
+children
+parcel
+stones
+stamps
+evidence
+results
+order
+data
+fortune
+debt
+rent

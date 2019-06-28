@@ -1,0 +1,11 @@
+ant
+bat_(animal)
+bear
+beetle
+blackbird
+board_(black)
+boots
+bra
+buzzard
+cannon
+cape

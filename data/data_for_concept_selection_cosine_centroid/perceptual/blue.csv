@@ -1,0 +1,463 @@
+concept,label,categories_str,sources_str,certainty,cosine_centroid
+discussion,neg,neg_met,manually_included,certain,0.06681292368051166
+newspaper,neg,is_black,cslb,not_certain,0.08917301033974291
+recorder,neg,is_black,cslb,not_certain,0.10634714948887804
+tyre,neg,is_black,cslb,not_certain,0.12721369098808305
+problem,neg,neg_met,manually_included,certain,0.12875203197019588
+football,neg,is_black,cslb,not_certain,0.1326249099181691
+crypt,neg,is_black,veale_simile,not_certain,0.14539690650353396
+bus,neg,is_yellow is_red,cslb mcrae,not_certain,0.14847961582357094
+jeeps,neg,red,conceptnet,not_certain,0.15282899257833063
+cannon,neg,is_black,mcrae,not_certain,0.16345801471016222
+leafs,neg,green,conceptnet,not_certain,0.1687954463891183
+wines,neg,red,conceptnet,not_certain,0.16915276821195788
+coal,neg,is_black,veale_simile,not_certain,0.17083408491771093
+limes,neg,green,conceptnet,not_certain,0.17286992567499174
+miner,neg,is_black,veale_simile,not_certain,0.1757787842768335
+thoughts,neg,neg_met,manually_included,certain,0.1759068532846934
+blackboard,neg,is_black,veale_simile,not_certain,0.1769899014925733
+world,pos,blue,conceptnet,not_certain,0.17733143049653777
+ambulance,neg,is_red,mcrae,not_certain,0.18126041924554764
+beet,neg,is_red,veale_simile,not_certain,0.1833306736336641
+elm,neg,is_green,cslb,not_certain,0.18358996876520028
+tank,neg,is_green,cslb,not_certain,0.1850017195976994
+brick,neg,is_red,cslb mcrae,not_certain,0.18667838566961312
+beets,neg,is_red,mcrae,not_certain,0.187624970838465
+tar,neg,black,conceptnet,not_certain,0.18939467308008667
+prune,neg,is_black,cslb,not_certain,0.190127513385555
+fir,neg,is_green,cslb,not_certain,0.19098504321564483
+clarinet,neg,is_black,cslb,not_certain,0.19573408687000363
+indian,neg,is_red,veale_simile,not_certain,0.196584996711702
+wine,neg,is_red,cslb,not_certain,0.1984603408253278
+suit,neg,is_black,cslb,not_certain,0.20218682250291523
+rook,neg,is_black,veale_simile,not_certain,0.20261481087019426
+cider,neg,is_yellow,cslb,not_certain,0.20293430176999497
+tomatoes,neg,red,conceptnet,not_certain,0.2047497966904768
+rice,neg,black,conceptnet,not_certain,0.20482326475646337
+piano,neg,is_black,cslb,not_certain,0.20683572049691096
+pyramid,neg,is_yellow,cslb,not_certain,0.20855144687061947
+tires,neg,black,conceptnet,not_certain,0.20888801361656778
+cars,neg,red,conceptnet,not_certain,0.21052496026520795
+car,neg,red green,conceptnet,not_certain,0.21142604721930897
+taxi,neg,is_yellow is_black,cslb,not_certain,0.21196368940649526
+pit,neg,is_black,veale_simile,not_certain,0.2128972783519456
+pot,neg,is_black,veale_simile,not_certain,0.21329947539746244
+cricket,neg,is_green,cslb,not_certain,0.21350916798587635
+beehive,neg,is_yellow,mcrae,not_certain,0.2143349326064582
+artichokes,neg,green,conceptnet,not_certain,0.21575924853360479
+jeep,neg,is_green,cslb,not_certain,0.21889921713978394
+barn,neg,is_red,mcrae,not_certain,0.2190431446583945
+bloodstone,neg,red,conceptnet,not_certain,0.22025009265261616
+cape,neg,is_black,mcrae,not_certain,0.2202713605871656
+leek,neg,is_green,cslb,not_certain,0.22159040466063532
+grape,neg,is_green green is_red,cslb conceptnet,not_certain,0.22270875410325952
+beer,neg,is_yellow,cslb,not_certain,0.22335018769421205
+humans,neg,black,conceptnet,not_certain,0.223888684121303
+cheese,neg,is_yellow,cslb,not_certain,0.22595166142828904
+lawn,neg,green,conceptnet,not_certain,0.22613890199820957
+limousine,neg,is_black,cslb,not_certain,0.22720583885309834
+gherkin,neg,is_green,cslb,not_certain,0.22831131781563707
+sandpaper,neg,is_yellow,cslb,not_certain,0.23063103142748825
+coffee,neg,is_black,cslb,not_certain,0.23459662888449492
+yoyo,neg,red,conceptnet,not_certain,0.23488943644566848
+truffles,neg,black,conceptnet,not_certain,0.23584202969832266
+beetroot,neg,is_red,veale_simile,not_certain,0.2363866092346985
+jam,neg,is_red,cslb,not_certain,0.24000991164691748
+heart,neg,is_red,cslb,not_certain,0.2408515172052341
+feelings,pos,pos_met,manually_included,certain,0.24086227192598522
+aubergine,neg,is_green,cslb,not_certain,0.2411376219771961
+oven,neg,is_black,veale_simile,not_certain,0.2414869381002538
+wand,neg,is_black,cslb,not_certain,0.24156714610362878
+couch,neg,black,conceptnet,not_certain,0.2415883229477589
+apples,neg,red green yellow,conceptnet,not_certain,0.2423920361760649
+moss,neg,is_green,cslb,not_certain,0.24262713196242253
+corn,neg,is_yellow,cslb,not_certain,0.2431093145313535
+cinder,neg,is_black,veale_simile,not_certain,0.24421498112711704
+calf,neg,is_black,cslb,not_certain,0.2444340781531979
+nightmare,neg,is_black,veale_simile,not_certain,0.24712863266532817
+peas,neg,is_green green,cslb conceptnet,not_certain,0.2481554219514315
+panther,neg,is_black,cslb veale_simile,not_certain,0.25049902299012416
+champagne,neg,is_yellow,cslb,not_certain,0.251218011402296
+robin,neg,is_red,cslb,not_certain,0.25161864692220204
+fox,neg,is_red,cslb veale_simile,not_certain,0.2518003798166383
+berry,neg,is_red,veale_simile,not_certain,0.25184132043987895
+grapes,neg,red green,conceptnet,not_certain,0.2520099560893318
+bra,neg,is_black,mcrae,not_certain,0.25220456196378993
+ketchup,neg,is_red,cslb,not_certain,0.252598723993903
+spinach,neg,is_green,cslb,not_certain,0.2529841153754697
+raisin,neg,is_black,cslb,not_certain,0.2550965370158381
+jaguars,neg,black,conceptnet,not_certain,0.25520999371166553
+tongue,neg,is_red,cslb,not_certain,0.25576035593720775
+sycamore,neg,is_green,cslb,not_certain,0.2563170480487741
+pomegranates,neg,red,conceptnet,not_certain,0.2566088127822622
+butter,neg,is_yellow yellow,cslb conceptnet,not_certain,0.2584575584536783
+pears,neg,green,conceptnet,not_certain,0.25849405297349054
+bear,neg,is_black,cslb mcrae,not_certain,0.25980881421935614
+locust,neg,is_yellow,cslb,not_certain,0.2599243491511518
+celery,neg,is_green,cslb,not_certain,0.2603262118267746
+rose,neg,red is_red,cslb conceptnet veale_simile,not_certain,0.2604378961569938
+avocado,neg,is_green,cslb mcrae,not_certain,0.260689777125875
+rhubarb,neg,is_green is_red,cslb,not_certain,0.26156491598044174
+weeds,neg,green,conceptnet,not_certain,0.26257097232835175
+broccoli,neg,is_green green,cslb conceptnet mcrae,not_certain,0.26286842372980007
+corncob,neg,yellow,conceptnet,not_certain,0.2630628284131505
+beans,neg,is_green is_yellow,mcrae,not_certain,0.2633040121676455
+apple,neg,red is_green is_yellow green is_red,cslb conceptnet mcrae veale_simile,not_certain,0.2638107841990496
+jay,pos,is_blue,veale_simile,not_certain,0.26381714258687644
+mustard,neg,yellow,conceptnet,not_certain,0.2647300171898297
+ring,pos,blue,conceptnet,not_certain,0.2648543921840265
+sheep,neg,is_black,cslb,not_certain,0.26500866667832124
+flea,neg,is_black,cslb,not_certain,0.2679368700129601
+daffodil,neg,is_yellow,cslb veale_simile,not_certain,0.26826341859633157
+bean,neg,is_green,cslb,not_certain,0.2691906399923617
+sunbeam,neg,is_yellow,veale_simile,not_certain,0.27144795399801946
+night,neg,is_black black,conceptnet veale_simile,not_certain,0.27170928290148594
+shy,pos,blue,conceptnet,not_certain,0.27222441538833336
+lime,neg,is_green,cslb,not_certain,0.2725083656554743
+caterpillar,neg,is_green,cslb,not_certain,0.2730281194080841
+onion,neg,is_red,cslb,not_certain,0.27305274080742903
+sun,neg,is_yellow,veale_simile,not_certain,0.27394616508098507
+vegetables,neg,green,conceptnet,not_certain,0.2743134650781002
+sunflowers,neg,yellow,conceptnet,not_certain,0.27472413839957094
+hose,neg,is_green,cslb,not_certain,0.2764571830474518
+sloe,neg,is_black,veale_simile,not_certain,0.2770338765518376
+millipede,neg,is_black,cslb,not_certain,0.27760789141366016
+water,pos,blue,conceptnet,not_certain,0.2777544492336635
+cockroach,neg,is_black,cslb,not_certain,0.27800425735362655
+lion,neg,is_yellow,cslb,not_certain,0.2789862896957817
+ink,neg,black,conceptnet,not_certain,0.2794735722458159
+onions,neg,green,conceptnet,not_certain,0.27996754548911307
+nectarine,neg,is_yellow is_red,cslb,not_certain,0.28008969563301145
+asparagus,neg,is_green,cslb mcrae,not_certain,0.2806013900729792
+grapefruit,neg,is_yellow is_red,cslb,not_certain,0.2811593383434626
+leopards,neg,black,conceptnet,not_certain,0.2819949731564228
+peppers,neg,red green,conceptnet,not_certain,0.2827720172454784
+eucalyptus,neg,is_green,cslb,not_certain,0.285675827349226
+artichoke,neg,is_green,cslb,not_certain,0.2863290997774941
+salad,neg,green,conceptnet,not_certain,0.28633191570883915
+carnation,neg,is_red,cslb,not_certain,0.2873676093960917
+housefly,neg,is_black,cslb,not_certain,0.28763808645353695
+currant,neg,is_black is_red,cslb,not_certain,0.2877195411491502
+daisies,neg,yellow,conceptnet,not_certain,0.28942368548799385
+sunflower,neg,is_yellow,cslb veale_simile,not_certain,0.2901346856784915
+cabbage,neg,is_green is_red,cslb mcrae,not_certain,0.2907068965290437
+parsley,neg,is_green,cslb,not_certain,0.29076952638651454
+hornet,neg,is_yellow is_black,cslb,not_certain,0.2913408561170649
+peony,neg,is_red,veale_simile,not_certain,0.2926195632717172
+balloons,neg,red,conceptnet,not_certain,0.29262821842916525
+lantern,neg,is_black,cslb,not_certain,0.29347462607087943
+pepper,neg,is_red black,conceptnet veale_simile,not_certain,0.2941154102161937
+daisy,neg,is_yellow is_yellow,cslb manually_included,certain,0.2943720243810441
+pansy,neg,is_yellow,cslb,not_certain,0.29492226016865436
+pomegranate,neg,is_red,veale_simile,not_certain,0.29598152256237126
+herring,neg,is_red,cslb veale_simile,not_certain,0.29695144378085764
+radish,neg,is_red,cslb veale_simile,not_certain,0.29762758845689524
+bee,neg,is_yellow is_black,cslb,not_certain,0.298839525961388
+saffron,neg,is_yellow,veale_simile,not_certain,0.30027014307721467
+mango,neg,is_green is_yellow,cslb,not_certain,0.30032661065295346
+green,neg,yellow,conceptnet,not_certain,0.3003388686355407
+clothing,neg,red,conceptnet,not_certain,0.30135227554560445
+slug,neg,is_black,cslb,not_certain,0.3017083169361715
+wetsuit,neg,is_black,cslb,not_certain,0.30204042690904415
+geranium,neg,is_red,cslb,not_certain,0.3022615394181429
+rooster,neg,is_red,veale_simile,not_certain,0.302434259430988
+parka,neg,is_green,cslb,not_certain,0.30381384068060296
+thundercloud,neg,is_black,veale_simile,not_certain,0.30476193816009967
+raspberry,neg,is_red,cslb veale_simile,not_certain,0.3047802735810796
+watermelon,neg,is_green is_red,cslb,not_certain,0.30499075510907636
+tiger,neg,is_black,cslb,not_certain,0.3054217792747177
+sand,neg,black,conceptnet,not_certain,0.3060050056205833
+crow,neg,is_black,veale_simile,not_certain,0.3070363673436962
+lettuce,neg,is_green,cslb,not_certain,0.30715578813723843
+cloak,neg,is_black,cslb,not_certain,0.307156377499993
+pear,neg,is_green,cslb,not_certain,0.3072121839635706
+ant,neg,is_black is_red,cslb mcrae,not_certain,0.3080568702137802
+bat,neg,is_black,veale_simile,not_certain,0.3082900370245267
+apricot,neg,is_yellow,cslb,not_certain,0.30831628979271003
+glass,neg,green,conceptnet,not_certain,0.308417212250042
+wasp,neg,is_yellow is_black,cslb,not_certain,0.3086198107260299
+pine,neg,is_green,cslb,not_certain,0.3095968632770994
+stockings,neg,is_black,cslb,not_certain,0.30960060221377184
+starling,neg,is_black,cslb,not_certain,0.3099474304353513
+yolk,neg,yellow,conceptnet,not_certain,0.3127180820639617
+cherry,neg,is_red,cslb veale_simile,not_certain,0.3128057227899928
+grasshopper,neg,is_green,cslb,not_certain,0.3136953216629229
+poppy,neg,is_black is_red,cslb veale_simile,not_certain,0.31370069574770354
+ladybird,neg,is_black is_red,cslb,not_certain,0.31424474716709866
+tomato,neg,is_green is_red,cslb veale_simile,not_certain,0.31434081803630554
+strawberry,neg,is_red is_red,cslb veale_simile manually_included,certain,0.31456929975113423
+bananas,neg,yellow,conceptnet,not_certain,0.3151343008531954
+banana,neg,is_green is_yellow yellow,cslb conceptnet mcrae veale_simile,not_certain,0.31620454728364433
+canary,neg,is_yellow,cslb mcrae,not_certain,0.3172772276251411
+scorpion,neg,is_black,cslb,not_certain,0.3177420726726901
+cheetah,neg,is_yellow,cslb,not_certain,0.31784462931137897
+rhino,neg,is_black,cslb,not_certain,0.31815030305892106
+plum,neg,is_yellow,cslb,not_certain,0.3184504114216679
+rubies,neg,red,conceptnet,not_certain,0.31894933639748113
+cow,neg,is_black,cslb,not_certain,0.3208682325547488
+buzzard,neg,is_black,mcrae,not_certain,0.3214109498610571
+pond,neg,neg,manually_included,certain,0.3217471646605585
+giraffe,neg,is_yellow,cslb,not_certain,0.32245361430337993
+leopard,neg,is_yellow is_black,cslb,not_certain,0.32303294546713
+olive,neg,is_green is_black,cslb,not_certain,0.3233459114095342
+willow,neg,is_green,cslb,not_certain,0.3240283978650452
+ruby,neg,red is_red,conceptnet veale_simile,not_certain,0.3271869789075879
+mussel,neg,is_black,cslb,not_certain,0.3274000261912968
+jelly,neg,is_green is_red,cslb,not_certain,0.32793660085723964
+marigold,neg,is_yellow,cslb,not_certain,0.32945861202468696
+spider,neg,is_black,cslb,not_certain,0.3308224273601286
+gown,neg,is_black,cslb,not_certain,0.33131257110409945
+pineapple,neg,is_green is_yellow,cslb,not_certain,0.3317474125438052
+lipstick,neg,is_red,cslb,not_certain,0.33314660420722547
+jade,neg,green,conceptnet,not_certain,0.33354257632856393
+iguana,neg,is_green,cslb,not_certain,0.3343590114900605
+bottle,neg,is_green,mcrae,not_certain,0.33524129071344183
+beetle,neg,is_black,cslb mcrae,not_certain,0.33540706858571595
+tights,neg,is_black,cslb,not_certain,0.3355134271251626
+boots,neg,is_black,mcrae,not_certain,0.3356622636907067
+lobster,neg,is_red,cslb veale_simile,not_certain,0.3362841363117009
+melon,neg,is_green is_yellow,cslb,not_certain,0.3363878448349333
+diamond,pos,blue,conceptnet,not_certain,0.336824064150788
+seaweed,neg,is_green,cslb,not_certain,0.337844602751238
+clover,neg,green,conceptnet,not_certain,0.33847410155910407
+peach,neg,is_yellow,cslb,not_certain,0.3387204635786534
+gorilla,neg,is_black,cslb,not_certain,0.3412598574180498
+paint,pos,pos,manually_included,certain,0.3436588972513229
+cats,neg,black,conceptnet,not_certain,0.34408797840451816
+buttercup,neg,is_yellow,cslb veale_simile,not_certain,0.3452364817916608
+jeans,pos,is_black is_blue,cslb,not_certain,0.34583778724052844
+cucumber,neg,is_green,cslb,not_certain,0.34645875013844374
+blueberry,pos,blue is_blue blue is_blue,cslb conceptnet mcrae veale_simile manually_included,certain,0.3465085959315181
+dandelion,neg,is_yellow is_yellow,cslb veale_simile manually_included,certain,0.34772830605693955
+blackbird,neg,is_black,mcrae,not_certain,0.34793999458438474
+fern,neg,is_green,cslb,not_certain,0.34797367681858254
+dog,neg,black,conceptnet,not_certain,0.3489211955332598
+insects,neg,green,conceptnet,not_certain,0.3492291941414458
+skunk,neg,is_black,cslb,not_certain,0.3499765165140693
+toad,neg,is_green,cslb,not_certain,0.35195944853419037
+zebra,neg,is_black,cslb,not_certain,0.35264002542781486
+emerald,neg,green,conceptnet,not_certain,0.3527188881734269
+dress,pos,blue,conceptnet,not_certain,0.3551833816066303
+flame,neg,is_red,veale_simile,not_certain,0.35584316580151587
+tarantula,neg,is_black,cslb,not_certain,0.35625130892967144
+orchids,neg,yellow,conceptnet,not_certain,0.35694731369071697
+hair,neg,is_black is_red,cslb,not_certain,0.36102510957820944
+tortoise,neg,is_green,cslb,not_certain,0.3643731811260036
+penguin,neg,is_black,cslb,not_certain,0.3647852428681754
+raven,neg,is_black,cslb veale_simile,not_certain,0.3670476035869072
+eye,pos,is_green is_blue,cslb,not_certain,0.36726906735206977
+lips,neg,is_red,cslb,not_certain,0.36869179199305524
+bellflower,pos,pos,manually_included,certain,0.37294150606102094
+pelican,neg,is_black,cslb,not_certain,0.3732187880858235
+bluejay,pos,is_blue,mcrae,not_certain,0.37450039355669035
+umbrellas,pos,blue,conceptnet,not_certain,0.37563987657134384
+crab,neg,is_red,cslb,not_certain,0.37569254507717725
+raccoon,neg,is_black,cslb,not_certain,0.37785925108950713
+lagoon,pos,is_blue,veale_simile,not_certain,0.3792139711421564
+iceberg,pos,is_blue,veale_simile,not_certain,0.3798709313999495
+parakeets,neg,green,conceptnet,not_certain,0.3812092124338157
+lizard,neg,is_green,cslb,not_certain,0.38157988981548235
+alligator,neg,is_green,cslb mcrae,not_certain,0.3840560897788418
+magpie,neg,is_black,cslb,not_certain,0.38421942924021324
+crocodile,neg,is_green,cslb,not_certain,0.3862597561121519
+lemon,neg,is_yellow,cslb veale_simile,not_certain,0.39249291417302307
+dogbane,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39316388862049845
+chameleon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39321710368802787
+pitohui,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3932379813321786
+shark,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39325483622337537
+cottongrass,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3933841906638168
+bowerbirds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39339986203042154
+catsharks,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39351222051168394
+fish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3935976238520734
+piletocera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3936385353031526
+filefish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39398411246901177
+chickadees,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3940024564893502
+egretta,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3944479740657294
+miconia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3946897993165843
+thrush,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39472483904067757
+astroblepus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39494370515370025
+wagtails,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3950779258224214
+squirrel,neg,is_red,cslb,not_certain,0.3952118834655823
+broadbill,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3952351148409532
+chaetodon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3953010945085058
+pilocrocis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3953594411526819
+lorikeet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39542614380058194
+lygropia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39551947741067284
+platanthera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39552021355240596
+frog,neg,is_green green,cslb conceptnet,not_certain,0.39570111076314146
+flowerpecker,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3957431737714268
+scabious,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39601331798883266
+scorpionfish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39609346584066984
+pipefish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3963131231578156
+ceroplesis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39645270800558696
+bilineata,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39646214249593664
+obsoletus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39650944725606685
+peacocks,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3967133649200583
+rosellas,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39677111103971396
+lycodon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39697467763704264
+meliphagidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39729513012762324
+snailfish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3973160405942829
+eulemur,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3973236739721666
+jaguarundi,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3973889624841531
+monkey,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3978056449124735
+uppersides,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3978937852094844
+meadowsweet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3979484302522693
+littoraria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39847735900487746
+adoxophyes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3985049522247941
+goldfish,neg,is_yellow,cslb,not_certain,0.3985346457177259
+anhinga,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3986993751162204
+aythya,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39888100779168667
+flower,neg,yellow,conceptnet,not_certain,0.3988925895599173
+fringillidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3989098190678921
+parrotfish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.39916713977450935
+turtles,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3993788922496243
+parrot,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3996666672370563
+cardamine,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3996818215068444
+fairywrens,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3998304111116668
+limoniidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.3999398158967703
+thornbill,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4000406296705519
+moulted,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40008624606106435
+acanthurus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4001021427447853
+hindfeet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40023377665739723
+undulatus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40035480661935
+xanthidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40040768337701627
+mergansers,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4004825927572489
+forktail,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40054368232207643
+luzula,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40059975807434955
+frogfish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4007186034888297
+paridae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4009089630709206
+kingbird,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40103090420116627
+neolamprologus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40127622210437436
+areolate,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4013951978620062
+yellowthroat,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40147841424084874
+crabs,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4018119959788363
+atrata,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40195555910488645
+blossoms,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4020092786513676
+frogs,neg,green,conceptnet,not_certain,0.40202027746743757
+acianthera,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40214747612243806
+miniata,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40215560070526324
+lark,pos,is_blue,veale_simile,not_certain,0.40219539345516564
+rosefinch,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40244717275018665
+plumaged,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4024823875752909
+barringtonia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40248961515049964
+trichilia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4025067789986152
+astropecten,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.402772379882122
+dolphin,pos,is_blue,cslb veale_simile,not_certain,0.40285825595069286
+budgie,pos,is_green is_yellow is_blue,cslb mcrae,not_certain,0.4030119220638347
+dunnart,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.403150689705844
+coucal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40349589834404276
+transtillaspis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4036777317347702
+myobatrachidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4037739908946349
+cotinga,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4039089888753265
+spathes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4040975003872688
+mannikin,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4041388420991412
+cryptantha,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.404420967161506
+peacock,pos,is_green is_blue,cslb,not_certain,0.4044385469773429
+sky,pos,blue is_blue blue is_blue,conceptnet veale_simile manually_included,certain,0.4047203544325301
+avocets,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4047277694212612
+crossbills,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40486442797638306
+aglossa,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4056651021113209
+pycnonotidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.405895453914629
+quail,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4059276729699693
+goniobranchus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40620544611441056
+pycnarmon,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40633012721627004
+chelipeds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40639842702002554
+cercocarpus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4070556870775076
+sinocyclocheilus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4071917249960489
+bushbaby,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4073249193853642
+immatures,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.407358677902951
+lored,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4080270146269446
+puffbird,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4082027397780478
+phostria,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4083314550667964
+snakes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40834739036573675
+nuthatches,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40843634973019255
+nemophora,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40851156781163955
+featherless,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4087221155320127
+boiga,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40878545983155334
+buthidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40883090853200793
+eggs,pos,blue,conceptnet,not_certain,0.4092435338946335
+lizards,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.40934320837031285
+apalis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4094158013314245
+charadrius,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41036382677386085
+blue,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41062341804282176
+dichocrocis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4108371154444676
+tropicbirds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4109131619204535
+whale,pos,is_blue,cslb,not_certain,0.41151518261470144
+teal,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41157483041792686
+latirus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4119066088895606
+trogons,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4120371916576402
+grackles,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.412882790240934
+turaco,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4131794658928874
+gularis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4132900396801048
+sapsucker,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.413876203552965
+lanternfish,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4144336901164566
+plumage,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4145418989554139
+parapoynx,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41478873916020187
+turtle,neg,is_green,cslb,not_certain,0.4148703535446478
+hypselodoris,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4149356344067037
+bluebird,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41497374988574376
+snake,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4153509734482238
+cochylimorpha,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41589338217130073
+pseudagrion,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41612701247578754
+violet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41618402103319907
+stanhopea,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4168745578477331
+wattlebird,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41730977967736094
+uppertail,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.417455456678129
+eyes,pos,green blue,conceptnet,not_certain,0.41758638351167404
+nocturnally,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41774822089639446
+pratincole,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41793640822766176
+boophis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41815095464089636
+parrotbill,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.41847796592437236
+pink,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4188659257362174
+endoxyla,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4199323423001311
+psittaculidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4214056539339022
+brahminy,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42176893130291804
+propebela,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42180760386337207
+zosterops,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4220123573010479
+beak,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4221938509645231
+seedpods,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4223326221247161
+mentzelia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4223363512839085
+hypena,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42239868292051364
+orthetrum,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42242260257261594
+treecreepers,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42328378134112665
+calycina,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42361250097047953
+hydrelia,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4241976819124822
+violaceous,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42442012622048286
+feather,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4244379439312272
+gorgonians,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42591571594844324
+waterlily,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42703052552067555
+flamingoes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42725866600520657
+bluespotted,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42738780669579957
+grosbeaks,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42808265234073195
+chameleons,pos,blue,conceptnet,not_certain,0.4291549641787538
+frogmouth,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42959809426559914
+trapania,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.42974728272918994
+pleuronectidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.43051534850695394
+sparganothis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4308748033783254
+pelecanus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.430925291631857
+violets,pos,blue,conceptnet,not_certain,0.43118686086398744
+orthotylus,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4323431859806449
+scaup,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4333419961662955
+passerellidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4335109236715929
+tropicbird,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4335299266064529
+cuckooshrike,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4349086986331127
+currawongs,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.43547557379056484
+flowers,pos,red green blue yellow,conceptnet,not_certain,0.43562422188175437
+toucanet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4368782767926941
+sisurcana,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.43772789283185654
+kingfisher,pos,is_green is_blue,cslb veale_simile,not_certain,0.43985177766075073
+bird,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44110390857636617
+aracari,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4418182229361014
+dogwoods,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44534796132952287
+sapphire,pos,blue,conceptnet,not_certain,0.4456951852569123
+coenagrionidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44633395840339163
+trombidium,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44814201512835095
+lorikeets,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.44934118424254144
+pandemis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4502904065217769
+minivet,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45108654786156344
+evergestis,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4515686994600562
+birds,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4516606287893096
+nectariniidae,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4537626072279047
+blepharomastix,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.45627492501204786
+pipefishes,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4572747049882563
+feathers,neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.459064445386676

@@ -1,0 +1,403 @@
+"concept"	"label"	"categories_str"	"sources_str"	"certainty"	"cosine_centroid"	"selection"
+"discussion"	"neg"	"neg_met"	"manually_included"	"certain"	0.0427884901	3
+"key"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.0526020279	3
+"most"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.0708157201	3
+"emperor"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.0867896848	1
+"report"	"pos"	"pos_met"	"manually_included"	"certain"	0.089240727	2
+"emotion"	"neg"	"neg_met"	"manually_included"	"certain"	0.0960061224	
+"mast"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1026305822	
+"story"	"pos"	"pos_met"	"manually_included"	"certain"	0.1100437698	
+"bartlett"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1105490507	
+"date"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1154049146	
+"cole"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.116407141	
+"edda"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.118661298	
+"marang"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1200953684	
+"samara"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1244635844	
+"pip"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1275253009	
+"cos"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1300860861	
+"pulse"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1335052233	
+"kail"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.134890945	
+"jak"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1410275302	
+"brazil"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1425176554	
+"murphy"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1442935475	
+"feeling"	"neg"	"neg_met"	"manually_included"	"certain"	0.1449400419	
+"capitulum"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1473332113	
+"saskatoon"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1479209196	
+"dahl"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1502326545	
+"windfall"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1528338032	
+"mangold"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1558760203	
+"pyrene"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1577794917	
+"chou"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1600248946	
+"anjou"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1622151282	
+"chile"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1633916213	
+"cling"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1717562951	
+"spike"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1718295882	
+"hip"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1737903715	
+"savoy"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1755017166	
+"rumor"	"pos"	"pos_met"	"manually_included"	"certain"	0.1758102856	
+"bosc"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1768968433	
+"flageolet"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1838497502	
+"sultana"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1841470738	
+"blackheart"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1937502999	
+"snap"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1948567973	
+"ear"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1963570237	
+"spud"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.1974162132	
+"barleycorn"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1976446368	
+"pyxis"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.1980923351	
+"bacca"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2010353217	
+"swede"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2032109667	
+"jack"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2041669711	
+"buckeye"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2065236018	
+"romaine"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2093413202	
+"kernel"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2107146412	
+"freestone"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2134545643	
+"goober"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2169891229	
+"iceberg"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2197664466	
+"julienne"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2209696229	
+"marrow"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2215030129	
+"greens"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2217392418	
+"chilly"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2226295929	
+"filbert"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2267635631	
+"clementine"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2284109945	
+"ham"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.2332669681	
+"leek"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2338521621	
+"muscat"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2383176118	
+"tabasco"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2429297995	
+"green"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.246777988	
+"pod"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2470966934	
+"veg"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2475510967	
+"conker"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2478112493	
+"cayenne"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2504080218	
+"chard"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2588352761	
+"grain"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.26998792	
+"cob"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2702169073	
+"kale"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2716360402	
+"chips"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.2736890909	
+"morello"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2741388343	
+"cocoanut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2863272098	
+"acorn"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.2900101699	
+"sandwich"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.293321906	
+"sardine"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.2972948476	
+"chinquapin"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3003753704	
+"sprout"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3025065566	
+"citron"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3026737543	
+"gherkin"	"pos/neg"	"vegetable is_food"	"cslb wn_hypernym"	"not_certain"	0.3052743764	
+"squash"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3053780694	
+"scallop"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3072438008	
+"mussel"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3098196753	
+"seed"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3103599079	
+"cress"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3108478837	
+"mandarin"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3109311876	
+"chipotle"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3125086557	
+"wintergreen"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3126296912	
+"pome"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.314440408	
+"satsuma"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.3145773682	
+"sorrel"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3154120877	
+"tamarindo"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3159812263	
+"pea"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.3162517833	
+"yam"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3171046046	
+"kiwi"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3183613108	
+"bacon"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3193005738	
+"dewberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3197273381	
+"huckleberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3218379063	
+"cottonseed"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3229936948	
+"parsnip"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3234100869	
+"nutlet"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3245120511	
+"ananas"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3254876584	
+"calabash"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3338963954	
+"linseed"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.333958998	
+"doughnut"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3359440684	
+"crabapple"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3386712381	
+"hackberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3419616545	
+"legume"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.3433877864	
+"chestnut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3437733089	
+"wines"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.3451160469	
+"watercress"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3463657425	
+"oyster"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.346734971	
+"amaranth"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3480616491	
+"soya"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3498982068	
+"rye"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3509068828	
+"oilseed"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3530506476	
+"burger"	"pos"	"pos"	"manually_included"	"certain"	0.3532751361	
+"tater"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3563357961	
+"gumbo"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3570657831	
+"damson"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3595553965	
+"donuts"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.3619458484	
+"achene"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3619775004	
+"cumin"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3627152043	
+"fries"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3636358605	
+"rutabaga"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3647232306	
+"rapeseed"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3659145498	
+"durian"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3659901231	
+"granadilla"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3661882905	
+"medlar"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3666507802	
+"veggie"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3666710056	
+"biscuit"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3670532535	
+"fig"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3682178327	
+"flaxseed"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3710752224	
+"sloe"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3731032364	
+"bilberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3758629679	
+"gourd"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3793175921	
+"taro"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3823453994	
+"prune"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3837662767	
+"groundnut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3843162219	
+"butternut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.385400964	
+"aubergine"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.386970044	
+"cookies"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.3888636225	
+"lobster"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.389216188	
+"honeydew"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3893474994	
+"yoghurt"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3915165214	
+"quince"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.3916577873	
+"bread"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.3921914375	
+"scallion"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3926333715	
+"turnip"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.3958507371	
+"lentil"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.3976877506	
+"cauliflower"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4001695529	
+"broccoli"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4020995668	
+"elderberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.402600731	
+"crab"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.4028937706	
+"zucchini"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4032209776	
+"beetroot"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4033607043	
+"soy"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.4056467381	
+"fennel"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4060052869	
+"artichoke"	"pos/neg"	"vegetable is_food"	"cslb wn_hypernym"	"not_certain"	0.4079648097	
+"drupe"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4088734934	
+"pie"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.4089197582	
+"olive"	"pos/neg"	"fruit is_food"	"cslb wn_hypernym"	"not_certain"	0.4103454169	
+"raisin"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4117759231	
+"gooseberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4121337681	
+"breadfruit"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4121734294	
+"rice"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.412246611	
+"cake"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.4132733217	
+"blackberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4148763156	
+"jujube"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4150399287	
+"walnut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4154688084	
+"desserts"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.4162347251	
+"truffle"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4177055267	
+"steak"	"pos"	"pos"	"manually_included"	"certain"	0.4202633036	
+"chicory"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4204026804	
+"rambutan"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4216683433	
+"soup"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.4222334001	
+"cakes"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.4223397008	
+"persimmon"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4249676668	
+"berry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.425779122	
+"cashew"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4271614022	
+"plantain"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4275438395	
+"shallot"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4281000059	
+"meat"	"pos"	"pos"	"manually_included"	"certain"	0.4283057301	
+"orange"	"pos"	"fruit sweet is_juicy"	"cslb wn_hypernym conceptnet"	"not_certain"	0.4294695413	
+"tamarind"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4301522795	
+"chickpea"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.4309391642	
+"cowpea"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.4321994683	
+"chilli"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4344460208	
+"pomelo"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4347494308	
+"coffee"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4350720221	
+"mushroom"	"pos/neg"	"vegetable is_food"	"cslb wn_hypernym"	"not_certain"	0.4352354265	
+"serviceberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4358959628	
+"nut"	"pos/neg"	"fruit is_food"	"cslb wn_hypernym"	"not_certain"	0.437956453	
+"pimento"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4398878645	
+"hazelnut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4399385126	
+"mulberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4410523355	
+"pomegranate"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4448407813	
+"rhubarb"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4452351651	
+"corn"	"pos/neg"	"fruit is_food"	"cslb wn_hypernym"	"not_certain"	0.4474646873	
+"cashews"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4476671121	
+"paratha"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4477195728	
+"cerasus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4477439531	
+"pepperoni"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4478003852	
+"savagnin"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.448306157	
+"mustard"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4489032015	
+"pigweed"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4490322615	
+"caramel"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4494046435	
+"kumquat"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4494136488	
+"cocoa"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.449570317	
+"chicken"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4496422533	
+"soapberry"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4504683863	
+"spicy"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4507644039	
+"candy"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4510149296	
+"anthracnose"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4511296309	
+"mayonnaise"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.4511304297	
+"soybean"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.4511494038	
+"dried"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4511689373	
+"juices"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.45120892	
+"balsamic"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4513159712	
+"tangerine"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.4513450097	
+"salads"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4516626157	
+"calycina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.451681905	
+"tomatoes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4517264668	
+"marinades"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.452207114	
+"chili"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4523536076	
+"shrimp"	"pos"	"is_food is_juicy is_food is_juicy"	"cslb cslb_crowd_pos manually_included"	"certain"	0.4532777984	
+"bulgur"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4538683464	
+"blueberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4540842867	
+"cereal"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4541937428	
+"spinach"	"pos/neg"	"vegetable is_food"	"cslb wn_hypernym"	"not_certain"	0.4546793539	
+"ageratina"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4555288883	
+"pears"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4563747763	
+"blackberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4568356878	
+"quesadillas"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4580341541	
+"colocasia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.458424738	
+"flavor"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4585186059	
+"lychee"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.458702122	
+"jackfruit"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4593197785	
+"rhagoletis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4593258605	
+"actinidia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.45932715	
+"papayas"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4596984169	
+"sauteed"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4604426623	
+"shallots"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4608767096	
+"arachis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4613035496	
+"achiote"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4616585603	
+"yogurt"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4618218063	
+"lemongrass"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4621793499	
+"buttercream"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4622012391	
+"litchi"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4622017125	
+"aligot"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4622936181	
+"ginger"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4623569912	
+"cucurbita"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4627284389	
+"loquat"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4630634283	
+"okra"	"pos/neg"	"vegetable fruit"	"wn_hypernym"	"not_certain"	0.4630926839	
+"cheese"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.4635345324	
+"carrot"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4641065274	
+"pecans"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.464176027	
+"sugarcane"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4644541522	
+"pineapples"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4648288287	
+"chhena"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4652689137	
+"carob"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4653536484	
+"fenugreek"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4657113812	
+"guavas"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4660518037	
+"maraschino"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4661423605	
+"jelly"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.46659705	
+"currants"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4666210087	
+"edible"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4667984414	
+"oregano"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4669272855	
+"cultivars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4677209246	
+"maize"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.467766097	
+"cranberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4678173063	
+"cultivar"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4681043825	
+"kiwifruit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4681763267	
+"pork"	"neg"	"sweet"	"conceptnet"	"not_certain"	0.4683174161	
+"shiso"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.469321854	
+"bagoong"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4702106138	
+"persimmons"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.470607154	
+"galangal"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4711503428	
+"gooseberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4712788352	
+"sorbet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4713466499	
+"cilantro"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4714918593	
+"pudding"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4715223728	
+"pistachio"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4716166742	
+"caramelized"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4726026658	
+"pepper"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.47271439	
+"prunus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4733641313	
+"coconuts"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4738801888	
+"sweetened"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4742183893	
+"horchata"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4751395866	
+"cinnamon"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4753573642	
+"raisins"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4757042676	
+"cassava"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4771718093	
+"beet"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4776346425	
+"hazelnuts"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4783425185	
+"avocados"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.478649979	
+"trichilia"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4797341582	
+"custard"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4798078131	
+"radish"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4799254539	
+"mangoes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4809307308	
+"vegetable"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4809468092	
+"bean"	"pos/neg"	"vegetable fruit is_food"	"cslb wn_hypernym"	"not_certain"	0.4810759009	
+"peanuts"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4833389689	
+"salad"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4842338601	
+"honey"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4843478664	
+"flavors"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4846240516	
+"sativum"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4855322256	
+"chocolate"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.4856241332	
+"mesocarp"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4861047346	
+"pawpaw"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4861699029	
+"lemons"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4881901987	
+"blackcurrant"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4883178108	
+"beets"	"pos"	"is_juicy"	"mcrae"	"not_certain"	0.4888545837	
+"currant"	"pos"	"fruit is_food is_juicy"	"cslb wn_hypernym cslb_crowd_pos"	"certain"	0.4889992192	
+"pecan"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4893770821	
+"flavored"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4901599757	
+"papaya"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4907786909	
+"mangosteen"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4910960987	
+"eggplant"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4913300061	
+"onions"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4915225103	
+"cucurbits"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4929563209	
+"dessert"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4942387191	
+"cabbage"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4944442228	
+"leucaena"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4961462107	
+"melons"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4962078751	
+"candied"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.497131601	
+"chutneys"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4972381363	
+"raspberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4982440695	
+"apricot"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.4984766289	
+"onion"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.4995872077	
+"sugar"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5012332546	
+"apricots"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5015360716	
+"cream"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5031886117	
+"allspice"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5044523249	
+"jalapeos"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5052992826	
+"lime"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5053787769	
+"carrots"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5083872434	
+"sauce"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5088694747	
+"almond"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5092638928	
+"nectarine"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5092738893	
+"shiitake"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5097898201	
+"butter"	"pos/neg"	"is_food"	"cslb"	"not_certain"	0.5098875467	
+"asparagus"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.5102894104	
+"sweet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5112070093	
+"chives"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5117827474	
+"puree"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5121645886	
+"bananas"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5122141059	
+"vanilla"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5132156829	
+"lettuce"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.5165372767	
+"gochujang"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5171301117	
+"lingonberry"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5175330564	
+"mamey"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5188695603	
+"celery"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.5196203371	
+"plums"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5197685005	
+"walnuts"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5197978516	
+"sapodilla"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5203017279	
+"almonds"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5223453191	
+"guava"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5237860875	
+"cherries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5266622985	
+"cantaloupe"	"pos"	"fruit is_juicy"	"wn_hypernym mcrae"	"not_certain"	0.5304718519	
+"avocado"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5318050733	
+"garlic"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.533519623	
+"beans"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.53415292	
+"oranges"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.534945015	
+"syrup"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5350128673	
+"berries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5358619375	
+"passionfruit"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5376892197	
+"pumpkin"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.5384848311	
+"peaches"	"pos"	"juicy"	"conceptnet"	"not_certain"	0.5390737297	
+"apples"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5392335318	
+"peanut"	"pos/neg"	"fruit is_food"	"cslb wn_hypernym"	"not_certain"	0.5408165782	
+"raspberry"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5410013926	
+"cucumber"	"pos/neg"	"vegetable"	"wn_hypernym"	"not_certain"	0.5420592149	
+"grapes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5420942928	
+"pear"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5427407479	
+"plum"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.543526812	
+"melon"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5437267765	
+"vegetables"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5460318387	
+"apple"	"pos"	"fruit is_juicy"	"cslb wn_hypernym mcrae"	"not_certain"	0.5485109044	
+"strawberries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5486012374	
+"blueberry"	"pos"	"fruit is_juicy"	"cslb wn_hypernym mcrae"	"not_certain"	0.5498693715	
+"fruits"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5518069518	
+"cherry"	"pos"	"fruit is_juicy"	"wn_hypernym cslb_crowd_pos"	"certain"	0.5537652038	
+"coconut"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.555888479	
+"soursop"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5587769547	
+"banana"	"pos/neg"	"fruit fruit"	"wn_hypernym manually_included"	"certain"	0.562403232	
+"grape"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5626791354	
+"juice"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5644241024	
+"mango"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5648833219	
+"potatoes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5694608733	
+"grapefruit"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5815567118	
+"peach"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5835500538	
+"potato"	"pos/neg"	"vegetable is_food vegetable is_food"	"cslb wn_hypernym manually_included"	"certain"	0.5850681752	
+"watermelon"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.5868160558	
+"pineapple"	"pos"	"fruit is_juicy fruit is_juicy"	"cslb wn_hypernym manually_included"	"certain"	0.5965977265	
+"citrus"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.5991788263	
+"fruit"	"pos/neg"	"fruit"	"wn_hypernym"	"not_certain"	0.604079136	
+"lemon"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.6062876828	
+"strawberry"	"pos"	"fruit is_juicy"	"cslb wn_hypernym"	"not_certain"	0.6141464523	
+"tomato"	"pos"	"vegetable is_juicy"	"cslb wn_hypernym"	"not_certain"	0.6615352898	

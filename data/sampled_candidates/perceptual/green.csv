@@ -1,0 +1,212 @@
+label,categories_str,sources_str,certainty,cosine_centroid,manual_coarse_grained,space_selection,qumcrae_label,word,lemma,wiki_frequency,word_in_wn?,word_noun_in_wn?,word_noun_spacy?,n_navigli_clusters,n_onto_senses_n_v,n_wn_senses,min_wn_sim_wup,av_sim_wup,polysemy_type,mipvu,wn_abs_conc,filter,conc,fam,aoa
+neg,neg,manually_included,certain,0.5120306155,-,True,-,carrot,carrot,2821,True,True,True,2,0,4,0.09523809523809523,0.1915065441381231,poly,non-met,abs-conc,True,622,539,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.540178079,-,True,-,carrots,carrot,2038,True,True,True,2,0,4,0.09523809523809523,0.1915065441381231,poly,non-met,abs-conc,True,,,
+neg,neg_met,manually_included,certain,0.1001899127,-,True,-,problem,problem,137495,True,True,True,2,3,3,0.2857142857142857,0.2857142857142857,poly,non-met,abs,True,360,596,367
+neg,is_yellow is_yellow,cslb manually_included,certain,0.2765863915,-,True,-,daisy,daisy,11859,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,613,519,
+neg,yellow,conceptnet,not_certain,0.3267981257,-,True,-,daisies,daisy,1115,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,,,
+neg,neg_met,manually_included,certain,0.0722887829,2,True,-,argument,argument,43743,True,True,True,3,7,7,0.23529411764705882,0.34703095813224083,poly,met non-met,abs,True,,,
+neg,blue,conceptnet,not_certain,0.0949710885,-,True,-,world,world,1622378,True,True,True,4,8,9,0.1,0.29886228936427967,poly,met non-met,abs-conc-n,True,532,607,
+neg,is_red,cslb veale_simile,not_certain,0.3040258684,-,True,-,herring,herring,7294,True,True,True,1,0,2,0.19047619047619047,0.19047619047619047,poly,,conc,True,617,425,397
+neg,is_black,cslb,not_certain,0.1425272624,-,True,-,tyre,tyre,7024,True,True,True,1,0,2,0.35294117647058826,0.35294117647058826,poly,non-met,conc-n,True,,,
+neg,is_black,cslb,not_certain,0.3106990715,-,True,-,spider,spider,37564,True,True,True,1,0,3,0.08695652173913043,0.17184265010351965,poly,met,abs-conc,True,607,526,
+neg,is_yellow is_red,cslb,not_certain,0.4456894883,-,True,-,grapefruit,grapefruit,1273,True,True,True,1,0,2,0.3076923076923077,0.3076923076923077,mon,,conc,True,,,
+neg,is_black,cslb,not_certain,0.1298966174,-,True,-,recorder,recorder,11384,True,True,True,3,0,4,0.36363636363636365,0.5185383308953103,poly,non-met,conc,True,,,
+neg,black,conceptnet,not_certain,0.2283573176,-,True,-,leopards,leopard,3688,True,True,True,1,0,2,0.16,0.16,mon,,abs-conc,True,,,
+neg,is_yellow is_black,cslb,not_certain,0.303543124,-,True,-,leopard,leopard,8893,True,True,True,1,0,2,0.16,0.16,mon,,abs-conc,True,595,431,
+neg,is_yellow,cslb,not_certain,0.4979570025,-,True,-,corn,corn,25435,True,True,True,3,0,9,0.08695652173913043,0.21758200397562114,homonyms_also_same_pos,non-met,abs-conc,True,576,548,
+neg,red,conceptnet,not_certain,0.188099031,-,True,-,bloodstone,bloodstone,523,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg,is_black is_red,cslb,not_certain,0.4288951776,-,True,-,currant,currant,542,True,True,True,2,0,3,0.3333333333333333,0.4670531400966183,poly,non-met,conc,True,,,
+neg,is_red,veale_simile,not_certain,0.2533564973,-,True,-,flame,flame,16929,True,True,True,2,4,4,0.14285714285714285,0.1865079365079365,homonyms_only_different_pos,non-met,conc,True,582,551,261
+neg,is_black,cslb,not_certain,0.3407359586,-,True,-,housefly,housefly,135,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,is_black,cslb,not_certain,0.1234388365,-,True,-,newspaper,newspaper,157687,True,True,True,1,5,4,0.1,0.24847494553376906,poly,non-met,abs-conc,True,576,641,292
+neg,is_yellow,cslb,not_certain,0.1911513429,-,True,-,pyramid,pyramid,17132,True,True,True,2,0,7,0.125,0.1925645342312009,poly,met,abs-n,True,615,386,397
+neg,blue,conceptnet,not_certain,0.2110172615,-,True,-,diamond,diamond,49117,True,True,True,3,0,6,0.1,0.27171310629514966,poly,,abs-conc,True,610,512,339
+neg,is_black,veale_simile,not_certain,0.1219082832,-,True,-,crypt,crypt,7106,True,True,True,0,0,1,0.8181818181818182,0.8181818181818182,mon,,conc,True,573,320,539
+neg,is_black,veale_simile,not_certain,0.3083150299,-,True,-,oven,oven,5535,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,593,577,236
+neg,is_red,veale_simile,not_certain,0.3333491876,-,True,-,berry,berry,20292,True,True,True,1,0,4,0.3333333333333333,0.5127674258109041,poly,non-met,conc-n,True,573,470,289
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5584955078,-,True,-,berries,berry,5586,True,True,True,1,0,4,0.3333333333333333,0.5127674258109041,poly,non-met,conc-n,True,,,
+neg,is_black,cslb,not_certain,0.2314960299,-,True,-,calf,calf,5828,True,True,True,2,0,4,0.2,0.31666666666666665,homonyms_also_same_pos,,abs-conc,True,592,511,
+neg,is_red,cslb,not_certain,0.2522053105,-,True,-,tongue,tongue,22392,True,True,True,5,0,10,0.10526315789473684,0.22733389494625744,poly,non-met,abs-conc,True,634,531,
+pos,red green,conceptnet,not_certain,0.4955341055,-,True,-,peppers,pepper,7195,True,True,True,2,0,6,0.2,0.30151515151515146,homonyms_only_different_pos,,conc,True,,,
+neg,is_red black,conceptnet veale_simile,not_certain,0.5038756948,-,True,-,pepper,pepper,14198,True,True,True,2,0,6,0.2,0.30151515151515146,homonyms_only_different_pos,,conc,True,591,554,269
+neg,is_black black,conceptnet veale_simile,not_certain,0.1452007643,-,True,-,night,night,326741,True,True,True,2,7,8,0.2222222222222222,0.4300797358570468,poly,non-met,abs-n,True,496,636,222
+neg,is_yellow,cslb,not_certain,0.2584168758,-,True,-,champagne,champagne,9305,True,True,True,1,0,2,0.2222222222222222,0.2222222222222222,mon,non-met,abs-n,True,,,
+neg,is_red,cslb,not_certain,0.4765027469,-,True,-,crab,crab,8586,True,True,True,3,0,11,0.09090909090909091,0.30423533066778,homonyms_also_same_pos,,abs-conc-n,True,626,433,292
+neg,is_yellow,veale_simile,not_certain,0.1792592596,-,True,-,sun,sun,141986,True,True,True,3,0,7,0.09523809523809523,0.27746996725324896,homonyms_only_different_pos,met non-met,abs-conc-n,True,617,635,181
+neg,blue is_blue,cslb conceptnet mcrae veale_simile,not_certain,0.4485429353,-,True,neg-is_blue-all,blueberry,blueberry,2067,True,True,True,1,0,2,0.34782608695652173,0.34782608695652173,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4940835258,-,True,-,blueberries,blueberry,714,True,True,True,1,0,2,0.34782608695652173,0.34782608695652173,mon,,conc,True,,,
+neg,black,conceptnet,not_certain,0.3016235213,-,True,-,sand,sand,51782,True,True,True,2,0,4,0.125,0.20462962962962963,homonyms_only_different_pos,non-met,abs-n,True,616,519,217
+neg,is_red,cslb,not_certain,0.4338816921,-,True,-,ketchup,ketchup,1311,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,,,
+neg,is_black,veale_simile,not_certain,0.2074868103,-,True,-,nightmare,nightmare,9318,True,True,True,2,0,2,0.2222222222222222,0.2222222222222222,poly,met non-met,abs,True,,,
+neg,is_yellow,cslb,not_certain,0.3869458172,-,True,-,cider,cider,3871,True,True,True,0,0,1,1.0,1.0,poly,non-met,abs,True,626,507,431
+neg,blue,conceptnet,not_certain,0.2762607109,-,True,-,water,water,586090,True,True,True,6,12,10,0.18181818181818182,0.349777490025168,homonyms_only_different_pos,non-met,abs-conc,True,616,641,153
+neg,is_yellow,cslb veale_simile,not_certain,0.3563803504,-,True,-,buttercup,buttercup,903,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,is_black,cslb,not_certain,0.2062734107,-,True,-,limousine,limousine,2816,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,624,505,
+neg,is_yellow is_black,cslb,not_certain,0.2705178721,-,True,-,wasp,wasp,7822,True,True,True,1,0,2,0.5714285714285714,0.5714285714285714,mon,,conc,True,,,
+neg,is_red,cslb veale_simile,not_certain,0.5105055057,-,True,-,strawberry,strawberry,7232,True,True,True,2,0,3,0.1111111111111111,0.19746484452366805,poly,,abs-conc,True,610,539,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5259625406,-,True,-,strawberries,strawberry,1991,True,True,True,2,0,3,0.1111111111111111,0.19746484452366805,poly,,abs-conc,True,,,
+neg,is_black,cslb veale_simile,not_certain,0.2130395329,-,True,-,raven,raven,11726,True,True,True,1,0,5,0.2222222222222222,0.2943121693121693,poly,,conc,True,,,
+neg,black,conceptnet,not_certain,0.2532785527,-,True,-,ink,ink,15096,True,True,True,2,5,5,0.16666666666666666,0.2708333333333333,mon,,abs,True,608,542,
+neg,is_black,mcrae,not_certain,0.2710318818,-,True,neg-is_black-some,boots,boot,14607,True,True,True,5,20,9,0.08695652173913043,0.24106151907214085,homonyms_also_same_pos,met non-met,abs-conc,True,,,
+neg,is_black,cslb,not_certain,0.1977894701,-,True,-,piano,piano,93430,True,True,True,1,0,4,0.11764705882352941,0.11764705882352941,homonyms_only_different_pos,non-met,abs-conc,True,615,545,253
+neg,black,conceptnet,not_certain,0.2168598219,-,True,-,jaguars,jaguar,7180,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,is_yellow,cslb,not_certain,0.4638923693,-,True,-,cheese,cheese,21839,True,True,True,2,0,4,0.2222222222222222,0.2361111111111111,poly,non-met,conc,True,624,588,211
+neg,is_red,cslb,not_certain,0.3758708105,-,True,-,squirrel,squirrel,7491,True,True,True,1,0,2,0.17391304347826086,0.17391304347826086,mon,non-met,abs-conc,True,612,511,
+neg,black,conceptnet,not_certain,0.4300085411,-,True,-,rice,rice,65319,True,True,True,1,0,5,0.19047619047619047,0.37265512265512263,poly,non-met,conc-n,True,608,548,
+neg,is_red,cslb veale_simile,not_certain,0.1856382762,-,True,-,fox,fox,107080,True,True,True,3,3,10,0.09090909090909091,0.33062199099527473,homonyms_only_different_pos,,abs-conc-n,True,605,501,283
+neg,is_blue,veale_simile,not_certain,0.2382553774,-,True,-,iceberg,iceberg,2181,True,True,True,1,0,2,0.25,0.25,mon,,conc,True,,406,
+neg,blue,conceptnet,not_certain,0.2146033597,-,True,-,dress,dress,39768,True,True,True,6,12,21,0.16666666666666666,0.2528561796212629,homonyms_only_different_pos,non-met,conc,True,595,588,222
+neg,black,conceptnet,not_certain,0.3271990537,-,True,-,dog,dog,80291,True,True,True,3,3,8,0.2222222222222222,0.4336931263733563,homonyms_only_different_pos,met non-met,conc,True,610,598,169
+neg,is_red,mcrae,not_certain,0.4294546996,-,True,neg-is_red-some,beets,beet,1374,True,True,True,1,0,2,0.2,0.2,poly,,conc,True,,,
+neg,is_red,veale_simile,not_certain,0.4447442424,-,True,-,beet,beet,2546,True,True,True,1,0,2,0.2,0.2,poly,,conc,True,645,497,
+neg,is_black,cslb,not_certain,0.2499667534,-,True,-,stockings,stocking,3531,True,True,True,1,0,9,0.1111111111111111,0.44884559884559877,poly,non-met,abs-conc,True,,,
+neg,is_yellow is_red,cslb,not_certain,0.4374269211,-,True,-,nectarine,nectarine,101,True,True,True,1,0,2,0.3333333333333333,0.3333333333333333,mon,,conc,True,,,
+neg,is_black,veale_simile,not_certain,0.1858814741,-,True,-,pit,pit,36018,True,True,True,7,4,14,0.1111111111111111,0.40857118709552787,homonyms_also_same_pos,non-met,abs-conc,True,593,493,314
+neg,black,conceptnet,not_certain,0.2011548456,-,True,-,humans,human,86390,True,True,True,1,0,4,None,,homonyms_only_different_pos,non-met,conc,True,,,
+neg,is_black,cslb,not_certain,0.325656952,-,True,-,slug,slug,4695,True,True,True,3,0,10,0.09090909090909091,0.22749114934980205,homonyms_also_same_pos,met,abs-conc,True,,,
+neg,is_red,cslb veale_simile,not_certain,0.4043727566,-,True,-,cherry,cherry,22512,True,True,True,3,0,5,0.09090909090909091,0.22159798262739439,homonyms_only_different_pos,,abs-conc,True,611,514,317
+neg,is_red,veale_simile,not_certain,0.342303751,-,True,-,peony,peony,650,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg,is_red,cslb,not_certain,0.1613708676,-,True,-,robin,robin,49512,True,True,True,1,0,2,0.9285714285714286,0.9285714285714286,poly,non-met,conc,True,637,487,233
+neg,is_red,cslb veale_simile,not_certain,0.4852581616,-,True,-,radish,radish,799,True,True,True,1,0,5,0.19047619047619047,0.47947895100069016,poly,,conc,True,,456,
+pos,pos,manually_included,certain,0.4457689337,-,True,-,grass,grass,40930,True,True,True,4,6,11,0.14285714285714285,0.26761290962219764,homonyms_only_different_pos,met non-met,conc-n,True,599,587,
+neg,red,conceptnet,not_certain,0.4526883801,-,True,-,tomatoes,tomato,17974,True,True,True,2,0,2,0.21052631578947367,0.21052631578947367,poly,non-met,conc,True,,,
+pos,is_green is_red is_green is_red,cslb veale_simile manually_included,certain,0.6305145457,,True,-,tomato,tomato,5831,True,True,True,2,0,2,0.21052631578947367,0.21052631578947367,poly,non-met,conc,True,662,574,
+pos,pos,manually_included,certain,0.2608090862,-,True,-,paint,paint,37795,True,True,True,4,13,7,0.2222222222222222,0.30886243386243384,homonyms_only_different_pos,met non-met,abs-conc,True,577,551,
+pos,pos_met,manually_included,certain,0.1387833489,-,True,-,party,party,754417,True,True,True,3,5,6,0.16666666666666666,0.3495504495504495,poly,non-met,abs-conc,True,496,619,
+pos,is_green is_green,cslb manually_included,certain,0.5322615087,-,True,-,spinach,spinach,1607,True,True,True,1,0,2,0.2,0.2,mon,,conc,True,589,452,
+pos,pos_met,manually_included,certain,0.0770269687,2,True,-,policy,policy,208435,True,True,True,2,4,3,0.21052631578947367,0.28460038986354774,homonyms_also_same_pos,non-met,abs,True,,,
+pos,pos_met,manually_included,certain,0.1158634973,-,True,-,agenda,agenda,18493,True,True,True,1,0,2,0.25,0.25,mon,met non-met,abs,True,,,
+pos,pos_met,manually_included,certain,0.1339387978,-,True,-,idea,idea,159752,True,True,True,3,7,5,0.23529411764705882,0.45187800761330177,poly,non-met,abs,True,259,585,
+pos,is_green green is_green green,cslb conceptnet mcrae manually_included,certain,0.4477994299,-,True,pos-is_green-all,broccoli,broccoli,1397,True,True,True,1,0,2,0.2,0.2,mon,,conc,True,,,
+pos,is_green,cslb,not_certain,0.5480272974,-,True,-,celery,celery,1209,True,True,True,1,0,2,0.2222222222222222,0.2222222222222222,poly,,conc,True,,,
+neg,red,conceptnet,not_certain,0.2136435811,-,True,-,jeeps,jeep,1452,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,is_green,cslb,not_certain,0.2382971627,-,True,-,jeep,jeep,5546,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,622,564,
+pos,green,conceptnet,not_certain,0.3942545344,-,True,-,parakeets,parakeet,466,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,is_green,cslb,not_certain,0.4711915925,-,True,-,seaweed,seaweed,2510,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,593,478,
+pos,green,conceptnet,not_certain,0.3721734378,-,True,-,limes,lime,1536,True,True,True,5,0,8,0.17391304347826086,0.3775651808939852,homonyms_also_same_pos,,abs-conc,True,,,
+pos,is_green,cslb,not_certain,0.465881676,-,True,-,lime,lime,13357,True,True,True,5,0,8,0.17391304347826086,0.3775651808939852,homonyms_also_same_pos,,abs-conc,True,590,447,378
+pos,is_green is_red,cslb,not_certain,0.5180056826,-,True,-,watermelon,watermelon,1702,True,True,True,2,0,2,0.3333333333333333,0.3333333333333333,mon,,conc,True,,,
+pos,is_green is_black,cslb,not_certain,0.4573077122,-,True,-,olive,olive,22573,True,True,True,3,0,6,0.09090909090909091,0.27728835457628026,poly,non-met,abs-conc,True,618,444,458
+pos,red green,conceptnet,not_certain,0.4955341055,-,True,-,peppers,pepper,7195,True,True,True,2,0,6,0.2,0.30151515151515146,homonyms_only_different_pos,,conc,True,,,
+neg,is_red black,conceptnet veale_simile,not_certain,0.5038756948,-,True,-,pepper,pepper,14198,True,True,True,2,0,6,0.2,0.30151515151515146,homonyms_only_different_pos,,conc,True,591,554,269
+pos,green,conceptnet,not_certain,0.4143760302,-,True,-,weeds,weed,4116,True,True,True,1,0,4,0.23529411764705882,0.31862745098039214,homonyms_only_different_pos,met,conc,True,,,
+pos,is_green,cslb,not_certain,0.3177726197,-,True,-,fir,fir,7722,True,True,True,1,0,2,0.19047619047619047,0.19047619047619047,poly,,abs-conc,True,442,407,
+pos,is_green green,cslb conceptnet,not_certain,0.4245341768,-,True,-,frog,frog,22515,True,True,True,3,0,4,0.42105263157894735,0.4625199362041467,poly,,conc,True,619,507,258
+pos,green,conceptnet,not_certain,0.4275847676,-,True,-,frogs,frog,11118,True,True,True,3,0,4,0.42105263157894735,0.4625199362041467,poly,,conc,True,,,
+pos,is_green,mcrae,not_certain,0.3545534637,-,True,pos-is_green-some,bottle,bottle,18995,True,True,True,3,3,5,0.13333333333333333,0.34444444444444444,homonyms_only_different_pos,non-met,abs-conc,True,591,591,
+pos,is_green,cslb,not_certain,0.3992608177,-,True,-,tortoise,tortoise,3936,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,602,415,
+pos,is_green,cslb,not_certain,0.2275484409,-,True,-,hose,hose,4659,True,True,True,2,0,4,0.5263157894736842,0.6175438596491228,homonyms_also_same_pos,,conc,True,596,449,314
+pos,green,conceptnet,not_certain,0.2581529915,-,True,-,jade,jade,10914,True,True,True,3,0,7,0.08,0.19662931839402428,homonyms_also_same_pos,,abs-conc,True,570,359,572
+pos,green,conceptnet,not_certain,0.5007055642,-,True,-,salad,salad,4621,True,True,True,0,0,1,1.0,1.0,poly,non-met,conc,True,595,554,342
+pos,red is_green is_yellow green is_red,cslb conceptnet mcrae veale_simile,not_certain,0.4465067227,-,True,pos-is_red-some,apple,apple,48472,True,True,True,1,0,2,0.32,0.32,poly,non-met,conc,True,620,598,211
+pos,red green yellow,conceptnet,not_certain,0.4734870046,-,True,-,apples,apple,11956,True,True,True,1,0,2,0.32,0.32,poly,non-met,conc,True,,,
+pos,is_green,cslb,not_certain,0.3453194601,-,True,-,elm,elm,10141,True,True,True,1,0,2,0.21052631578947367,0.21052631578947367,poly,,abs-conc,True,579,456,367
+pos,is_green is_blue,cslb,not_certain,0.205966172,-,True,-,eye,eye,95221,True,True,True,3,5,6,0.11764705882352941,0.21308823529411763,homonyms_only_different_pos,met non-met,abs-conc,True,634,611,167
+pos,green blue,conceptnet,not_certain,0.2433849421,-,True,-,eyes,eye,78628,True,True,True,3,5,6,0.11764705882352941,0.21308823529411763,homonyms_only_different_pos,met non-met,abs-conc,True,,,
+pos,is_green is_yellow,cslb,not_certain,0.4937926394,-,True,-,melon,melon,2295,True,True,True,1,0,2,0.36363636363636365,0.36363636363636365,poly,,conc,True,,441,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4964170598,-,True,-,melons,melon,871,True,True,True,1,0,2,0.36363636363636365,0.36363636363636365,poly,,conc,True,,,
+pos,is_green,cslb mcrae,not_certain,0.5450718037,-,True,pos-is_green-all,asparagus,asparagus,1431,True,True,True,1,0,2,0.2222222222222222,0.2222222222222222,mon,,conc,True,608,534,
+pos,is_green,cslb,not_certain,0.3766636682,-,True,-,sycamore,sycamore,3138,True,True,True,2,0,4,0.19047619047619047,0.517316842831717,poly,non-met,abs-conc,True,606,369,381
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.537977539,-,True,-,vegetable,vegetable,11793,True,True,True,1,0,2,0.23529411764705882,0.23529411764705882,homonyms_only_different_pos,non-met,conc,True,602,591,269
+pos,green,conceptnet,not_certain,0.6141313196,-,True,-,vegetables,vegetable,17635,True,True,True,1,0,2,0.23529411764705882,0.23529411764705882,homonyms_only_different_pos,non-met,conc,True,,,
+pos,is_green,cslb,not_certain,0.4870426899,-,True,-,eucalyptus,eucalyptus,5075,True,True,True,1,0,2,0.2,0.2,poly,,abs-conc,True,,,
+pos,is_green,cslb,not_certain,0.3993184147,-,True,-,toad,toad,6412,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,568,516,
+pos,is_green,cslb,not_certain,0.3513857496,-,True,-,crocodile,crocodile,6355,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,583,456,
+pos,is_green green is_red,cslb conceptnet,not_certain,0.4958399583,-,True,-,grape,grape,14592,True,True,True,1,0,3,0.34782608695652173,0.3641382771817554,poly,,conc,True,611,532,297
+pos,red green,conceptnet,not_certain,0.5197376991,-,True,-,grapes,grape,11643,True,True,True,1,0,3,0.34782608695652173,0.3641382771817554,poly,,conc,True,,,
+pos,is_green,cslb,not_certain,0.3685672119,-,True,-,iguana,iguana,1811,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,is_green,cslb mcrae,not_certain,0.5231585391,-,True,pos-is_green-all,avocado,avocado,1305,True,True,True,2,0,3,0.3333333333333333,0.3333333333333333,mon,,conc,True,,,
+pos,green,conceptnet,not_certain,0.4679789965,-,True,-,pears,pear,2484,True,True,True,2,0,2,0.3333333333333333,0.3333333333333333,mon,non-met,conc,True,,,
+pos,is_green,cslb,not_certain,0.5112287047,-,True,-,pear,pear,4366,True,True,True,2,0,2,0.3333333333333333,0.3333333333333333,mon,non-met,conc,True,634,567,
+pos,green,conceptnet,not_certain,0.4305455534,-,True,-,insects,insect,27961,True,True,True,1,0,2,0.6,0.6,poly,,conc,True,,,
+pos,is_green,cslb,not_certain,0.4538526934,-,True,-,aubergine,aubergine,218,True,True,True,2,0,2,0.21052631578947367,0.21052631578947367,mon,non-met,conc,True,,,
+pos,is_green,cslb,not_certain,0.2764868152,-,True,-,moss,moss,19891,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,575,436,
+pos,is_green is_red,cslb mcrae,not_certain,0.6024656623,-,True,pos-is_green-most,cabbage,cabbage,4316,True,True,True,1,0,4,0.10526315789473684,0.14097007223942207,poly,,abs-conc,True,611,504,
+pos,is_green,cslb,not_certain,0.2377107902,-,True,-,parka,parka,1051,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+pos,is_green,cslb,not_certain,0.4285499253,-,True,-,turtle,turtle,14449,True,True,True,0,0,4,0.2,0.27391304347826084,poly,,conc,True,644,509,
+pos,is_green,cslb,not_certain,0.2091408512,-,True,-,cricket,cricket,121039,True,True,True,2,0,3,0.08695652173913043,0.08695652173913043,homonyms_also_same_pos,non-met,abs-conc,True,,,
+pos,green,conceptnet,not_certain,0.2827455948,-,True,-,glass,glass,102855,True,True,True,5,7,12,0.09523809523809523,0.28231416339163223,poly,non-met,abs-conc,True,635,611,
+pos,is_green is_yellow is_blue,cslb mcrae,not_certain,0.2694399728,-,True,pos-is_blue-some,budgie,budgie,511,True,True,True,0,0,1,1.0,1.0,,non-met,conc,True,,,
+pos,is_green is_blue,cslb veale_simile,not_certain,0.269450222,-,True,-,kingfisher,kingfisher,3016,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,,,
+pos,is_green,cslb,not_certain,0.3719981192,-,True,-,caterpillar,caterpillar,4255,True,True,True,1,0,2,0.4,0.4,mon,,conc,True,586,457,
+pos,is_green,cslb,not_certain,0.4567570116,-,True,-,fern,fern,6639,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+pos,green,conceptnet,not_certain,0.2184482368,-,True,-,leafs,leafs,8730,True,True,True,0,0,6,0.25,0.28571428571428575,,,abs-conc,True,,,
+pos,is_green is_yellow,cslb,not_certain,0.5559247773,-,True,-,pineapple,pineapple,3462,True,True,True,2,0,2,0.38095238095238093,0.38095238095238093,poly,,conc,True,653,489,
+pos,is_green is_red,cslb,not_certain,0.4727957917,-,True,-,rhubarb,rhubarb,903,True,True,True,1,0,2,0.2222222222222222,0.2222222222222222,poly,,conc,True,,,
+pos,is_green,cslb,not_certain,0.3653248512,-,True,-,willow,willow,13007,True,True,True,1,0,2,0.38095238095238093,0.38095238095238093,poly,non-met,conc,True,589,425,386
+pos,green,conceptnet,not_certain,0.300510503,-,True,-,lawn,lawn,14438,True,True,True,0,4,1,1.0,1.0,homonyms_also_same_pos,non-met,conc,True,588,534,
+pos,is_green is_yellow,cslb,not_certain,0.4938428293,-,True,-,mango,mango,5074,True,True,True,2,0,2,0.3333333333333333,0.3333333333333333,poly,,conc,True,,,
+neg,yellow,conceptnet,not_certain,0.5149887264,-,True,-,bananas,banana,5137,True,True,True,2,0,2,0.38095238095238093,0.38095238095238093,mon,,conc,True,,,
+pos,is_green is_yellow yellow,cslb conceptnet mcrae veale_simile,not_certain,0.5438479145,-,True,pos-is_yellow-all,banana,banana,10769,True,True,True,2,0,2,0.38095238095238093,0.38095238095238093,mon,,conc,True,633,576,
+pos,is_green,cslb,not_certain,0.5775597233,-,True,-,lettuce,lettuce,2192,True,True,True,1,0,3,0.1111111111111111,0.14074074074074075,poly,,abs-conc,True,579,565,
+pos,green,conceptnet,not_certain,0.2891297963,-,True,-,emerald,emerald,8164,True,True,True,2,0,3,0.10526315789473684,0.18323586744639375,homonyms_only_different_pos,,abs-conc,True,613,457,
+pos,is_green,cslb,not_certain,0.2010878009,-,True,-,tank,tank,77579,True,True,True,6,9,8,0.11764705882352941,0.3673233715029381,poly,non-met,abs-conc,True,581,511,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5175012294,-,True,-,pumpkin,pumpkin,3575,True,True,True,2,0,2,0.21052631578947367,0.21052631578947367,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5671748381,-,True,-,potato,potato,11670,True,True,True,1,0,2,0.2222222222222222,0.2222222222222222,poly,non-met,conc,True,629,612,233
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5863819086,-,True,-,potatoes,potato,9650,True,True,True,1,0,2,0.2222222222222222,0.2222222222222222,poly,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5281700481,-,True,-,ageratina,ageratina,105,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5015621526,-,True,-,shrubs,shrub,8952,True,True,True,0,0,1,1.0,1.0,mon,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4950855313,-,True,-,shrimp,shrimp,7445,True,True,True,1,0,4,0.21052631578947367,0.3632157316367843,poly,,conc,True,629,546,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4952151615,-,True,-,plantains,plantain,659,True,True,True,2,0,3,0.21052631578947367,0.429963798384851,homonyms_also_same_pos,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4970703856,-,True,-,plantain,plantain,1273,True,True,True,2,0,3,0.21052631578947367,0.429963798384851,homonyms_also_same_pos,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5131341311,-,True,-,dogbane,dogbane,195,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5036608041,-,True,-,maize,maize,8434,True,True,True,1,0,2,0.09090909090909091,0.09090909090909091,mon,,abs-conc,True,453,334,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4937520555,-,True,-,hibbertia,hibbertia,150,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5016766654,-,True,-,huckleberries,huckleberry,103,True,True,True,2,0,3,0.3333333333333333,0.5169082125603864,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5190694209,-,True,-,chicken,chicken,23318,True,True,True,2,0,5,0.1,0.22879759129759134,homonyms_only_different_pos,non-met,abs-conc,True,614,544,250
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.509878824,-,True,-,pignut,pignut,121,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.537977539,-,True,-,vegetable,vegetable,11793,True,True,True,1,0,2,0.23529411764705882,0.23529411764705882,homonyms_only_different_pos,non-met,conc,True,602,591,269
+pos,green,conceptnet,not_certain,0.6141313196,-,True,-,vegetables,vegetable,17635,True,True,True,1,0,2,0.23529411764705882,0.23529411764705882,homonyms_only_different_pos,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.513526275,-,True,-,actinidia,actinidia,110,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5179397358,-,True,-,dogwoods,dogwood,124,True,True,True,1,0,2,0.2,0.2,mon,,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5001847218,-,True,-,fenugreek,fenugreek,230,True,True,True,1,0,2,0.21052631578947367,0.21052631578947367,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4947103277,-,True,-,sauce,sauce,11296,True,True,True,1,3,4,0.3333333333333333,0.3333333333333333,homonyms_only_different_pos,non-met,conc,True,576,522,258
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.503178555,-,True,-,gaultheria,gaultheria,137,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.507863159,-,True,-,umbellifers,umbellifer,101,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5498004222,-,True,-,fruits,fruit,23163,True,True,True,2,3,5,0.1111111111111111,0.25816993464052285,homonyms_only_different_pos,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5820906376,-,True,-,fruit,fruit,59986,True,True,True,2,3,5,0.1111111111111111,0.25816993464052285,homonyms_only_different_pos,non-met,abs-conc,True,612,590,219
+neg,blue is_blue,cslb conceptnet mcrae veale_simile,not_certain,0.4485429353,-,True,neg-is_blue-all,blueberry,blueberry,2067,True,True,True,1,0,2,0.34782608695652173,0.34782608695652173,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4940835258,-,True,-,blueberries,blueberry,714,True,True,True,1,0,2,0.34782608695652173,0.34782608695652173,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.532359969,-,True,-,walnuts,walnut,1085,True,True,True,2,0,3,0.19047619047619047,0.22954822954822954,poly,,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5621172415,-,True,-,garlic,garlic,5186,True,True,True,1,0,2,0.19047619047619047,0.19047619047619047,mon,non-met,conc,True,636,509,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4971694942,-,True,-,chutneys,chutney,153,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5243803561,-,True,-,cilantro,cilantro,309,True,True,True,1,0,2,0.2,0.2,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5148671629,-,True,-,lavandula,lavandula,118,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4926615536,-,True,-,sterculia,sterculia,154,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5035370605,-,True,-,herbs,herb,7745,True,True,True,2,0,2,0.2222222222222222,0.2222222222222222,mon,non-met,conc,True,,,
+neg,is_red,veale_simile,not_certain,0.3333491876,-,True,-,berry,berry,20292,True,True,True,1,0,4,0.3333333333333333,0.5127674258109041,poly,non-met,conc-n,True,573,470,289
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5584955078,-,True,-,berries,berry,5586,True,True,True,1,0,4,0.3333333333333333,0.5127674258109041,poly,non-met,conc-n,True,,,
+neg,is_red,cslb veale_simile,not_certain,0.5105055057,-,True,-,strawberry,strawberry,7232,True,True,True,2,0,3,0.1111111111111111,0.19746484452366805,poly,,abs-conc,True,610,539,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5259625406,-,True,-,strawberries,strawberry,1991,True,True,True,2,0,3,0.1111111111111111,0.19746484452366805,poly,,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5313429764,-,True,-,cucurbits,cucurbit,122,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5003034779,-,True,-,vinaigrette,vinaigrette,113,True,True,True,0,0,1,1.0,1.0,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5069873699,-,True,-,lolium,lolium,117,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4992727334,-,True,-,shallot,shallot,209,True,True,True,2,0,3,0.18181818181818182,0.2467235281880591,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5074682686,-,True,-,shallots,shallot,295,True,True,True,2,0,3,0.18181818181818182,0.2467235281880591,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5453465195,-,True,-,coconut,coconut,10927,True,True,True,2,0,3,0.21052631578947367,0.2509161793372319,poly,,conc,True,,,
+neg,neg,manually_included,certain,0.5120306155,-,True,-,carrot,carrot,2821,True,True,True,2,0,4,0.09523809523809523,0.1915065441381231,poly,non-met,abs-conc,True,622,539,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.540178079,-,True,-,carrots,carrot,2038,True,True,True,2,0,4,0.09523809523809523,0.1915065441381231,poly,non-met,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4927605938,-,True,-,plumeria,plumeria,148,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5046555485,-,True,-,lewisia,lewisia,101,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5095272435,-,True,-,mangifera,mangifera,235,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.547710019,-,True,-,chives,chive,293,True,True,True,0,0,1,1.0,1.0,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5124761116,-,True,-,cucumbers,cucumber,1267,True,True,True,2,0,2,0.2,0.2,poly,,conc,True,,,
+pos,is_green,cslb,not_certain,0.5889690094,-,True,-,cucumber,cucumber,2071,True,True,True,2,0,2,0.2,0.2,poly,,conc,True,653,536,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5123950596,-,True,-,bulgur,bulgur,116,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5101439547,-,True,-,palaquium,palaquium,149,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5056871487,-,True,-,oregano,oregano,427,True,True,True,1,0,2,0.19047619047619047,0.19047619047619047,mon,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5143760801,-,True,-,pecans,pecan,275,True,True,True,1,0,3,0.19047619047619047,0.22954822954822954,poly,,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5326800394,-,True,-,galangal,galangal,164,True,True,True,1,0,2,0.6956521739130435,0.6956521739130435,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.511607011,-,True,-,eggplant,eggplant,940,True,True,True,1,0,2,0.21052631578947367,0.21052631578947367,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5046489367,-,True,-,cassava,cassava,2891,True,True,True,1,0,3,0.19047619047619047,0.26700083542188807,poly,,abs-conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5048200874,-,True,-,manilkara,manilkara,181,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5001738068,-,True,-,platanthera,platanthera,165,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4951269571,-,True,-,blackberries,blackberry,531,True,True,True,2,0,3,0.3333333333333333,0.3333333333333333,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.4955707588,-,True,-,phaseolus,phaseolus,231,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5017123873,-,True,-,mushrooms,mushroom,5176,True,True,True,3,4,7,0.2,0.39942615004534515,homonyms_only_different_pos,non-met,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5102131362,-,True,-,quesadillas,quesadilla,124,True,True,True,0,0,1,1.0,1.0,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.531773161,-,True,-,colocasia,colocasia,121,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5044566294,-,True,-,peanut,peanut,4305,True,True,True,3,0,5,0.3333333333333333,0.45786278938452857,poly,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.498565461,-,True,-,teucrium,teucrium,122,True,True,True,0,0,1,1.0,1.0,,,abs,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5059201328,-,True,-,serviceberry,serviceberry,133,True,True,True,1,0,2,0.34782608695652173,0.34782608695652173,,,conc,True,,,
+neg/pos,neighbors-200,wikipedia_sgns_model,not_certain,0.5166352942,-,True,-,guava,guava,947,True,True,True,2,0,3,0.3333333333333333,0.5299145299145299,poly,,conc,True,,,

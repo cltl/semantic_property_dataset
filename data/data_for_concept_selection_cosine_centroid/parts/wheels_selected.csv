@@ -1,0 +1,322 @@
+"concept"	"label"	"categories_str"	"sources_str"	"certainty"	"cosine_centroid"	"selection"
+"technical"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1171449762	1
+"ordinary"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1353691729	
+"clarence"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1399726374	
+"piton"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.1447513414	
+"berlin"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1504070649	
+"semi"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1558762462	
+"smoker"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1797394303	
+"heap"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1816441622	
+"rim"	"pos"	"wheels"	"wn_parts"	"not_certain"	0.1856532923	
+"barrow"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1866273203	
+"stanhope"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.1905518004	
+"sledging"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.1977080145	
+"troika"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2010226687	
+"surrey"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2034170857	
+"wain"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2058333682	
+"stage"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2069522074	
+"hack"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.207036755	
+"cycle"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2095700133	
+"trap"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2101499707	
+"finisher"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2126746603	
+"frigate"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.2203489546	
+"bandwagon"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2232200791	
+"landau"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2328591381	
+"gig"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2368885719	
+"battleship"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.2426181568	
+"tender"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2460478614	
+"cat"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2477333559	
+"coach"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2494315109	
+"van"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.2517850067	
+"cannon"	"pos"	"has_wheels"	"mcrae cslb"	"not_certain"	0.2537549077	
+"compact"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2547765597	
+"tandem"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2551493584	
+"pushcart"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2551650642	
+"hackney"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2570951931	
+"amphibian"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2575887154	
+"warship"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.2579598414	
+"vessel"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.2642178693	
+"shay"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2652256524	
+"equipage"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2657990468	
+"carrier"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2768087026	
+"flat"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2815896953	
+"rig"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2835270682	
+"skidoo"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.2860492271	
+"trawler"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.289195846	
+"panzer"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2938879777	
+"packhorse"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.2945164772	
+"limber"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2946726906	
+"dray"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.2968840768	
+"ship"	"neg"	"has_wheels has_wheels"	"cslb_crowd_neg manually_included"	"certain"	0.2995093474	
+"wrecker"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3006234311	
+"schooner"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.310216919	
+"sleeper"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3115681372	
+"tipper"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3146782108	
+"pram"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.3157518763	
+"wheeler"	"pos"	"has_wheels"	"cslb_crowd_pos"	"certain"	0.3256218095	
+"machine"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3263298292	
+"dinky"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3274141	
+"yacht"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.3289164168	
+"scrambler"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3311216689	
+"freighter"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.3364331451	
+"chariot"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3420680869	
+"doodlebug"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3421058442	
+"oxcart"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3425112988	
+"winch"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.3445259922	
+"transporter"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3450309189	
+"tank"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3454754856	
+"bookmobile"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3508494065	
+"tugboat"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.3528991119	
+"camper"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3531184286	
+"wheelbarrow"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.3539624837	
+"caravan"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.3561832599	
+"brougham"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3576096658	
+"dozer"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3581562407	
+"sulky"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3597444769	
+"sleigh"	"neg"	"neg"	"manually_included"	"certain"	0.3597518388	
+"handcart"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3601323509	
+"toboggan"	"neg"	"has_wheels"	"cslb_crowd_neg"	"certain"	0.3605314415	
+"stroller"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.3651934875	
+"chaise"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3660472646	
+"electric"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3664444087	
+"diner"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3665029198	
+"pedicab"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3685007085	
+"cruiser"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3737196539	
+"boxcar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3746346842	
+"unicycle"	"pos"	"wheel has_wheels wheel has_wheels"	"wn_parts cslb manually_included"	"certain"	0.3780770353	
+"wheelchair"	"pos"	"has_wheels"	"cslb"	"not_certain"	0.3820990786	
+"horsecar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3825474408	
+"gondola"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3846784733	
+"waggon"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3846976676	
+"limo"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3863608522	
+"skateboard"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.3867321824	
+"bulldozer"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3868493304	
+"hansom"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3903445668	
+"auto"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3913527453	
+"dumper"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3916076849	
+"lawnmower"	"pos"	"has_wheels"	"cslb_crowd_pos"	"certain"	0.3926006278	
+"phaeton"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.3946739545	
+"aeroplane"	"pos"	"has_wheels"	"cslb"	"not_certain"	0.3976860048	
+"sled"	"neg"	"has_wheels has_wheels"	"cslb_crowd_neg manually_included"	"certain"	0.3994043113	
+"velocipede"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4061541286	
+"caboose"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4080265517	
+"snowplow"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.412355992	
+"subcompact"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4126664214	
+"pusher"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.413283012	
+"ambulance"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.4192695297	
+"coupe"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4216427472	
+"streetcar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4216710085	
+"racer"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4235075604	
+"hearse"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4247987651	
+"boat"	"neg"	"has_wheels has_wheels"	"cslb_crowd_neg manually_included"	"certain"	0.4252115057	
+"runabout"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4262628286	
+"shunter"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4279593448	
+"stagecoach"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4302699079	
+"cart"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.4312621781	
+"jalopy"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4315604081	
+"porsche"	"pos"	"has_wheels"	"cslb"	"not_certain"	0.4333315179	
+"train"	"pos"	"has_wheels has_wheels"	"cslb manually_included"	"certain"	0.4333793283	
+"trike"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.4351615973	
+"forklift"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4352033228	
+"flatbed"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4360648088	
+"moped"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.439167774	
+"oldsmobile"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4401584941	
+"streamliner"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4407473006	
+"4wd"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4409211406	
+"sidecar"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4410005364	
+"4x4"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4410241793	
+"xk120"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4410315141	
+"cabriolets"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4410585994	
+"surfliner"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4411530393	
+"650cc"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4412699386	
+"bogie"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4412829877	
+"volvo"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4412968201	
+"airplane"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4413533792	
+"z06"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4414855444	
+"zndapp"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4415040215	
+"monocoupe"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.441577529	
+"350hp"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4416008722	
+"snowmobile"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4416675453	
+"bahnbetriebswerk"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4418916597	
+"liftgate"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4420870555	
+"5.4l"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4421044179	
+"minivans"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4422312099	
+"hupmobile"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.442258796	
+"campervan"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4424118598	
+"vlocity"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4424778422	
+"tires"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4425074322	
+"roadsters"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4428684358	
+"lgoc"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4431745094	
+"motorbikes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4435133286	
+"microcars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4437493949	
+"jettisonable"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4441062275	
+"carbody"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4442193785	
+"undercarriages"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4444190895	
+"gp40"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.444698652	
+"winternationals"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4448243245	
+"1300cc"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4449068699	
+"bodystyles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4453685571	
+"stradale"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4454163516	
+"landaulet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4456937519	
+"ge90"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4457234045	
+"wheelsets"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4458196564	
+"fleetlines"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.446142344	
+"taxicab"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4470406894	
+"rickshaw"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.4470708744	
+"peugeot"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4472424441	
+"seater"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4473837387	
+"commer"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4475264656	
+"tourer"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4475527182	
+"benz"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4479104927	
+"toyopet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.448255803	
+"spatted"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4483613445	
+"cadillac"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4484755663	
+"motorbuses"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4488664136	
+"motorhomes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4488675093	
+"driver"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4489520163	
+"6.2l"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4491128315	
+"taxi"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.449159671	
+"tramcar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4497881668	
+"berliet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.449993959	
+"motorail"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4507018431	
+"isetta"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4513056989	
+"minicab"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4513305956	
+"motor"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4520029105	
+"backhoe"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4524830408	
+"bodystyle"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4526941083	
+"goninan"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4532236371	
+"garage"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.453476997	
+"enviro500"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4536223066	
+"parked"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4537644215	
+"xjs"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.453859162	
+"4runner"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4543607237	
+"buick"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.454496169	
+"locomotives"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4549640954	
+"freightliner"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4553077317	
+"engine"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4556027315	
+"windshield"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4557790218	
+"underframes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4561999011	
+"snowcat"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4562063799	
+"f40ph"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4567828821	
+"amfleet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4570372015	
+"buggies"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4573297711	
+"bodywork"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4575660152	
+"1.9l"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4577375805	
+"tricycle"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.4577857933	
+"jeeps"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4578974107	
+"bus"	"pos"	"wheel has_wheels"	"wn_parts mcrae cslb"	"not_certain"	0.4582252987	
+"footrests"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4585172534	
+"tramcars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4588278968	
+"comeng"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4588743171	
+"tram"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4602115838	
+"drivetrains"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4602518581	
+"powertrain"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4604655313	
+"12hp"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4608505982	
+"minibus"	"pos"	"has_wheels"	"cslb_crowd_pos"	"certain"	0.4610481386	
+"jackshaft"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4610893643	
+"skyactiv"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4615150427	
+"streetcars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4617676552	
+"ride"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4622491361	
+"tedom"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4625388818	
+"luggage"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4626700491	
+"peterbilt"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4626771421	
+"cabover"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4630068225	
+"912ul"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4631069479	
+"10hp"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4636580342	
+"bogies"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4638275328	
+"convertible"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.463936975	
+"avensis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4641627431	
+"sedans"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4644008308	
+"brakes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4644184006	
+"wheelbases"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4644283044	
+"pedicabs"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4647194996	
+"hatchback"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4652416402	
+"hardtop"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4653447692	
+"saloon"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4659578566	
+"unimog"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4661517303	
+"charabanc"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4668647166	
+"chevrolet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4669184976	
+"suvs"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4684425785	
+"railmotor"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4686406458	
+"bssing"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4686990691	
+"drivetrain"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4702114366	
+"flatcar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4706831439	
+"scooters"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4707446503	
+"volkswagen"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4715686997	
+"railcars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4724939931	
+"sd.kfz."	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4735022567	
+"cyclecars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4738473677	
+"velaro"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4748459583	
+"4x4s"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4748624764	
+"flatcars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4749112005	
+"karrier"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4755637571	
+"enviro200"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4761509967	
+"citaro"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4762838354	
+"trolley"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.4764826829	
+"trams"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4765511148	
+"midibus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4766125782	
+"lorries"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4767445898	
+"trailers"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4767884888	
+"saviem"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4768726116	
+"railmotors"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4768999758	
+"sedan"	"pos"	"wheel wheel"	"wn_parts manually_included"	"certain"	0.4770676786	
+"diesel"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4778469086	
+"cabs"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4782532268	
+"buses"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4795445021	
+"3.2l"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4811018872	
+"axles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4813524878	
+"engined"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.482489361	
+"microbus"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4834025365	
+"hiace"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4839583655	
+"motorbike"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.4841585276	
+"nv200"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4842404395	
+"vr6"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4858796374	
+"buggy"	"pos"	"wheel has_wheels"	"wn_parts mcrae cslb"	"not_certain"	0.4863556067	
+"passenger"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4886775255	
+"fleetline"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4896979779	
+"minivan"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.4903028026	
+"tractors"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.490520933	
+"gvwr"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4920926921	
+"wheels"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4924951669	
+"automobiles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4961458458	
+"locomotive"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.4982973905	
+"bikes"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.4993225307	
+"trailer"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5007982954	
+"scooter"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.5037143749	
+"carbodies"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5062685593	
+"axle"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.506475808	
+"lorry"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.5068705506	
+"railcar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5075262987	
+"underbone"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5076552961	
+"carriage"	"pos"	"wheel has_wheels wheel has_wheels"	"wn_parts cslb manually_included"	"certain"	0.5078496578	
+"bicycle"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.5080225857	
+"pickup"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5099910706	
+"wheel"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5104850857	
+"suv"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.514821066	
+"vans"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5150106666	
+"cabriolet"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5153699798	
+"wheelbase"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.516315662	
+"bicycles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5166982768	
+"limousine"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.5169884729	
+"motorcar"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5173251616	
+"quadricycle"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5220478001	
+"hijet"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5254128795	
+"chassis"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5313170719	
+"motorcycle"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.5332499509	
+"automobile"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5349986207	
+"motorcycles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.538199498	
+"cab"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5421898752	
+"jeep"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.5440458374	
+"roadster"	"pos"	"wheel"	"wn_parts"	"not_certain"	0.5452106108	
+"carriages"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5455270851	
+"bike"	"pos"	"wheel has_wheels"	"wn_parts mcrae cslb_crowd_pos"	"certain"	0.5469470275	
+"wagons"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5486849758	
+"tractor"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.5537198114	
+"wheeled"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5614527674	
+"vehicles"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5786073111	
+"trucks"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5789311434	
+"vehicle"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.5919493394	
+"wagon"	"pos"	"wheel has_wheels"	"wn_parts cslb_crowd_pos"	"certain"	0.5923655672	
+"cars"	"neg/pos"	"neighbors-200"	"wikipedia_sgns_model"	"not_certain"	0.6253414905	
+"truck"	"pos"	"wheel has_wheels"	"wn_parts cslb"	"not_certain"	0.6282656464	
+"car"	"pos"	"wheel has_wheels wheel has_wheels"	"wn_parts mcrae cslb manually_included"	"certain"	0.6525160986	
