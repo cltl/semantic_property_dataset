@@ -1,7 +1,0 @@
-senses1,senses2,coeff,pvalue,coeff_sp, pvalue_sp
-n_senses_total,n_synsets,0.6264034157949608,0.0,0.5023385106421662,0.0
-n_senses_total,n_navigli_clusters,0.7219396447463392,0.0,0.5518753788813272,0.0
-n_senses_total,n_onto_senses_n_v,0.6684522757379856,0.0,0.3935920269885745,0.0
-n_synsets,n_navigli_clusters,0.7101561056857949,0.0,0.7709647088436538,0.0
-n_synsets,n_onto_senses_n_v,0.5838219283748688,0.0,0.41381197556792515,0.0
-n_navigli_clusters,n_onto_senses_n_v,0.6781369702995482,0.0,0.4548536355141282,0.0

@@ -1,9 +1,0 @@
-ball
-barrel
-marble
-pig
-rollerskate
-rolling_pin
-skateboard
-tyre
-wheel

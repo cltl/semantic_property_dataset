@@ -1,5 +1,0 @@
-bike
-buggy
-bus
-cannon
-car

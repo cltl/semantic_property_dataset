@@ -1,0 +1,248 @@
+.
+├── data
+│   ├── crowd_input
+│   │   ├── activities.csv
+│   │   ├── complex.csv
+│   │   ├── overview_activities.csv
+│   │   ├── overview_complex.csv
+│   │   ├── overview_parts.csv
+│   │   ├── overview_perceptual.csv
+│   │   ├── parts.csv
+│   │   └── perceptual.csv
+│   └── manually_included
+│       ├── notes_selected_words.txt
+│       ├── properties_overview.csv
+│       └── properties_overview_selected.csv
+├── readme.md
+├── scripts_lexical_information
+│   ├── __pycache__
+│   │   ├── add_av_wup_distances.cpython-36.pyc
+│   │   ├── analyze_polysemy.cpython-36.pyc
+│   │   ├── get_mipvu_vocab.cpython-36.pyc
+│   │   ├── polysemy_measure.cpython-36.pyc
+│   │   └── synset_distances.cpython-36.pyc
+│   ├── add_mrc_data.py
+│   ├── analyze_polysemy.py
+│   ├── analyze_vocab_data.py
+│   ├── correlations.csv
+│   ├── correlations.py
+│   ├── distance_summary.txt
+│   ├── evaluation_polysemy_measure
+│   │   ├── homonym.txt
+│   │   ├── homonym_dev.txt
+│   │   ├── homonym_n.txt
+│   │   ├── homonym_n_dev.txt
+│   │   ├── homonym_n_test.txt
+│   │   ├── homonym_test.txt
+│   │   ├── met.txt
+│   │   ├── met_dev.txt
+│   │   ├── met_n.txt
+│   │   ├── met_n_dev.txt
+│   │   ├── met_n_test.txt
+│   │   ├── met_test.txt
+│   │   ├── mon.txt
+│   │   ├── mon_dev.txt
+│   │   ├── mon_n.txt
+│   │   ├── mon_n_dev.txt
+│   │   ├── mon_n_test.txt
+│   │   ├── mon_test.txt
+│   │   ├── poly_metonymy.txt
+│   │   ├── poly_metonymy_dev.txt
+│   │   ├── poly_metonymy_n.txt
+│   │   ├── poly_metonymy_n_dev.txt
+│   │   ├── poly_metonymy_n_test.txt
+│   │   ├── poly_metonymy_test.txt
+│   │   ├── vocab.txt
+│   │   ├── vocab_dev.txt
+│   │   ├── vocab_n.txt
+│   │   ├── vocab_n_dev.txt
+│   │   ├── vocab_n_test.txt
+│   │   └── vocab_test.txt
+│   ├── explore_met_vocab.py
+│   ├── get_lemma_list.py
+│   ├── get_metonymy_list.py
+│   ├── get_mipvu_vocab.py
+│   ├── get_mrc_data.sh
+│   ├── get_polysemous_words_cslb.py
+│   ├── get_source_target_concepts.py
+│   ├── get_vocab_data.py
+│   ├── jmrc.jar
+│   ├── mip_met_vocab
+│   │   ├── a-concepts-definitions.csv
+│   │   ├── n-concepts-definitions.csv
+│   │   └── v-concepts-definitions.csv
+│   ├── polysemy_distribution.py
+│   ├── polysemy_measure.py
+│   ├── property_shifts.csv
+│   ├── readme.md
+│   ├── synset_distances.py
+│   └── wordlists
+│       ├── all_lodce.csv
+│       ├── all_lodce_all_distances.csv
+│       ├── all_lodce_all_distances_pos.csv
+│       ├── all_lodce_old.csv
+│       ├── all_lodce_synset_distances.csv
+│       ├── homonyms_also_same_pos.csv
+│       ├── homonyms_only_different_pos.csv
+│       ├── mipvu_metaphor_words.csv
+│       ├── monosemous.csv
+│       └── polysemous.csv
+├── scripts_process_raw_data
+│   ├── __pycache__
+│   │   ├── add_qumcrae_labels.cpython-36.pyc
+│   │   ├── annotation_selection.cpython-36.pyc
+│   │   ├── load_models.cpython-36.pyc
+│   │   ├── sense_group_data.cpython-36.pyc
+│   │   ├── utils.cpython-36.pyc
+│   │   └── wordnet_data.cpython-36.pyc
+│   ├── add_preselected_concepts.py
+│   ├── add_preselected_concepts_after_centroid_step.py
+│   ├── get_word_data.py
+│   ├── neighbor_extension.py
+│   ├── process1.sh
+│   ├── process2.sh
+│   ├── readme.md
+│   └── sort_examples.py
+├── scripts_raw_data_extraction
+│   ├── __pycache__
+│   │   ├── conceptnet_get_concepts.cpython-36.pyc
+│   │   ├── crowd_get_concepts.cpython-36.pyc
+│   │   ├── cslb_get_concepts.cpython-36.pyc
+│   │   ├── cslb_implications_get_concepts.cpython-36.pyc
+│   │   ├── manual_get_concepts.cpython-36.pyc
+│   │   ├── mcrae_get_concepts.cpython-36.pyc
+│   │   ├── regpol_get_concepts.cpython-36.pyc
+│   │   ├── simile_get_concepts.cpython-36.pyc
+│   │   ├── wordnet_get_concepts.cpython-36.pyc
+│   │   └── wordnet_get_concepts.cpython-37.pyc
+│   ├── activities.csv
+│   ├── clean_log.py
+│   ├── complex.csv
+│   ├── complex_archive.csv
+│   ├── conceptnet_get_concepts.py
+│   ├── crowd_get_concepts.py
+│   ├── cslb_get_concepts.py
+│   ├── cslb_implications_get_concepts.py
+│   ├── get_concepts.py
+│   ├── log.json
+│   ├── manual_get_concepts.py
+│   ├── mc_rae_properties_min10.txt
+│   ├── mcrae_get_concepts.py
+│   ├── met_activities.csv
+│   ├── parts.csv
+│   ├── perceptual.csv
+│   ├── perceptual_colors_archive.csv
+│   ├── perceptual_sensations_archive.csv
+│   ├── perceptual_sensations_archive.ods
+│   ├── perceptual_shapes_archive.csv
+│   ├── qumcrae_get_concepts.py
+│   ├── readme.md
+│   ├── regpol_get_concepts.py
+│   ├── search_concepts.csv
+│   ├── simile_get_concepts.py
+│   ├── veale_get_concepts.py
+│   └── wordnet_get_concepts.py
+├── scripts_sample_candidates
+│   ├── __pycache__
+│   │   └── get_bins.cpython-36.pyc
+│   ├── bins.json
+│   ├── bins_old.json
+│   ├── create_crowd_input.py
+│   ├── get_bins.py
+│   ├── get_property_concept_overview.py
+│   ├── get_sampled_crowd_input.sh
+│   ├── readme.md
+│   ├── replication_random_indices
+│   │   ├── black_neg.csv
+│   │   ├── black_pos-neg.csv
+│   │   ├── black_pos.csv
+│   │   ├── blue_neg.csv
+│   │   ├── blue_pos-neg.csv
+│   │   ├── blue_pos.csv
+│   │   ├── cold_neg.csv
+│   │   ├── cold_pos-neg.csv
+│   │   ├── cold_pos.csv
+│   │   ├── dangerous_neg.csv
+│   │   ├── dangerous_pos-neg.csv
+│   │   ├── dangerous_pos.csv
+│   │   ├── female_neg.csv
+│   │   ├── female_pos-neg.csv
+│   │   ├── female_pos.csv
+│   │   ├── fly_neg.csv
+│   │   ├── fly_pos-neg.csv
+│   │   ├── fly_pos.csv
+│   │   ├── found_in_seas_neg.csv
+│   │   ├── found_in_seas_pos-neg.csv
+│   │   ├── found_in_seas_pos.csv
+│   │   ├── green_neg.csv
+│   │   ├── green_pos-neg.csv
+│   │   ├── green_pos.csv
+│   │   ├── hot_neg.csv
+│   │   ├── hot_pos-neg.csv
+│   │   ├── hot_pos.csv
+│   │   ├── juicy_neg.csv
+│   │   ├── juicy_pos-neg.csv
+│   │   ├── juicy_pos.csv
+│   │   ├── lay_eggs_neg.csv
+│   │   ├── lay_eggs_pos-neg.csv
+│   │   ├── lay_eggs_pos.csv
+│   │   ├── made_of_wood_neg.csv
+│   │   ├── made_of_wood_pos-neg.csv
+│   │   ├── made_of_wood_pos.csv
+│   │   ├── neg.csv
+│   │   ├── pos-neg.csv
+│   │   ├── pos.csv
+│   │   ├── red_neg.csv
+│   │   ├── red_pos-neg.csv
+│   │   ├── red_pos.csv
+│   │   ├── roll_neg.csv
+│   │   ├── roll_pos-neg.csv
+│   │   ├── roll_pos.csv
+│   │   ├── round_neg.csv
+│   │   ├── round_pos-neg.csv
+│   │   ├── round_pos.csv
+│   │   ├── square_neg.csv
+│   │   ├── square_pos-neg.csv
+│   │   ├── square_pos.csv
+│   │   ├── sweet_neg.csv
+│   │   ├── sweet_pos-neg.csv
+│   │   ├── sweet_pos.csv
+│   │   ├── swim_neg.csv
+│   │   ├── swim_pos-neg.csv
+│   │   ├── swim_pos.csv
+│   │   ├── used_in_cooking_neg.csv
+│   │   ├── used_in_cooking_pos-neg.csv
+│   │   ├── used_in_cooking_pos.csv
+│   │   ├── warm_neg.csv
+│   │   ├── warm_pos-neg.csv
+│   │   ├── warm_pos.csv
+│   │   ├── wheels_neg.csv
+│   │   ├── wheels_pos-neg.csv
+│   │   ├── wheels_pos.csv
+│   │   ├── wings_neg.csv
+│   │   ├── wings_pos-neg.csv
+│   │   ├── wings_pos.csv
+│   │   ├── yellow_neg.csv
+│   │   ├── yellow_pos-neg.csv
+│   │   └── yellow_pos.csv
+│   └── sample.py
+├── utils
+│   ├── __pycache__
+│   │   ├── add_qumcrae_labels.cpython-36.pyc
+│   │   ├── annotation_selection.cpython-36.pyc
+│   │   ├── data_utils.cpython-36.pyc
+│   │   ├── load_models.cpython-36.pyc
+│   │   ├── sense_group_data.cpython-36.pyc
+│   │   ├── stats.cpython-36.pyc
+│   │   └── wordnet_data.cpython-36.pyc
+│   ├── add_qumcrae_labels.py
+│   ├── annotation_selection.py
+│   ├── data_utils.py
+│   ├── load_models.py
+│   ├── sense_group_data.py
+│   ├── stats.py
+│   └── wordnet_data.py
+└── wikipedia_corpus_data
+    └── token_counts_from_full_wiki_corpus.csv
+
+18 directories, 228 files

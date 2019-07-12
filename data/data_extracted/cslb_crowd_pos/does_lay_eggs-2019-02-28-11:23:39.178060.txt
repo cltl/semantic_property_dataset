@@ -1,6 +1,0 @@
-canary
-canary
-heron
-wren
-goose
-flamingo

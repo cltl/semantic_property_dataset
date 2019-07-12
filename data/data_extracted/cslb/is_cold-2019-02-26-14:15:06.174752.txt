@@ -1,6 +1,0 @@
-beer
-fridge
-ice_cream
-lemonade
-soup
-tea

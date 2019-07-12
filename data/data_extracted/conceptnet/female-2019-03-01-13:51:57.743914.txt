@@ -1,8 +1,0 @@
-queens
-brothers_male_and_sisters
-cousin
-giraffe
-grandpa_male_grandma
-man_male_and_woman
-most_calico_cats
-most_honey_bees
