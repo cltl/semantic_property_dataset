@@ -1,0 +1,15 @@
+" 269823
+is_large 26
+is_small 24
+made_of_metal 22
+made_of_wood 19
+is_round 18
+is_long 18
+made_of_plastic 14
+different_colours 14
+is_edible 13
+is_brown 12
+an_animal 12
+is_green 11
+is_black 11
+used_for_transportation 9

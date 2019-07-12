@@ -1,0 +1,19 @@
+"property_name"	"search_term"	"source"	"label"	"selection"
+"wheels"	"has_wheels"	"cslb"	"pos"	
+"wheels"	"has_wheels"	"cslb_crowd_pos"	"pos"	
+"wheels"	"has_wheels"	"cslb_crowd_neg"	"neg"	
+"wheels"	"wheel"	"wn_parts"	"pos"	0
+"wheels"	"has_wheels"	"mcrae"	"pos"	
+"made_of_wood"	"made_of_wood"	"cslb"	"pos"	
+"made_of_wood"	"made_of_wood"	"cslb_crowd_pos"	"pos"	
+"made_of_wood"	"made_of_wood"	"cslb_crowd_neg"	"neg"	
+"made_of_wood"	"wood"	"wn_parts"	"pos"	0
+"made_of_wood"	"fabric"	"wn_parts"	"neg"	0
+"wings"	"wing"	"wn_parts"	"pos"	"0,1"
+"wings"	"vehicle"	"wn_hypernym"	"pos/neg"	0
+"wings"	"fin"	"wn_parts"	"neg"	0
+"wings"	"wheel"	"wn_parts"	"neg"	0
+"engine"	"engine"	"wn_parts"	"pos"	0
+"engine"	"vehicle"	"wn_hypernym"	"pos/neg"	0
+"engine"	"tool"	"wn_hypernym"	"pos/neg"	0
+"engine"	"has_engine"	"cslb"	"pos"	

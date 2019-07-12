@@ -1,0 +1,20 @@
+name,indices
+wiki_frequency_1,11 3 13 0 4
+wiki_frequency_2,183 28 97 104 41
+cosine_centroid_1,83 50 88 46 101
+cosine_centroid_2,67 117 97 65 83
+cosine_centroid_3,5 1 0 0 0
+polysemy_1,33 53 20 29 26
+polysemy_2,31 49 11 33 66
+polysemy_3,6 6 4 3 0
+polysemy_4,24 25 38 10 11
+conc_1,1 2 0 0
+conc_2,88 145 6 88
+conc_3,8 4 11 17
+fam_1,5 5 5 10
+fam_2,100 114 171 172
+fam_3,11 5 1 1
+aoa_1,222 105 263 73
+aoa_2,5 4 3 1
+aoa_3,3 1 0 2
+aoa_4,0 0

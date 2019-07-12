@@ -1,0 +1,4048 @@
+[
+ {
+  "property_name": "red",
+  "search_term": "is_red",
+  "source": "veale_simile",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 26,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_green",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_yellow",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 11,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_blue",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 9,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_black",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 19,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_red",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 37,
+  "extracted_categories": [
+   "is_red"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_green",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 59,
+  "extracted_categories": [
+   "is_green"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_yellow",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 39,
+  "extracted_categories": [
+   "is_yellow"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_blue",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 7,
+  "extracted_categories": [
+   "is_blue"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_black",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 57,
+  "extracted_categories": [
+   "is_black"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "red",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 42,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "green",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 47,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "yellow",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 24,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "blue",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 21,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "black",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 26,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "red",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_yellow",
+  "source": "veale_simile",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_green",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_red",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_blue",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_black",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_yellow",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_green",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_red",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_blue",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_black",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "yellow",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "green",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "red",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "blue",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "black",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "yellow",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_green",
+  "source": "veale_simile",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_yellow",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_red",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_blue",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_black",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_green",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_yellow",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_red",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_blue",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_black",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "green",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "yellow",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "red",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "blue",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "black",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "green",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_blue",
+  "source": "veale_simile",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_yellow",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_red",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_green",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_black",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_blue",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_yellow",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_red",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_green",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_black",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "blue",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "yellow",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "red",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "green",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "black",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "blue",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_black",
+  "source": "veale_simile",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_yellow",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_red",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_blue",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_green",
+  "source": "veale_simile",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_black",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_yellow",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_red",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_blue",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_green",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "black",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "yellow",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "red",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "blue",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "green",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "black",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_red",
+  "source": "veale_simile",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_red",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 1,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_red",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 1,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_yellow",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 8,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_yellow",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 1,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_green",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_green",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 1,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_blue",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_blue",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "time": "2019-02-26-12:02:38.927597",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_blue",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": 3,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": 6,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": 7,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": 11,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "blue",
+  "search_term": "is_black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": 11,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_black",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "black",
+  "search_term": "is_green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_green",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "green",
+  "search_term": "is_black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_yellow",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_red",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "yellow",
+  "search_term": "is_black",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_red",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_green",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_yellow",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_blue",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "red",
+  "search_term": "is_black",
+  "source": "mcrae",
+  "label": "neg",
+  "time": "2019-02-26-13:33:21.579822",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "is_round",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "is_round",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "round",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 46,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "is_round",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 18,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "is_square",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "is_square",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "square",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 8,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "round",
+  "search_term": "square",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_round",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_round",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "round",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_round",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_square",
+  "source": "cslb_crowd_neg",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_square",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "square",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "square",
+  "source": "mcrae",
+  "label": "pos",
+  "time": "2019-02-26-13:47:01.482607",
+  "n_extracted": "s.o.",
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_round",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_round",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "round",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_round",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_square",
+  "source": "cslb_crowd_neg",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "is_square",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "square",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "square",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "square",
+  "search_term": "square",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotHasProperty",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [
+   "NotHasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "round",
+  "search_term": "round",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotHasProperty",
+  "time": "2019-02-26-13:53:10.515555",
+  "extracted_categories": [
+   "NotHasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_hot",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_hot",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_hot",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "hot",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_cold",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_cold",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_cold",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "cold",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cold",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cold",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cold",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "cold",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:09:59.022598",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "hot",
+  "search_term": "is_hot",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "is_hot",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 13,
+  "extracted_categories": [
+   "is_hot"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "is_hot",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "hot",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 33,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "is_cold",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "is_cold",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 6,
+  "extracted_categories": [
+   "is_cold"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "is_cold",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 1,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "hot",
+  "search_term": "cold",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 44,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_hot",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_hot",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_hot",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "hot",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_cold",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_cold",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "is_cold",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "cold",
+  "search_term": "cold",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_warm",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_warm",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 22,
+  "extracted_categories": [
+   "is_warm"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_warm",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 2,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "warm",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 12,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cold",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cold",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cold",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "cold",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cool",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cool",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 1,
+  "extracted_categories": [
+   "is_cool"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "is_cool",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "warm",
+  "search_term": "cool",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 20,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_sweet",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 7,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_sweet",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 42,
+  "extracted_categories": [
+   "is_sweet"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_sweet",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "sweet",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 13,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "fruit",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 496,
+  "extracted_categories": [
+   "Synset('fruit.n.01')"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "vegetable",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 314,
+  "extracted_categories": [
+   "Synset('vegetable.n.01')",
+   "Synset('vegetable.n.02')"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_fruit",
+  "source": "cslb",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_vegetable",
+  "source": "cslb",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_fruit",
+  "source": "mcrae",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_vegetable",
+  "source": "mcrae",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_food",
+  "source": "cslb",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 35,
+  "extracted_categories": [
+   "is_food"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "savory",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "is_sweet",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 3,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "sweet",
+  "search_term": "sweet",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotHasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [
+   "NotHasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_juicy",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 4,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_juicy",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 21,
+  "extracted_categories": [
+   "is_juicy"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_juicy",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 4,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "juicy",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 1,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "fruit",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "vegetable",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_fruit",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_vegetable",
+  "source": "cslb",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_fruit",
+  "source": "mcrae",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_vegetable",
+  "source": "mcrae",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_food",
+  "source": "cslb",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "sweet",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotHasProperty",
+  "time": "2019-02-26-14:15:06.174752",
+  "extracted_categories": [
+   "NotHasProperty"
+  ],
+  "collection": "perceptual",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "juicy",
+  "search_term": "is_juicy",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "time": "2019-02-26-14:15:06.174752",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "perceptual"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "does_lay_eggs",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 20,
+  "extracted_categories": [
+   "does_lay_eggs"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "does_lay_eggs",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 6,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "does_lay_eggs",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "bird",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1,2",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 1860,
+  "extracted_categories": [
+   "Synset('bird.n.01')",
+   "Synset('bird.n.02')"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "fish",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1,2",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 1375,
+  "extracted_categories": [
+   "Synset('fish.n.01')",
+   "Synset('fish.n.02')"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "reptile",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 600,
+  "extracted_categories": [
+   "Synset('reptile.n.01')"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "mammal",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 2346,
+  "extracted_categories": [
+   "Synset('mammal.n.01')"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "lays_eggs",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "fly",
+  "search_term": "does_fly",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 48,
+  "extracted_categories": [
+   "does_fly"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "fly",
+  "search_term": "does_fly",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 2,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "fly",
+  "search_term": "does_fly",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 3,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "fly",
+  "search_term": "bird",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "fish",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "mammal",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "flies",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "swim",
+  "search_term": "does_swim",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 37,
+  "extracted_categories": [
+   "does_swim"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "swim",
+  "search_term": "does_swim",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 2,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "swim",
+  "search_term": "does_swim",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 4,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "swim",
+  "search_term": "fish",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "bird",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "mammal",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "swims",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "swim",
+  "search_term": "reptile",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "roll",
+  "search_term": "does_roll",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 9,
+  "extracted_categories": [
+   "does_roll"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "roll",
+  "search_term": "is_round",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "roll",
+  "search_term": "rolls",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "roll",
+  "search_term": "is_square",
+  "source": "cslb_crowd_pos",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-11:23:39.178060",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "activities"
+ },
+ {
+  "property_name": "used_in_cooking",
+  "search_term": "is_used_in_cooking",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 45,
+  "extracted_categories": [
+   "is_used_in_cooking"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "used_in_cooking",
+  "search_term": "is_used_in_cooking",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 49,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "used_in_cooking",
+  "search_term": "is_used_in_cooking",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 3,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "used_in_cooking",
+  "search_term": "cutlery",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 172,
+  "extracted_categories": [
+   "Synset('cutter.n.06')",
+   "Synset('cutlery.n.02')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "used_in_cooking",
+  "search_term": "is_a_material",
+  "source": "cslb",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 1,
+  "extracted_categories": [
+   "is_a_material"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "dangerous",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "is_dangerous",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 54,
+  "extracted_categories": [
+   "is_dangerous"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "is_dangerous",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 132,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "is_dangerous",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 84,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "weapon",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 316,
+  "extracted_categories": [
+   "Synset('weapon.n.01')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "tool",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "extracted_categories": [],
+  "collection": "complex",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "poison",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 50,
+  "extracted_categories": [
+   "Synset('poison.n.01')",
+   "Synset('poison.n.02')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "medication",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 1053,
+  "extracted_categories": [
+   "Synset('medicine.n.02')",
+   "Synset('medication.n.02')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "illness ",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "criminal",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 200,
+  "extracted_categories": [
+   "Synset('criminal.n.01')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "dangerous",
+  "search_term": "profession",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 20,
+  "extracted_categories": [
+   "Synset('profession.n.01')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "found_in_seas",
+  "search_term": "is_found_in_seas",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 47,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "found_in_seas",
+  "search_term": "is_found_in_seas",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "time": "2019-02-28-14:28:34.072555",
+  "n_extracted": 28,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "female",
+  "search_term": "is_female",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:38:30.601992",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "female",
+  "search_term": "is_male",
+  "source": "cslb",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:38:30.601992",
+  "n_extracted": 2,
+  "extracted_categories": [
+   "is_male"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "female",
+  "search_term": "female",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:38:30.601992",
+  "n_extracted": 273,
+  "extracted_categories": [
+   "Synset('female.n.02')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "male",
+  "search_term": "male",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:38:30.601992",
+  "n_extracted": 186,
+  "extracted_categories": [
+   "Synset('male.n.02')"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "female",
+  "search_term": "female",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:38:30.601992",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "female",
+  "search_term": "male",
+  "source": "mcrae",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:38:30.601992",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "complex"
+ },
+ {
+  "property_name": "wheels",
+  "search_term": "has_wheels",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 34,
+  "extracted_categories": [
+   "has_wheels"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wheels",
+  "search_term": "has_wheels",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 45,
+  "extracted_categories": [],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wheels",
+  "search_term": "has_wheels",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 38,
+  "extracted_categories": [],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wheels",
+  "search_term": "wheels",
+  "source": "wn_parts",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 3,
+  "extracted_categories": [
+   "Synset('wheel.n.01')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wheels",
+  "search_term": "has_wheels",
+  "source": "mcrae",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 5,
+  "extracted_categories": [],
+  "collection": "parts"
+ },
+ {
+  "property_name": "made_of_wood",
+  "search_term": "made_of_wood",
+  "source": "cslb",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 121,
+  "extracted_categories": [
+   "made_of_wood"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "made_of_wood",
+  "search_term": "made_of_wood",
+  "source": "cslb_crowd_pos",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 6,
+  "extracted_categories": [],
+  "collection": "parts"
+ },
+ {
+  "property_name": "made_of_wood",
+  "search_term": "made_of_wood",
+  "source": "cslb_crowd_neg",
+  "label": "neg",
+  "time": "2019-02-28-14:53:23.116415",
+  "n_extracted": 11,
+  "extracted_categories": [],
+  "collection": "parts"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "lay_eggs",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "CapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "n_extracted": 6,
+  "extracted_categories": [
+   "CapableOf"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "lay_eggs",
+  "search_term": "lay_eggs",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotCapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [
+   "NotCapableOf"
+  ],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "bird",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "fish",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "mammal",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "fly",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "UsedFor",
+  "time": "2019-03-01-13:49:35.705486",
+  "n_extracted": 12,
+  "extracted_categories": [
+   "UsedFor"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "fly",
+  "search_term": "fly",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "CapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [
+   "CapableOf"
+  ],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "fly",
+  "search_term": "fly",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotCapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [
+   "NotCapableOf"
+  ],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "fish",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "bird",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "mammal",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "swim",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "CapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "n_extracted": 7,
+  "extracted_categories": [
+   "CapableOf"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "swim",
+  "search_term": "swim",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotCapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [
+   "NotCapableOf"
+  ],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "swim",
+  "search_term": "reptile",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "roll",
+  "search_term": "roll",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "CapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "n_extracted": 2,
+  "extracted_categories": [
+   "CapableOf"
+  ],
+  "collection": "activities"
+ },
+ {
+  "property_name": "roll",
+  "search_term": "roll",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotCapableOf",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [
+   "NotCapableOf"
+  ],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "roll",
+  "search_term": "round",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "NotHasProperty",
+  "time": "2019-03-01-13:49:35.705486",
+  "extracted_categories": [
+   "NotHasProperty"
+  ],
+  "collection": "activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "female",
+  "search_term": "female",
+  "source": "conceptnet",
+  "label": "pos",
+  "selection": "HasProperty",
+  "time": "2019-03-01-13:51:57.743914",
+  "n_extracted": 8,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "female",
+  "search_term": "male",
+  "source": "conceptnet",
+  "label": "neg",
+  "selection": "HasProperty",
+  "time": "2019-03-01-13:51:57.743914",
+  "n_extracted": 13,
+  "extracted_categories": [
+   "HasProperty"
+  ],
+  "collection": "complex"
+ },
+ {
+  "property_name": "wheels",
+  "search_term": "wheel",
+  "source": "wn_parts",
+  "label": "pos",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "n_extracted": 396,
+  "extracted_categories": [
+   "Synset('wheel.n.01')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "made_of_wood",
+  "search_term": "wood",
+  "source": "wn_parts",
+  "label": "pos",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "n_extracted": 75,
+  "extracted_categories": [
+   "Synset('wood.n.01')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "made_of_wood",
+  "search_term": "fabric",
+  "source": "wn_parts",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "n_extracted": 0,
+  "extracted_categories": [
+   "Synset('fabric.n.01')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wings",
+  "search_term": "wing",
+  "source": "wn_parts",
+  "label": "pos",
+  "selection": "0,1",
+  "time": "2019-03-05-12:05:55.569346",
+  "n_extracted": 2771,
+  "extracted_categories": [
+   "Synset('wing.n.01')",
+   "Synset('wing.n.02')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wings",
+  "search_term": "fin",
+  "source": "wn_parts",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "n_extracted": 0,
+  "extracted_categories": [
+   "Synset('five.n.01')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "wings",
+  "search_term": "wheel",
+  "source": "wn_parts",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "parts",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "engine",
+  "search_term": "engine",
+  "source": "wn_parts",
+  "label": "pos",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "n_extracted": 0,
+  "extracted_categories": [
+   "Synset('engine.n.01')"
+  ],
+  "collection": "parts"
+ },
+ {
+  "property_name": "engine",
+  "search_term": "vehicle",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "0",
+  "time": "2019-03-05-12:05:55.569346",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "parts",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "wings",
+  "search_term": "wheel",
+  "source": "wn_parts",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-03-05-12:12:36.902904",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "parts",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "engine",
+  "search_term": "vehicle",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "0",
+  "time": "2019-03-05-12:12:36.902904",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "parts",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "engine",
+  "search_term": "has_engine",
+  "source": "cslb",
+  "label": "pos",
+  "time": "2019-03-05-12:12:36.902904",
+  "n_extracted": 0,
+  "extracted_categories": [],
+  "collection": "parts"
+ },
+ {
+  "property_name": "grow",
+  "search_term": "grow",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-05-07-13:44:54.647885",
+  "n_extracted": 19,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "grow",
+  "search_term": "tool",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0,1",
+  "time": "2019-05-07-13:44:54.647885",
+  "n_extracted": 530,
+  "extracted_categories": [
+   "Synset('tool.n.01')"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "grow",
+  "search_term": "vehicle",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-05-07-13:44:54.647885",
+  "n_extracted": 875,
+  "extracted_categories": [
+   "Synset('vehicle.n.01')"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "collect",
+  "search_term": "collect",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-05-07-13:44:54.647885",
+  "n_extracted": 12,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "grasp",
+  "search_term": "grasp",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "time": "2019-05-07-13:44:54.647885",
+  "n_extracted": 11,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "grow",
+  "search_term": "relation",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "0",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 8140,
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "grow",
+  "search_term": "plant",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 12100,
+  "extracted_categories": [
+   "1"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "grasp",
+  "search_term": "tool",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "0,1",
+  "time": "2019-05-07-15:12:43.731466",
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "grasp",
+  "search_term": "animal",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 8049,
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "drop",
+  "search_term": "drop",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 19,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "drop",
+  "search_term": "object",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "0",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 53982,
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "drop",
+  "search_term": "measure",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 4012,
+  "extracted_categories": [
+   "1"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "drop",
+  "search_term": "vehicle",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-05-07-15:12:43.731466",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "rise",
+  "search_term": "rise",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 22,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "rise",
+  "search_term": "food",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0,1",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 3631,
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "rise",
+  "search_term": "measure",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1",
+  "time": "2019-05-07-15:12:43.731466",
+  "extracted_categories": [
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "kill",
+  "search_term": "kill",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 30,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "kill",
+  "search_term": "tool",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0,1",
+  "time": "2019-05-07-15:12:43.731466",
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "kill",
+  "search_term": "food",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0,1",
+  "time": "2019-05-07-15:12:43.731466",
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "touch",
+  "search_term": "touch",
+  "source": "manual_seed_data",
+  "label": "pos",
+  "selection": "",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 21,
+  "extracted_categories": [],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "touch",
+  "search_term": "communication",
+  "source": "wn_hypernym",
+  "label": "pos/neg",
+  "selection": "1",
+  "time": "2019-05-07-15:12:43.731466",
+  "n_extracted": 7307,
+  "extracted_categories": [
+   "1"
+  ],
+  "collection": "met_activities"
+ },
+ {
+  "property_name": "touch",
+  "search_term": "object",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "0",
+  "time": "2019-05-07-15:12:43.731466",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "grasp",
+  "search_term": "tool",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "0,1",
+  "time": "2019-05-07-16:39:25.080555",
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "drop",
+  "search_term": "vehicle",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0",
+  "time": "2019-05-07-16:39:25.080555",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "rise",
+  "search_term": "measure",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "1",
+  "time": "2019-05-07-16:39:25.080555",
+  "extracted_categories": [
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "kill",
+  "search_term": "tool",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0,1",
+  "time": "2019-05-07-16:39:25.080555",
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "kill",
+  "search_term": "food",
+  "source": "wn_hypernym",
+  "label": "neg",
+  "selection": "0,1",
+  "time": "2019-05-07-16:39:25.080555",
+  "extracted_categories": [
+   "0",
+   "1"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ },
+ {
+  "property_name": "touch",
+  "search_term": "object",
+  "source": "wn_hypernym",
+  "label": "pos",
+  "selection": "0",
+  "time": "2019-05-07-16:39:25.080555",
+  "extracted_categories": [
+   "0"
+  ],
+  "collection": "met_activities",
+  "n_extracted": "s.o."
+ }
+]

@@ -1,0 +1,23 @@
+"property_name"	"search_term"	"source"	"label"	"selection"
+"grow"	"grow"	"manual_seed_data"	"pos"	
+"grow"	"relation"	"wn_hypernym"	"pos/neg"	0
+"grow"	"plant"	"wn_hypernym"	"pos"	1
+"grow"	"tool"	"wn_hypernym"	"neg"	"0,1"
+"grow"	"vehicle"	"wn_hypernym"	"neg"	0
+"collect"	"collect"	"manual_seed_data"	"pos"	
+"grasp"	"grasp"	"manual_seed_data"	"pos"	
+"grasp"	"tool"	"wn_hypernym"	"pos"	"0,1"
+"grasp"	"animal"	"wn_hypernym"	"neg"	0
+"drop"	"drop"	"manual_seed_data"	"pos"	
+"drop"	"object"	"wn_hypernym"	"pos"	0
+"drop"	"measure"	"wn_hypernym"	"pos"	1
+"drop"	"vehicle"	"wn_hypernym"	"neg"	0
+"rise"	"rise"	"manual_seed_data"	"pos"	
+"rise"	"food"	"wn_hypernym"	"neg"	"0,1"
+"rise"	"measure"	"wn_hypernym"	"pos"	1
+"kill"	"kill"	"manual_seed_data"	"pos"	
+"kill"	"tool"	"wn_hypernym"	"neg"	"0,1"
+"kill"	"food"	"wn_hypernym"	"neg"	"0,1"
+"touch"	"touch"	"manual_seed_data"	"pos"	
+"touch"	"communication"	"wn_hypernym"	"pos/neg"	1
+"touch"	"object"	"wn_hypernym"	"pos"	0
