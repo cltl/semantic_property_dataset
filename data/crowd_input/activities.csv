@@ -61,7 +61,7 @@ swim,meadowlark,neg,not_certain,wn_hypernym
 swim,pen,neg,not_certain,wn_hypernym
 swim,dipper,neg,not_certain,wn_hypernym
 swim,bass,pos,certain,wn_hypernym manually_included
-swim,turtle,pos,certain,cslb wn_hypernym manually_included
+swim,turtle,neg,certain,cslb wn_hypernym manually_included
 swim,whale,pos,certain,conceptnet cslb wn_hypernym manually_included
 swim,ship,pos,certain,manually_included
 swim,torpedo,pos,not_certain,wn_hypernym
@@ -121,9 +121,9 @@ swim,hippo,pos,not_certain,cslb wn_hypernym
 swim,loach,pos,not_certain,wn_hypernym
 swim,capelin,pos,not_certain,wn_hypernym
 swim,cod,pos,not_certain,cslb wn_hypernym
-swim,tortoise,pos/neg,certain,wn_hypernym manually_included
-swim,dog,pos/neg,certain,wn_hypernym manually_included
-swim,cat,pos/neg,certain,wn_hypernym manually_included
+swim,tortoise,pos,certain,wn_hypernym manually_included
+swim,dog,pos,certain,wn_hypernym manually_included
+swim,cat,pos,certain,wn_hypernym manually_included
 swim,mouse,pos/neg,not_certain,wn_hypernym
 swim,world,pos/neg,not_certain,wn_hypernym
 swim,vervet,pos/neg,not_certain,wn_hypernym
@@ -514,11 +514,11 @@ fly,sheepshead,neg,not_certain,wn_hypernym
 fly,shark,neg,not_certain,wn_hypernym
 fly,groundhog,neg,not_certain,wn_hypernym
 fly,lizardfish,neg,not_certain,wn_hypernym
-fly,ostrich,pos,certain,wn_hypernym manually_included
+fly,ostrich,neg,certain,wn_hypernym manually_included
 fly,helicopter,pos,certain,cslb wn_hypernym conceptnet manually_included
 fly,kite,pos,certain,cslb wn_hypernym manually_included
 fly,crane,pos,certain,wn_hypernym manually_included
-fly,penguin,pos,certain,wn_hypernym manually_included
+fly,penguin,neg,certain,wn_hypernym manually_included
 fly,seagull,pos,certain,cslb wn_hypernym manually_included
 fly,gull,pos,not_certain,wn_hypernym
 fly,arrow,pos,not_certain,cslb conceptnet
@@ -575,10 +575,10 @@ fly,skimmer,pos,not_certain,wn_hypernym
 fly,pheasant,pos,not_certain,wn_hypernym
 fly,emu,pos,not_certain,wn_hypernym
 fly,merganser,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model wn_hypernym wikipedia_sgns_model
-fly,ship,pos/neg,certain,wn_hypernym manually_included
-fly,plane,pos/neg,certain,wn_hypernym conceptnet manually_included
-fly,car,pos/neg,certain,wn_hypernym manually_included
-fly,boat,pos/neg,certain,wn_hypernym manually_included
+fly,ship,neg,certain,wn_hypernym manually_included
+fly,plane,pos,certain,wn_hypernym conceptnet manually_included
+fly,car,neg,certain,wn_hypernym manually_included
+fly,boat,neg,certain,wn_hypernym manually_included
 fly,motacilla,neg/pos,not_certain,wikipedia_sgns_model
 fly,clarence,pos/neg,not_certain,wn_hypernym
 fly,yawl,pos/neg,not_certain,wn_hypernym

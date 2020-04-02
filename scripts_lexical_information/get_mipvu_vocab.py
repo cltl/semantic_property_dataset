@@ -66,7 +66,7 @@ def pos_tag_mapping(pos):
 def main():
     path = '../../../Data/mipvu/corpus/VUAMC.xml'
     met_vocab, pos_type_counts = load_mipvu_metaphors(path)
-    #_met_voacb_to_file(met_vocab)
+    met_voacb_to_file(met_vocab)
 
     for pos, types in pos_type_counts.items():
         print(pos, len(types))

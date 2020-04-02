@@ -1,6 +1,6 @@
 property,lemma,label,certainty,sources_str
-warm,soup,neg,certain,cslb manually_included
-warm,water,neg,certain,conceptnet manually_included
+warm,soup,pos,certain,cslb manually_included
+warm,water,pos,certain,conceptnet manually_included
 warm,argument,neg,certain,manually_included
 warm,bikini,neg,certain,manually_included
 warm,idea,neg,certain,manually_included
@@ -667,7 +667,7 @@ green,peony,neg,not_certain,veale_simile
 green,robin,neg,not_certain,cslb
 green,radish,neg,not_certain,cslb veale_simile
 green,grass,pos,certain,manually_included
-green,tomato,pos,certain,conceptnet cslb veale_simile manually_included
+green,tomato,neg,certain,conceptnet cslb veale_simile manually_included
 green,paint,pos,certain,manually_included
 green,party,pos,certain,manually_included
 green,spinach,pos,certain,cslb manually_included
@@ -946,9 +946,9 @@ sweet,pork,pos,not_certain,conceptnet
 sweet,dessert,neg/pos/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
 sweet,sultana,pos,not_certain,cslb wn_hypernym
 sweet,rhubarb,pos,not_certain,cslb wn_hypernym
-sweet,cucumber,pos/neg,certain,wn_hypernym manually_included
-sweet,cheese,pos/neg,certain,cslb manually_included
-sweet,lime,pos/neg,certain,wn_hypernym manually_included
+sweet,cucumber,neg,certain,wn_hypernym manually_included
+sweet,cheese,neg,certain,cslb manually_included
+sweet,lime,neg,certain,wn_hypernym manually_included
 sweet,pomegranate,pos/neg,not_certain,wn_hypernym
 sweet,fruit,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
 sweet,tabasco,pos/neg,not_certain,wn_hypernym
@@ -1719,8 +1719,8 @@ juicy,raspberry,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
 juicy,lemon,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym wikipedia_sgns_model cslb wn_hypernym
 juicy,grapefruit,pos,not_certain,cslb wn_hypernym
 juicy,currant,pos,certain,wikipedia_sgns_model cslb wn_hypernym cslb_crowd_pos
-juicy,banana,pos/neg,certain,wikipedia_sgns_model wn_hypernym manually_included
-juicy,potato,pos/neg,certain,wikipedia_sgns_model cslb wn_hypernym manually_included
+juicy,banana,neg,certain,wikipedia_sgns_model wn_hypernym manually_included
+juicy,potato,neg,certain,wikipedia_sgns_model cslb wn_hypernym manually_included
 juicy,honey,neg/pos,not_certain,wikipedia_sgns_model
 juicy,almond,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
 juicy,saskatoon,pos/neg,not_certain,wn_hypernym

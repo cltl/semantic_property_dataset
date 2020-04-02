@@ -16,7 +16,7 @@ wheels,schooner,neg,certain,cslb_crowd_neg
 wheels,trawler,neg,certain,cslb_crowd_neg
 wheels,warship,neg,certain,cslb_crowd_neg
 wheels,train,pos,certain,cslb manually_included
-wheels,sedan,pos,certain,wikipedia_sgns_model wn_parts manually_included
+wheels,sedan,neg,certain,wikipedia_sgns_model wn_parts manually_included
 wheels,unicycle,pos,certain,wn_parts cslb manually_included
 wheels,carriage,pos,certain,wn_parts cslb manually_included
 wheels,car,pos,certain,wikipedia_sgns_model wn_parts mcrae cslb manually_included
@@ -176,7 +176,7 @@ wings,pickup,neg,not_certain,wn_parts
 wings,oxcart,neg,not_certain,wn_parts
 wings,chicken,pos,certain,wn_parts manually_included
 wings,crane,pos,certain,wn_parts manually_included
-wings,kite,pos,certain,wn_parts manually_included
+wings,kite,neg,certain,wn_parts manually_included
 wings,airplane,pos,certain,wn_parts manually_included
 wings,skimmer,pos,not_certain,wn_parts
 wings,monarch,pos,not_certain,wn_parts
